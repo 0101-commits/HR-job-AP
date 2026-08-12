@@ -195,6 +195,7 @@ def validate_jobs(jobs: list[dict[str, Any]]) -> list[str]:
 
 def refresh_metadata(jobs: list[dict[str, Any]], meta: dict[str, Any]) -> dict[str, Any]:
     updated = dict(meta)
+    updated.pop("mode", None)  # v2.0 샘플 모드 잔재 제거
     updated["updated_at"] = now_iso()
     updated["total_jobs"] = len(jobs)
     updated["review_jobs"] = sum(1 for job in jobs if job.get("hr_confidence") == "review")
