@@ -1,0 +1,118 @@
+﻿<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="기업 채용 사이트를 원천으로 수집하는 HR 직무 채용공고 레이더">
+  <title>HR 채용 레이더</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="title-block">
+        <p class="eyebrow">HR Job Radar</p>
+        <h1>HR 채용 레이더</h1>
+      </div>
+      <div class="sync-panel" aria-live="polite">
+        <span id="syncTime">데이터 로딩 중</span>
+        <strong id="newCount">신규 0</strong>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="공고 탐색">
+        <nav class="tabs" aria-label="목록 탭">
+          <button class="tab is-active" type="button" data-tab="all">전체 <span id="tabAll">0</span></button>
+          <button class="tab" type="button" data-tab="new">신규 <span id="tabNew">0</span></button>
+          <button class="tab" type="button" data-tab="saved">북마크 <span id="tabSaved">0</span></button>
+          <button class="tab" type="button" data-tab="review">검토 필요 <span id="tabReview">0</span></button>
+          <button class="tab" type="button" data-tab="coverage">커버리지</button>
+        </nav>
+
+        <div class="filter-header">
+          <label class="search-field" for="searchInput">
+            <span>검색</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="회사, 제목, 분류">
+          </label>
+          <button class="filter-toggle" id="openFilters" type="button">필터</button>
+        </div>
+
+        <div class="filters" id="filtersPanel">
+          <div class="filter-row" aria-label="직무 분류">
+            <button class="chip" type="button" data-role="TA">TA</button>
+            <button class="chip" type="button" data-role="HRM">HRM</button>
+            <button class="chip" type="button" data-role="HRD">HRD</button>
+            <button class="chip" type="button" data-role="CB">C&amp;B</button>
+            <button class="chip" type="button" data-role="ER">ER</button>
+            <button class="chip" type="button" data-role="OD">OD</button>
+            <button class="chip" type="button" data-role="BP">BP</button>
+            <button class="chip" type="button" data-role="PAY">PAY</button>
+            <button class="chip" type="button" data-role="HRC">HRC</button>
+          </div>
+
+          <div class="filter-row filter-row-secondary">
+            <div class="segment" aria-label="직급">
+              <button class="is-active" type="button" data-grade="all">전체</button>
+              <button type="button" data-grade="member">실무자</button>
+              <button type="button" data-grade="mid">준리더</button>
+              <button type="button" data-grade="lead">리더급</button>
+            </div>
+            <label class="select-field">
+              <span>그룹</span>
+              <select id="groupSelect">
+                <option value="all">전체</option>
+              </select>
+            </label>
+            <label class="select-field">
+              <span>연차</span>
+              <select id="expSelect">
+                <option value="all">전체</option>
+                <option value="junior">0-3년</option>
+                <option value="mid">4-7년</option>
+                <option value="senior">8년 이상</option>
+              </select>
+            </label>
+            <label class="select-field">
+              <span>정렬</span>
+              <select id="sortSelect">
+                <option value="latest">최신순</option>
+                <option value="deadline">마감 임박순</option>
+                <option value="company">회사명순</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="sheet-actions">
+            <button class="secondary-button" id="clearFilters" type="button">초기화</button>
+            <button class="primary-button" id="closeFilters" type="button">결과 보기</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="status-line" aria-live="polite">
+        <span id="resultSummary">결과 0건</span>
+        <span id="coverageSummary">커버리지 대기</span>
+      </section>
+
+      <section class="list-surface" id="jobsView" aria-label="공고 목록">
+        <div class="loading-state" id="loadingState">
+          <span></span><span></span><span></span>
+        </div>
+        <div class="empty-state is-hidden" id="emptyState">
+          <h2>조건에 맞는 공고가 없습니다</h2>
+          <p>필터를 줄이거나 검토 필요 탭을 확인하세요.</p>
+        </div>
+        <div class="job-list" id="jobList" role="listbox" aria-label="HR 채용공고"></div>
+      </section>
+
+      <section class="coverage-surface is-hidden" id="coverageView" aria-label="커버리지 현황">
+        <div class="coverage-list" id="coverageList"></div>
+      </section>
+    </main>
+  </div>
+
+  <div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+{
+  "version": "2.0",
+  "categories": {
+    "TA": {
+      "label": "채용",
+      "ko": ["채용", "리크루터", "인재영입", "리크루팅", "채용 브랜딩"],
+      "en": ["recruiter", "talent acquisition", "sourcer", "recruiting", "campus recruiting"]
+    },
+    "HRM": {
+      "label": "인사운영·기획",
+      "ko": ["인사기획", "인사운영", "인사제도", "인사행정", "인력계획"],
+      "en": ["hrm", "people ops", "hr generalist", "human resources", "hr operations", "hr administration"]
+    },
+    "HRD": {
+      "label": "교육·육성",
+      "ko": ["교육", "육성", "리더십개발", "온보딩", "교육체계", "교육 프로그램"],
+      "en": ["hrd", "l&d", "learning", "leadership development", "training", "learning & development", "organizational learning"]
+    },
+    "CB": {
+      "label": "평가·보상",
+      "ko": ["보상", "평가", "성과관리", "복리후생", "보상제도", "보상기획", "총보상"],
+      "en": ["c&b", "compensation", "benefits", "total rewards", "performance", "compensation & benefits", "performance management"]
+    },
+    "ER": {
+      "label": "노무",
+      "ko": ["노무", "노사", "노무사", "노사협력", "취업규칙", "노무 리스크"],
+      "en": ["employee relations", "labor", "labour", "labor relations", "industrial relations"]
+    },
+    "OD": {
+      "label": "조직문화·OD",
+      "ko": ["조직문화", "조직개발", "조직진단", "조직설계", "조직 효과성"],
+      "en": ["od", "culture", "engagement", "organization design", "organization development", "organizational effectiveness", "employee experience"]
+    },
+    "BP": {
+      "label": "HRBP",
+      "ko": ["사업부 인사", "HRBP", "현업 인사"],
+      "en": ["hrbp", "people partner", "business partner", "hr business partner"]
+    },
+    "PAY": {
+      "label": "급여",
+      "ko": ["급여", "4대보험", "급여정산", "급여관리"],
+      "en": ["payroll", "payroll administration", "payroll processing"]
+    },
+    "HRC": {
+      "label": "HR컨설팅",
+      "ko": ["HR컨설팅", "인사제도 컨설턴트", "조직설계", "직무분석", "인사 컨설턴트", "HR 어드바이저리"],
+      "en": ["human capital", "people consulting", "people & organization", "people and organization", "people & change", "workforce transformation", "hr advisory", "job architecture", "organization strategy", "organization transformation", "people advisory", "talent strategy"]
+    }
+  },
+  "practice_map": {
+    "McKinsey": {"Organizational Structure": ["HRC", "OD"], "People & Organizational Performance": ["HRC", "OD"]},
+    "BCG": {"People & Organization": ["HRC", "OD"], "People Strategy": ["HRC"]},
+    "Bain": {"Organization": ["HRC", "OD"], "Results Delivery": ["HRC"]},
+    "Deloitte": {"Human Capital": ["HRC"], "Organization Transformation": ["HRC", "OD"], "Workforce Transformation": ["HRC"]},
+    "EY": {"People Consulting": ["HRC"], "People Advisory Services": ["HRC"], "Workforce Advisory": ["HRC"]},
+    "KPMG": {"People & Change": ["HRC", "OD"], "HR Transformation": ["HRC"]},
+    "PwC": {"People & Organisation": ["HRC", "OD"], "Workforce Strategy": ["HRC"]},
+    "Mercer": {"Career": ["HRC", "CB"], "Workforce Solutions": ["HRC"], "Total Rewards": ["CB"]},
+    "Korn Ferry": {"Organization Strategy": ["HRC", "OD"], "Total Rewards": ["CB", "HRC"], "Talent Acquisition": ["TA"]},
+    "WTW": {"Work & Rewards": ["CB", "HRC"], "Talent": ["HRC", "TA"], "Employee Experience": ["OD"]},
+    "Aon": {"Human Capital Solutions": ["HRC"], "Talent Solutions": ["HRC", "TA"], "Rewards Solutions": ["CB"]},
+    "Oliver Wyman": {"Organizational Effectiveness": ["HRC", "OD"]}
+  },
+  "broad_hr_signals": ["인사", "hr", "people", "human resources", "talent", "organization", "workforce"]
+}

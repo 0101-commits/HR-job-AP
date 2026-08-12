@@ -1,0 +1,506 @@
+[
+  {
+    "id": "sk-20260812-cb-lead",
+    "source": "sk",
+    "source_label": "SK Careers",
+    "url": "https://www.skcareers.com/",
+    "title": "보상기획 팀장",
+    "company": "SK이노베이션",
+    "company_group": "SK",
+    "role": [
+      "CB"
+    ],
+    "grade": "lead",
+    "exp_min": 10,
+    "exp_max": null,
+    "deadline": "2026-08-15",
+    "location": "서울",
+    "first_seen": "2026-08-12T09:03:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "성과관리, 보상제도, C&B 기획을 담당합니다."
+  },
+  {
+    "id": "deloitte-20260812-hrc-ot",
+    "source": "deloitte",
+    "source_label": "Deloitte Careers",
+    "url": "https://www2.deloitte.com/kr/ko/careers.html",
+    "title": "Human Capital Organization Transformation 컨설턴트",
+    "company": "딜로이트 컨설팅",
+    "company_group": "딜로이트",
+    "role": [
+      "HRC",
+      "OD"
+    ],
+    "grade": "mid",
+    "exp_min": 4,
+    "exp_max": 7,
+    "deadline": null,
+    "location": "서울",
+    "first_seen": "2026-08-12T13:02:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [
+      "saramin"
+    ],
+    "description": "Human Capital, organization design, workforce transformation 프로젝트 수행"
+  },
+  {
+    "id": "kakaopay-20260812-total-rewards",
+    "source": "kakao",
+    "source_label": "Kakao Careers",
+    "url": "https://careers.kakao.com/",
+    "title": "Compensation & Benefits Lead",
+    "company": "카카오페이",
+    "company_group": "카카오",
+    "role": [
+      "CB"
+    ],
+    "grade": "lead",
+    "exp_min": 8,
+    "exp_max": null,
+    "deadline": "2026-08-31",
+    "location": "성남",
+    "first_seen": "2026-08-12T13:02:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "Total Rewards, compensation planning, benefit operation"
+  },
+  {
+    "id": "woowa-20260811-total-rewards",
+    "source": "wanted",
+    "source_label": "원티드 안전망",
+    "url": "https://www.wanted.co.kr/",
+    "title": "Total Rewards 담당",
+    "company": "우아한형제들",
+    "company_group": "우아한형제들",
+    "role": [
+      "CB"
+    ],
+    "grade": "mid",
+    "exp_min": 8,
+    "exp_max": 12,
+    "deadline": "2026-09-03",
+    "location": "서울",
+    "first_seen": "2026-08-11T17:05:00+09:00",
+    "hr_confidence": "review",
+    "also_on": [
+      "wanted"
+    ],
+    "description": "평가와 보상 운영, 복리후생 정책 검토"
+  },
+  {
+    "id": "lg-20260812-hrbp",
+    "source": "lg",
+    "source_label": "LG Careers",
+    "url": "https://careers.lg.com/",
+    "title": "사업부 HRBP 담당",
+    "company": "LG전자",
+    "company_group": "LG",
+    "role": [
+      "BP",
+      "HRM"
+    ],
+    "grade": "mid",
+    "exp_min": 5,
+    "exp_max": 9,
+    "deadline": "2026-08-25",
+    "location": "서울",
+    "first_seen": "2026-08-12T09:20:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "사업부 인사 운영, 인력계획, 조직 이슈 대응"
+  },
+  {
+    "id": "lotte-20260810-ta",
+    "source": "lotte",
+    "source_label": "롯데그룹 채용",
+    "url": "https://recruit.lotte.co.kr/",
+    "title": "채용 브랜딩 및 리크루팅 담당",
+    "company": "롯데지주",
+    "company_group": "롯데",
+    "role": [
+      "TA"
+    ],
+    "grade": "member",
+    "exp_min": 3,
+    "exp_max": 6,
+    "deadline": "2026-08-29",
+    "location": "서울",
+    "first_seen": "2026-08-10T13:15:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "채용 브랜딩, 후보자 커뮤니케이션, 리크루팅 프로세스 운영"
+  },
+  {
+    "id": "mercer-20260812-career-consultant",
+    "source": "mercer",
+    "source_label": "Mercer Careers",
+    "url": "https://www.mercer.com/careers/",
+    "title": "Career Consulting Analyst",
+    "company": "Mercer Korea",
+    "company_group": "Mercer",
+    "role": [
+      "HRC",
+      "CB"
+    ],
+    "grade": "member",
+    "exp_min": 1,
+    "exp_max": 4,
+    "deadline": null,
+    "location": "Seoul",
+    "first_seen": "2026-08-12T09:45:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "Career framework, job architecture, rewards consulting support"
+  },
+  {
+    "id": "cj-20260809-hrd",
+    "source": "cj",
+    "source_label": "CJ Recruit",
+    "url": "https://recruit.cj.net/",
+    "title": "리더십 교육 프로그램 기획",
+    "company": "CJ제일제당",
+    "company_group": "CJ",
+    "role": [
+      "HRD"
+    ],
+    "grade": "member",
+    "exp_min": 4,
+    "exp_max": 8,
+    "deadline": "2026-08-22",
+    "location": "서울",
+    "first_seen": "2026-08-09T09:05:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "리더십 개발, 온보딩, 교육 체계 수립"
+  },
+  {
+    "id": "hanwha-20260812-er",
+    "source": "hanwha",
+    "source_label": "Hanwhain",
+    "url": "https://www.hanwhain.com/",
+    "title": "노사협력 및 노무 리스크 관리",
+    "company": "한화솔루션",
+    "company_group": "한화",
+    "role": [
+      "ER"
+    ],
+    "grade": "mid",
+    "exp_min": 6,
+    "exp_max": 10,
+    "deadline": "2026-08-20",
+    "location": "서울",
+    "first_seen": "2026-08-12T13:11:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "노무 이슈 대응, 노사협력, 취업규칙 관리"
+  },
+  {
+    "id": "bcg-20260812-people-org",
+    "source": "phenom",
+    "source_label": "BCG Careers",
+    "url": "https://careers.bcg.com/",
+    "title": "People & Organization Practice - Consultant",
+    "company": "BCG Korea",
+    "company_group": "BCG",
+    "role": [
+      "HRC",
+      "OD"
+    ],
+    "grade": "mid",
+    "exp_min": 3,
+    "exp_max": 7,
+    "deadline": null,
+    "location": "Seoul",
+    "first_seen": "2026-08-12T13:02:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "People & Organization practice consulting, organization design, talent strategy"
+  },
+  {
+    "id": "samsung-20260812-hrm",
+    "source": "samsung",
+    "source_label": "삼성 Careers",
+    "url": "https://www.samsungcareers.com/",
+    "title": "인사기획 담당 (Global HR)",
+    "company": "삼성전자",
+    "company_group": "삼성",
+    "role": [
+      "HRM"
+    ],
+    "grade": "mid",
+    "exp_min": 5,
+    "exp_max": 10,
+    "deadline": "2026-09-05",
+    "location": "수원",
+    "first_seen": "2026-08-12T09:15:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [
+      "saramin"
+    ],
+    "description": "글로벌 인사제도 기획, 해외법인 HR 지원"
+  },
+  {
+    "id": "naver-20260812-od",
+    "source": "naver",
+    "source_label": "네이버 채용",
+    "url": "https://recruit.navercorp.com/",
+    "title": "조직문화 담당",
+    "company": "네이버",
+    "company_group": "네이버",
+    "role": [
+      "OD"
+    ],
+    "grade": "member",
+    "exp_min": 3,
+    "exp_max": 6,
+    "deadline": "2026-08-28",
+    "location": "성남",
+    "first_seen": "2026-08-12T13:05:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "조직문화 프로그램 기획/운영, 구성원 경험 설계"
+  },
+  {
+    "id": "ey-20260811-people-consulting",
+    "source": "ey",
+    "source_label": "EY Careers",
+    "url": "https://careers.ey.com/",
+    "title": "People Consulting - Senior Consultant",
+    "company": "EY한영",
+    "company_group": "EY",
+    "role": [
+      "HRC"
+    ],
+    "grade": "mid",
+    "exp_min": 4,
+    "exp_max": 8,
+    "deadline": null,
+    "location": "서울",
+    "first_seen": "2026-08-11T09:30:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "People Consulting practice, HR transformation, workforce analytics"
+  },
+  {
+    "id": "kb-20260812-pay",
+    "source": "careerlink",
+    "source_label": "KB금융 커리어링크",
+    "url": "https://careers.kbfg.com/",
+    "title": "급여정산 및 4대보험 관리",
+    "company": "KB국민은행",
+    "company_group": "KB금융",
+    "role": [
+      "PAY"
+    ],
+    "grade": "member",
+    "exp_min": 2,
+    "exp_max": 5,
+    "deadline": "2026-08-18",
+    "location": "서울",
+    "first_seen": "2026-08-12T09:08:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "급여 정산, 4대보험 신고, 연말정산 업무"
+  },
+  {
+    "id": "hyundai-20260811-ta",
+    "source": "hyundai",
+    "source_label": "현대차 Talent",
+    "url": "https://talent.hyundai.com/",
+    "title": "글로벌 채용 매니저",
+    "company": "현대자동차",
+    "company_group": "현대차",
+    "role": [
+      "TA"
+    ],
+    "grade": "mid",
+    "exp_min": 5,
+    "exp_max": 10,
+    "deadline": "2026-08-26",
+    "location": "서울",
+    "first_seen": "2026-08-11T13:22:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [
+      "saramin"
+    ],
+    "description": "글로벌 채용 전략 수립, 해외 우수인재 영입"
+  },
+  {
+    "id": "posco-20260810-hrd",
+    "source": "posco",
+    "source_label": "포스코 채용",
+    "url": "https://recruit.posco.com/",
+    "title": "그룹 교육체계 기획 (리더십/DX)",
+    "company": "포스코홀딩스",
+    "company_group": "포스코",
+    "role": [
+      "HRD"
+    ],
+    "grade": "mid",
+    "exp_min": 5,
+    "exp_max": 9,
+    "deadline": "2026-08-30",
+    "location": "서울",
+    "first_seen": "2026-08-10T09:10:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "그룹 교육 체계 수립, 리더십/DX 교육 프로그램 기획"
+  },
+  {
+    "id": "kpmg-20260812-people-change",
+    "source": "kpmg",
+    "source_label": "삼정KPMG",
+    "url": "https://www.kpmg.com/kr/",
+    "title": "People & Change 컨설턴트",
+    "company": "삼정KPMG",
+    "company_group": "KPMG",
+    "role": [
+      "HRC",
+      "OD"
+    ],
+    "grade": "member",
+    "exp_min": 2,
+    "exp_max": 5,
+    "deadline": null,
+    "location": "서울",
+    "first_seen": "2026-08-12T13:10:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [
+      "saramin"
+    ],
+    "description": "인사제도 설계, 조직진단, HR 트랜스포메이션"
+  },
+  {
+    "id": "gs-20260811-hrm",
+    "source": "jobflex",
+    "source_label": "JOBFLEX GS칼텍스",
+    "url": "https://gscaltex.recruiter.co.kr/",
+    "title": "인사운영 담당 (4-7년)",
+    "company": "GS칼텍스",
+    "company_group": "GS",
+    "role": [
+      "HRM"
+    ],
+    "grade": "member",
+    "exp_min": 4,
+    "exp_max": 7,
+    "deadline": "2026-09-01",
+    "location": "서울",
+    "first_seen": "2026-08-11T09:12:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "인사운영 전반, 인력 계획, 인사행정"
+  },
+  {
+    "id": "review-20260812-staff",
+    "source": "wanted",
+    "source_label": "원티드 안전망",
+    "url": "https://www.wanted.co.kr/",
+    "title": "경영지원 총괄 (HR/재무)",
+    "company": "스타트업A",
+    "company_group": null,
+    "role": [
+      "HRM"
+    ],
+    "grade": "lead",
+    "exp_min": 10,
+    "exp_max": null,
+    "deadline": "2026-09-10",
+    "location": "서울",
+    "first_seen": "2026-08-12T13:08:00+09:00",
+    "hr_confidence": "review",
+    "also_on": [
+      "wanted"
+    ],
+    "description": "경영지원 전반 관리, 인사/재무 통합 운영"
+  },
+  {
+    "id": "wtw-20260812-rewards",
+    "source": "oracle_orc",
+    "source_label": "WTW Careers",
+    "url": "https://careers.wtwco.com/",
+    "title": "Work & Rewards Analyst",
+    "company": "WTW Korea",
+    "company_group": "WTW",
+    "role": [
+      "CB",
+      "HRC"
+    ],
+    "grade": "member",
+    "exp_min": 1,
+    "exp_max": 4,
+    "deadline": null,
+    "location": "Seoul",
+    "first_seen": "2026-08-12T09:50:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "Compensation benchmarking, rewards strategy, job evaluation"
+  },
+  {
+    "id": "kornferry-20260810-total-rewards",
+    "source": "oleeo",
+    "source_label": "Korn Ferry Careers",
+    "url": "https://www.kornferry.com/careers",
+    "title": "Total Rewards Associate",
+    "company": "Korn Ferry Korea",
+    "company_group": "Korn Ferry",
+    "role": [
+      "CB",
+      "HRC"
+    ],
+    "grade": "member",
+    "exp_min": 2,
+    "exp_max": 5,
+    "deadline": null,
+    "location": "Seoul",
+    "first_seen": "2026-08-10T09:30:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "Total rewards consulting, pay equity analysis, job architecture"
+  },
+  {
+    "id": "sk-20260812-hrbp",
+    "source": "sk",
+    "source_label": "SK Careers",
+    "url": "https://www.skcareers.com/",
+    "title": "반도체사업 HRBP",
+    "company": "SK하이닉스",
+    "company_group": "SK",
+    "role": [
+      "BP"
+    ],
+    "grade": "mid",
+    "exp_min": 7,
+    "exp_max": 12,
+    "deadline": "2026-08-25",
+    "location": "이천",
+    "first_seen": "2026-08-12T09:05:00+09:00",
+    "hr_confidence": "high",
+    "also_on": [],
+    "description": "반도체사업부 인사 파트너링, 조직/인력 이슈 대응"
+  },
+  {
+    "id": "review-20260812-mgmt-support",
+    "source": "saramin",
+    "source_label": "사람인 안전망",
+    "url": "https://www.saramin.co.kr/",
+    "title": "경영지원팀 사원 (총무/인사)",
+    "company": "중견기업B",
+    "company_group": null,
+    "role": [
+      "HRM"
+    ],
+    "grade": "member",
+    "exp_min": 0,
+    "exp_max": 3,
+    "deadline": "2026-09-15",
+    "location": "서울",
+    "first_seen": "2026-08-12T09:30:00+09:00",
+    "hr_confidence": "review",
+    "also_on": [
+      "saramin"
+    ],
+    "description": "총무/인사 통합 업무 — HR 단독 직무인지 불분명"
+  }
+]
