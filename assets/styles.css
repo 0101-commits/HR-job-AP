@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   color-scheme: light;
   --bg-body: #f1f1f1;
   --bg-surface: #ffffff;
@@ -70,6 +70,8 @@ body {
   font-family: Figtree, Pretendard, "Pretendard Variable", -apple-system, BlinkMacSystemFont, "Segoe UI", "Malgun Gothic", "Apple SD Gothic Neo", Roboto, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.55;
+  word-break: keep-all;
+  overflow-wrap: break-word;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -388,11 +390,13 @@ h1 {
   gap: 14px;
   align-items: start;
   width: 100%;
-  padding: 12px 12px 12px 14px;
+  padding: 14px 14px 14px 16px;
   border-bottom: 1px solid var(--border);
   color: inherit;
   text-decoration: none;
   background: transparent;
+  word-break: keep-all;
+  overflow-wrap: break-word;
 }
 
 .job-row:last-child {
@@ -412,22 +416,28 @@ h1 {
   min-width: 0;
 }
 
-.job-title-line,
-.job-meta-line {
+.job-title-line {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 8px;
   flex-wrap: wrap;
-}
-
-.job-title-line {
-  margin-bottom: 4px;
+  margin-bottom: 6px;
 }
 
 .job-title {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
+  line-height: 1.4;
   color: var(--text-1);
+  text-decoration: none;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+  transition: color 0.15s ease;
+}
+
+.job-title:hover {
+  color: var(--info);
+  text-decoration: underline;
 }
 
 .job-row.is-read .job-title {
@@ -436,13 +446,44 @@ h1 {
 }
 
 .job-meta-line {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
   color: var(--text-2);
   font-size: 12px;
+  line-height: 1.4;
+  word-break: keep-all;
 }
 
 .company {
   color: var(--text-1);
   font-weight: 700;
+}
+
+.group-tag {
+  color: var(--text-2);
+  font-size: 12px;
+}
+
+.group-tag::before {
+  content: "(";
+}
+.group-tag::after {
+  content: ")";
+}
+
+.job-desc {
+  margin: 6px 0 0 0;
+  color: var(--text-2);
+  font-size: 12.5px;
+  line-height: 1.45;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .token,
@@ -456,6 +497,7 @@ h1 {
   color: var(--text-2);
   font-size: 11px;
   line-height: 1;
+  white-space: nowrap;
 }
 
 .token.role {
@@ -498,10 +540,14 @@ h1 {
 
 .job-action {
   min-width: 30px;
-  padding: 3px 7px;
+  padding: 3px 8px;
   background: var(--neutral);
   color: var(--text-1);
   font-size: 12px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .job-action:hover {

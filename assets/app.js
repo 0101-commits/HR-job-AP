@@ -1,4 +1,4 @@
-﻿const state = {
+const state = {
   jobs: [],
   coverage: [],
   meta: {},
@@ -224,16 +224,20 @@ function renderJobs() {
     });
   });
 
-  els.jobList.querySelectorAll(".open-button").forEach((button) => {
-    button.addEventListener("click", (event) => {
-      event.preventDefault();
+  els.jobList.querySelectorAll("a.job-title, a.open-button").forEach((link) => {
+    link.addEventListener("click", (event) => {
       event.stopPropagation();
-      openJob(button.dataset.id);
+      const id = link.dataset.id;
+      if (id) {
+        state.readJobs.add(id);
+        localStorage.setItem("hrRadarReadJobs", JSON.stringify([...state.readJobs]));
+      }
     });
   });
 
   els.jobList.querySelectorAll(".job-row").forEach((row) => {
-    row.addEventListener("click", () => {
+    row.addEventListener("click", (event) => {
+      if (event.target.closest("a, button")) return;
       state.selectedIndex = Number(row.dataset.index);
       renderJobs();
     });
@@ -293,17 +297,18 @@ function jobTemplate(job, index) {
   const deadline = formatDeadline(job.deadline);
   const selected = index === state.selectedIndex;
   const exp = formatExp(job.exp_min, job.exp_max);
+  const desc = job.description ? `<p class="job-desc">${escapeHtml(job.description)}</p>` : "";
 
   return `
     <article class="job-row ${isRead ? "is-read" : ""} ${isInterest ? "is-interest" : ""} ${selected ? "is-selected" : ""}" role="option" aria-selected="${selected}" data-id="${escapeHtml(job.id)}" data-index="${index}">
       <div class="job-main">
         <div class="job-title-line">
           ${isPersonalNew(job) ? '<span class="new-badge">NEW</span>' : ""}
-          <span class="job-title">${escapeHtml(job.title)}</span>
+          <a class="job-title" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer" data-id="${escapeHtml(job.id)}">${escapeHtml(job.title)}</a>
         </div>
         <div class="job-meta-line">
           <span class="company">${escapeHtml(job.company)}</span>
-          ${job.company_group ? `<span>${escapeHtml(job.company_group)}</span>` : ""}
+          ${job.company_group ? `<span class="group-tag">${escapeHtml(job.company_group)}</span>` : ""}
           ${roles}
           ${grade}
           ${exp ? `<span class="token">${escapeHtml(exp)}</span>` : ""}
@@ -311,14 +316,15 @@ function jobTemplate(job, index) {
           ${review}
           ${safety}
         </div>
+        ${desc}
       </div>
       <div class="job-side">
         <div class="job-actions">
           <button class="job-action bookmark-button" type="button" data-id="${escapeHtml(job.id)}" aria-label="북마크">${isSaved ? "★" : "☆"}</button>
-          <button class="job-action open-button" type="button" data-id="${escapeHtml(job.id)}">원문</button>
+          <a class="job-action open-button" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer" data-id="${escapeHtml(job.id)}">원문 ↗</a>
         </div>
         <span class="deadline ${deadline.hot ? "is-hot" : ""}">${escapeHtml(deadline.text)}</span>
-        <span>${escapeHtml(job.source_label || job.source || "")}</span>
+        <span class="source-label-text">${escapeHtml(job.source_label || job.source || "")}</span>
       </div>
     </article>
   `;
