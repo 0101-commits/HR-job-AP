@@ -1,5 +1,24 @@
 [
   {
+    "id": "wanted-380269",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/380269",
+    "title": "[ESTsoft] HRM 담당자 (4년 이상)",
+    "company": "이스트소프트(ESTsoft)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": 4,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "wanted-380252",
     "source": "wanted",
     "source_label": "원티드",
@@ -11,11 +30,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-380240",
@@ -33,7 +53,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-380194",
@@ -49,7 +70,8 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-380044",
@@ -67,7 +89,8 @@
     "grade": "member",
     "exp_min": 3,
     "exp_max": 7,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-380036",
@@ -81,11 +104,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 6,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-380000",
@@ -99,11 +123,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379994",
@@ -115,11 +140,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "HRM"
+      "PAY"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379910",
@@ -137,7 +165,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379860",
@@ -155,7 +184,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379667",
@@ -169,11 +199,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "member",
+    "hr_confidence": "high",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379527",
@@ -191,7 +222,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379381",
@@ -209,7 +241,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379307",
@@ -223,11 +256,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379247",
@@ -241,11 +275,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379239",
@@ -259,11 +294,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379118",
@@ -277,11 +313,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "lead",
+    "hr_confidence": "high",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-379008",
@@ -295,11 +332,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378998",
@@ -317,7 +355,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378997",
@@ -331,11 +370,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "lead",
     "exp_min": 7,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378955",
@@ -349,11 +389,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 1,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378947",
@@ -367,11 +408,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378914",
@@ -385,11 +427,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 7,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378891",
@@ -403,11 +446,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 3,
     "exp_max": 6,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378861",
@@ -421,11 +465,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378855",
@@ -443,7 +488,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378731",
@@ -461,7 +507,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378705",
@@ -479,7 +526,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378616",
@@ -497,7 +545,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378549",
@@ -515,7 +564,8 @@
     "grade": "member",
     "exp_min": 1,
     "exp_max": 8,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378502",
@@ -533,7 +583,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378496",
@@ -551,7 +602,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378495",
@@ -565,11 +617,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378488",
@@ -583,11 +636,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378463",
@@ -605,7 +659,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378458",
@@ -621,7 +676,10 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378453",
@@ -635,11 +693,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378382",
@@ -653,11 +712,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378337",
@@ -675,7 +735,27 @@
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-378268",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/378268",
+    "title": "인사 운영",
+    "company": "취팡",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378258",
@@ -693,7 +773,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378241",
@@ -711,7 +792,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378221",
@@ -727,10 +809,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378186",
@@ -749,7 +832,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378156",
@@ -767,7 +851,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378112",
@@ -783,7 +868,8 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378097",
@@ -801,7 +887,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378095",
@@ -819,7 +906,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-378086",
@@ -837,7 +925,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377864",
@@ -855,7 +944,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377863",
@@ -874,7 +964,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377841",
@@ -889,10 +980,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "member",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377828",
@@ -910,7 +1002,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377827",
@@ -928,7 +1021,8 @@
     "grade": "member",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377787",
@@ -942,11 +1036,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377778",
@@ -964,7 +1059,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377774",
@@ -978,11 +1074,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377771",
@@ -1000,7 +1097,8 @@
     "grade": "member",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377767",
@@ -1018,7 +1116,8 @@
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377664",
@@ -1032,11 +1131,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377647",
@@ -1054,7 +1154,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377627",
@@ -1072,7 +1173,8 @@
     "grade": "member",
     "exp_min": 2,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377579",
@@ -1090,7 +1192,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377484",
@@ -1104,11 +1207,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377388",
@@ -1122,11 +1226,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377381",
@@ -1144,7 +1249,8 @@
     "grade": "member",
     "exp_min": 6,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377377",
@@ -1162,7 +1268,8 @@
     "grade": "member",
     "exp_min": 6,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377367",
@@ -1180,7 +1287,8 @@
     "grade": "member",
     "exp_min": 6,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377359",
@@ -1198,7 +1306,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377184",
@@ -1212,11 +1321,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377139",
@@ -1234,7 +1344,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377112",
@@ -1252,7 +1363,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-377029",
@@ -1266,11 +1378,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 2,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376993",
@@ -1284,11 +1397,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376968",
@@ -1302,11 +1416,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376815",
@@ -1324,7 +1439,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376811",
@@ -1342,7 +1458,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376745",
@@ -1356,11 +1473,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376682",
@@ -1378,7 +1496,8 @@
     "grade": "member",
     "exp_min": 7,
     "exp_max": 10,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376643",
@@ -1392,11 +1511,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376549",
@@ -1410,11 +1530,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376506",
@@ -1428,11 +1549,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376361",
@@ -1444,13 +1566,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "HRM"
+      "OD"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376292",
@@ -1468,7 +1591,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376290",
@@ -1486,7 +1610,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376226",
@@ -1500,11 +1625,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 4,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376218",
@@ -1519,10 +1645,11 @@
       "TA"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376198",
@@ -1540,7 +1667,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376196",
@@ -1558,7 +1686,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376082",
@@ -1576,7 +1705,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-376074",
@@ -1590,11 +1720,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375907",
@@ -1612,7 +1743,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375875",
@@ -1626,11 +1758,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375748",
@@ -1644,11 +1777,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375731",
@@ -1666,7 +1800,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375706",
@@ -1680,11 +1815,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": 7,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375515",
@@ -1702,7 +1838,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375506",
@@ -1716,11 +1853,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 8,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375505",
@@ -1738,7 +1876,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375426",
@@ -1752,11 +1891,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375362",
@@ -1774,7 +1914,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375340",
@@ -1792,7 +1933,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375311",
@@ -1808,7 +1950,8 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375250",
@@ -1826,7 +1969,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-375066",
@@ -1844,7 +1988,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374926",
@@ -1858,11 +2003,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374798",
@@ -1878,10 +2024,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374743",
@@ -1899,7 +2046,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374710",
@@ -1917,7 +2065,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374650",
@@ -1935,7 +2084,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374481",
@@ -1953,7 +2103,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374297",
@@ -1971,7 +2122,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374231",
@@ -1985,11 +2137,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374167",
@@ -2003,11 +2156,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374157",
@@ -2021,11 +2175,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374154",
@@ -2043,7 +2198,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374060",
@@ -2057,11 +2213,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374029",
@@ -2079,7 +2236,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374028",
@@ -2095,10 +2253,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-374003",
@@ -2114,10 +2273,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373858",
@@ -2135,7 +2295,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373845",
@@ -2150,10 +2311,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373822",
@@ -2171,7 +2333,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373797",
@@ -2187,7 +2350,8 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373731",
@@ -2204,10 +2368,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373726",
@@ -2223,10 +2388,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373693",
@@ -2244,7 +2410,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373577",
@@ -2258,11 +2425,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373538",
@@ -2278,10 +2446,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-373249",
@@ -2299,7 +2468,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-372853",
@@ -2317,7 +2487,8 @@
     "grade": "mid",
     "exp_min": 3,
     "exp_max": 7,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-372848",
@@ -2335,7 +2506,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-372797",
@@ -2349,11 +2521,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-372787",
@@ -2372,7 +2545,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-372654",
@@ -2390,7 +2564,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-372554",
@@ -2404,11 +2579,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-372355",
@@ -2422,11 +2598,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371999",
@@ -2444,7 +2621,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371860",
@@ -2462,7 +2640,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371857",
@@ -2480,7 +2659,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371779",
@@ -2494,11 +2674,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371709",
@@ -2516,7 +2697,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371511",
@@ -2528,11 +2710,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "HRM"
+      "OD"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371503",
@@ -2550,7 +2735,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371416",
@@ -2564,11 +2750,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371404",
@@ -2583,10 +2770,11 @@
       "TA"
     ],
     "hr_confidence": "high",
-    "grade": "member",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371331",
@@ -2600,11 +2788,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371253",
@@ -2618,11 +2807,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371218",
@@ -2636,11 +2826,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "lead",
+    "hr_confidence": "high",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371044",
@@ -2658,7 +2849,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-371035",
@@ -2672,11 +2864,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370985",
@@ -2690,11 +2883,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370957",
@@ -2712,7 +2906,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370942",
@@ -2726,11 +2921,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 3,
     "exp_max": 7,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370747",
@@ -2748,7 +2944,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370624",
@@ -2764,7 +2961,10 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "exp_min": 1,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370532",
@@ -2778,11 +2978,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370529",
@@ -2800,7 +3001,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370308",
@@ -2814,11 +3016,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "lead",
+    "hr_confidence": "high",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370210",
@@ -2832,11 +3035,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370167",
@@ -2850,11 +3054,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370137",
@@ -2870,7 +3075,8 @@
     ],
     "hr_confidence": "review",
     "grade": "mid",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370050",
@@ -2888,7 +3094,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-370015",
@@ -2902,11 +3109,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369966",
@@ -2918,11 +3126,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "HRM"
+      "HRD"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369861",
@@ -2941,7 +3152,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369703",
@@ -2955,11 +3167,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369639",
@@ -2974,10 +3187,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369513",
@@ -2991,11 +3205,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369435",
@@ -3013,7 +3228,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369419",
@@ -3025,13 +3241,14 @@
     "location": "경기",
     "deadline": null,
     "role": [
-      "OD"
+      "HRM"
     ],
     "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369342",
@@ -3049,7 +3266,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369308",
@@ -3067,7 +3285,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369307",
@@ -3085,7 +3304,8 @@
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369306",
@@ -3103,7 +3323,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-369288",
@@ -3117,11 +3338,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-368634",
@@ -3140,7 +3362,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-368579",
@@ -3158,7 +3381,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-368469",
@@ -3176,7 +3400,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-367858",
@@ -3190,11 +3415,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-367376",
@@ -3212,7 +3438,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366594",
@@ -3226,11 +3453,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366550",
@@ -3248,7 +3476,8 @@
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366472",
@@ -3266,7 +3495,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366268",
@@ -3284,7 +3514,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366216",
@@ -3299,10 +3530,11 @@
       "TA"
     ],
     "hr_confidence": "high",
-    "grade": "member",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366202",
@@ -3320,7 +3552,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366077",
@@ -3338,7 +3571,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-366008",
@@ -3352,11 +3586,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-365663",
@@ -3368,11 +3603,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "HRM"
+      "TA"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-365331",
@@ -3387,10 +3625,11 @@
       "TA"
     ],
     "hr_confidence": "high",
-    "grade": "member",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-365325",
@@ -3404,11 +3643,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-364675",
@@ -3422,11 +3662,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-364659",
@@ -3440,11 +3681,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-364530",
@@ -3459,10 +3701,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-364294",
@@ -3480,7 +3723,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-364172",
@@ -3498,7 +3742,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-363749",
@@ -3510,13 +3755,15 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "TA"
+      "TA",
+      "OD"
     ],
     "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-363143",
@@ -3534,7 +3781,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-363012",
@@ -3548,11 +3796,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-362723",
@@ -3570,7 +3819,8 @@
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-362436",
@@ -3589,7 +3839,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-361157",
@@ -3603,11 +3854,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 1,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-361137",
@@ -3619,13 +3871,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "OD"
+      "HRM"
     ],
     "hr_confidence": "high",
     "grade": "member",
     "exp_min": 7,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-361099",
@@ -3643,7 +3896,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-360582",
@@ -3659,7 +3913,8 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-360254",
@@ -3673,11 +3928,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-359982",
@@ -3689,11 +3945,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "HRM"
+      "TA"
     ],
-    "hr_confidence": "review",
-    "grade": "lead",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-359651",
@@ -3711,7 +3970,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-359492",
@@ -3729,7 +3989,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-359457",
@@ -3743,11 +4004,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-358981",
@@ -3761,11 +4023,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-358857",
@@ -3783,7 +4046,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-358195",
@@ -3801,7 +4065,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-358188",
@@ -3815,11 +4080,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-357499",
@@ -3834,10 +4100,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-355965",
@@ -3855,7 +4122,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-355946",
@@ -3870,10 +4138,11 @@
       "OD"
     ],
     "hr_confidence": "high",
-    "grade": "mid",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-355670",
@@ -3887,11 +4156,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-353344",
@@ -3909,7 +4179,8 @@
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-352291",
@@ -3927,7 +4198,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-351697",
@@ -3945,7 +4217,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-351601",
@@ -3961,10 +4234,11 @@
       "BP"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-348521",
@@ -3978,11 +4252,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-348215",
@@ -3998,7 +4273,8 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-346614",
@@ -4010,11 +4286,14 @@
     "location": "서울",
     "deadline": null,
     "role": [
-      "HRM"
+      "TA"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "exp_min": 3,
+    "exp_max": 8,
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-346462",
@@ -4032,7 +4311,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-346204",
@@ -4047,10 +4327,11 @@
       "OD"
     ],
     "hr_confidence": "high",
-    "grade": "mid",
+    "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-346136",
@@ -4068,7 +4349,8 @@
     "grade": "member",
     "exp_min": 3,
     "exp_max": 7,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-343594",
@@ -4082,11 +4364,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-343504",
@@ -4104,7 +4387,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-343503",
@@ -4122,7 +4406,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-343451",
@@ -4140,7 +4425,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-343342",
@@ -4154,11 +4440,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-342483",
@@ -4173,10 +4460,11 @@
       "CB"
     ],
     "hr_confidence": "high",
-    "grade": "mid",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-342267",
@@ -4194,7 +4482,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-341740",
@@ -4209,10 +4498,11 @@
       "HRM"
     ],
     "hr_confidence": "high",
-    "grade": "member",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-341318",
@@ -4226,11 +4516,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": 5,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-340245",
@@ -4244,11 +4535,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-340188",
@@ -4262,11 +4554,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-338539",
@@ -4284,7 +4577,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-337337",
@@ -4298,11 +4592,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-335921",
@@ -4317,10 +4612,11 @@
       "TA"
     ],
     "hr_confidence": "high",
-    "grade": "lead",
+    "grade": "member",
     "exp_min": 5,
     "exp_max": 8,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-335498",
@@ -4335,10 +4631,11 @@
       "TA"
     ],
     "hr_confidence": "high",
-    "grade": "member",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-335165",
@@ -4352,11 +4649,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-333586",
@@ -4375,7 +4673,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-333071",
@@ -4389,11 +4688,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-327799",
@@ -4411,7 +4711,8 @@
     "grade": "mid",
     "exp_min": 3,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-325999",
@@ -4429,7 +4730,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-320762",
@@ -4445,7 +4747,8 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-320405",
@@ -4463,7 +4766,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-320262",
@@ -4483,7 +4787,8 @@
     "grade": "member",
     "exp_min": 5,
     "exp_max": 8,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-318160",
@@ -4501,7 +4806,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-317654",
@@ -4519,7 +4825,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-317653",
@@ -4537,7 +4844,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-313548",
@@ -4555,7 +4863,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-298034",
@@ -4573,7 +4882,8 @@
     "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-296329",
@@ -4587,11 +4897,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-283083",
@@ -4609,7 +4920,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-276183",
@@ -4624,10 +4936,11 @@
       "TA"
     ],
     "hr_confidence": "high",
-    "grade": "member",
+    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-275453",
@@ -4641,11 +4954,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-271002",
@@ -4659,11 +4973,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-271001",
@@ -4677,11 +4992,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
-    "grade": "mid",
+    "hr_confidence": "high",
+    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-255472",
@@ -4699,7 +5015,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-241483",
@@ -4717,7 +5034,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-189892",
@@ -4735,7 +5053,8 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-110543",
@@ -4749,11 +5068,12 @@
     "role": [
       "HRM"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   },
   {
     "id": "wanted-81752",
@@ -4771,82 +5091,7 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T13:55:33+09:00"
-  },
-  {
-    "id": "kakao-P-14519",
-    "source": "kakao",
-    "source_label": "카카오 careers",
-    "url": "https://careers.kakao.com/jobs/P-14519",
-    "title": "AI Research Engineer (Search & Agent) (경력)",
-    "company": "카카오",
-    "company_group": "카카오",
-    "description": "카카오의 다양한 서비스에는 매일 방대한 규모의 상품, 장소, 콘텐츠, 대화 데이터가 쌓이고 있습니다. 우리는 이 데이터를 단순히 검색하는 것을 넘어, 사용자의 의도를 이해하고 필요한 정보를 탐색하며 여러 도구와 서비스를 활용해 답을 완성하는 Agentic Search 환경을 만들고 있습니다. 이를 위해 Agentic Search LLM과 Embedding Model, Cross Encoder, 데이터 품질 모델을 연구합니다. 이러한 기술로 차세대 검색 시스템을 함께 만들어갈 AI Research Engineer를 찾습니다.  **[",
-    "deadline": null,
-    "role": [
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T13:55:26+09:00"
-  },
-  {
-    "id": "kakao-P-14324",
-    "source": "kakao",
-    "source_label": "카카오 careers",
-    "url": "https://careers.kakao.com/jobs/P-14324",
-    "title": "Data Scientist (경력)",
-    "company": "카카오",
-    "company_group": "카카오",
-    "description": "우리는 카카오 내 다양한 비즈니스의 성장을 견인하기 위해 데이터 프로덕트(Data Product)를 기획, 개발, 그리고 딜리버리(Delivery)하는 조직입니다.  단순한 데이터 분석을 넘어, AI/ML 기반의 제품을 직접 개발하고 빠르게 실험하며, 실제 사용자 경험(UX)을 혁신하는 것을 목표로 합니다.  수천만 사용자가 만들어내는 데이터를 통해 가치를 창출하고 싶은 분들의 지원을 기다립니다.",
-    "deadline": null,
-    "role": [
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T13:55:26+09:00"
-  },
-  {
-    "id": "kakao-P-14402",
-    "source": "kakao",
-    "source_label": "카카오 careers",
-    "url": "https://careers.kakao.com/jobs/P-14402",
-    "title": "Multimodal LLM Research Engineer (경력)",
-    "company": "카카오",
-    "company_group": "카카오",
-    "description": "Multimodal Model Training 팀은 카카오의 자체 멀티모달 언어모델인 Kanana 시리즈를 연구·개발하는 조직입니다. 우리는 이미지-텍스트를 이해하는 Kanana-v(비전 언어모델), 오디오/텍스트 입출력이 가능한 Kanana-a(오디오 언어모델), 그리고 다양한 모달리티의 입출력을 통합하는 Kanana-o(멀티모달 통합 언어모델)을 개발하고 있습니다. 궁극적으로는 어떤 형태의 입력과 출력 간에도 자유롭게 상호 이해가 가능한 범용 멀티모달 모델을 만들기 위해, 국내외 최신 연구 동향을 빠르게 분석하고 이를 바탕으로 ",
-    "deadline": null,
-    "role": [
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T13:55:26+09:00"
-  },
-  {
-    "id": "kakao-P-14403",
-    "source": "kakao",
-    "source_label": "카카오 careers",
-    "url": "https://careers.kakao.com/jobs/P-14403",
-    "title": "LLM Research Engineer (신입/경력)",
-    "company": "카카오",
-    "company_group": "카카오",
-    "description": "Language Model Training팀은 카카오의 자체 Large Language Model인 Kanana를 A부터 Z까지 연구 및 개발하고, 이를 기반으로 카카오의 여러 서비스에 기여하고 있습니다. 자체 언어 모델인 Kanana를 최고 수준으로 개발하고 싶은 분들의 지원을 기다립니다.  참고) 연구결과 - Kanana-2 개발기 (1): Pre-training에서의 의사결정들을 중심으로 [(link)](https://tech.kakao.com/posts/807) - Kanana-2 개발기 (2): 개선된 post-traini",
-    "deadline": null,
-    "role": [
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T13:55:26+09:00"
+    "first_seen": "2026-08-12T14:17:00+09:00",
+    "company_type": "smb"
   }
 ]

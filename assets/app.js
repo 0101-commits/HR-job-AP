@@ -6,7 +6,9 @@ const state = {
   roles: new Set(),
   grade: "all",
   group: "all",
-  exp: "all",
+  type: "all",
+  expMin: 0,
+  expMax: 15,
   sort: "latest",
   query: "",
   selectedIndex: -1,
@@ -51,7 +53,11 @@ const els = {
   coverageView: document.querySelector("#coverageView"),
   searchInput: document.querySelector("#searchInput"),
   groupSelect: document.querySelector("#groupSelect"),
-  expSelect: document.querySelector("#expSelect"),
+  typeSelect: document.querySelector("#typeSelect"),
+  expMin: document.querySelector("#expMin"),
+  expMax: document.querySelector("#expMax"),
+  expFill: document.querySelector("#expFill"),
+  expValue: document.querySelector("#expValue"),
   sortSelect: document.querySelector("#sortSelect"),
   filtersPanel: document.querySelector("#filtersPanel"),
   openFilters: document.querySelector("#openFilters"),
@@ -131,11 +137,29 @@ function bindEvents() {
     render();
   });
 
-  els.expSelect.addEventListener("change", (event) => {
-    state.exp = event.target.value;
+  els.typeSelect.addEventListener("change", (event) => {
+    state.type = event.target.value;
     state.selectedIndex = -1;
     render();
   });
+
+  [els.expMin, els.expMax].forEach((slider) => {
+    slider.addEventListener("input", () => {
+      let min = Number(els.expMin.value);
+      let max = Number(els.expMax.value);
+      if (min > max) {
+        if (slider === els.expMin) max = min; else min = max;
+        els.expMin.value = min;
+        els.expMax.value = max;
+      }
+      state.expMin = min;
+      state.expMax = max;
+      state.selectedIndex = -1;
+      renderExpSlider();
+      render();
+    });
+  });
+  renderExpSlider();
 
   els.sortSelect.addEventListener("change", (event) => {
     state.sort = event.target.value;
@@ -279,6 +303,7 @@ function getVisibleJobs() {
       if (state.roles.size && !(job.role || []).some((role) => state.roles.has(role))) return false;
       if (state.grade !== "all" && job.grade !== state.grade) return false;
       if (state.group !== "all" && job.company_group !== state.group) return false;
+      if (state.type !== "all" && (job.company_type || "smb") !== state.type) return false;
       if (!matchesExp(job)) return false;
       if (state.query && !searchText(job).includes(state.query)) return false;
       return true;
@@ -331,13 +356,27 @@ function jobTemplate(job, index) {
 }
 
 function matchesExp(job) {
-  if (state.exp === "all") return true;
-  const min = Number.isFinite(job.exp_min) ? job.exp_min : 0;
-  const max = Number.isFinite(job.exp_max) ? job.exp_max : min;
-  if (state.exp === "junior") return min <= 3;
-  if (state.exp === "mid") return max >= 4 && min <= 7;
-  if (state.exp === "senior") return max >= 8 || min >= 8;
-  return true;
+  if (state.expMin === 0 && state.expMax === 15) return true;
+  // 연차 미표기 공고는 "무관"으로 보고 항상 노출 (누락 제로)
+  if (!Number.isFinite(job.exp_min) && !Number.isFinite(job.exp_max)) return true;
+  const jobMin = Number.isFinite(job.exp_min) ? job.exp_min : 0;
+  const jobMax = Number.isFinite(job.exp_max) ? job.exp_max : 99;
+  const selMax = state.expMax === 15 ? 99 : state.expMax;
+  return jobMax >= state.expMin && jobMin <= selMax;
+}
+
+function renderExpSlider() {
+  const min = state.expMin;
+  const max = state.expMax;
+  els.expFill.style.left = `${(min / 15) * 100}%`;
+  els.expFill.style.width = `${((max - min) / 15) * 100}%`;
+  if (min === 0 && max === 15) {
+    els.expValue.textContent = "전체";
+  } else if (max === 15) {
+    els.expValue.textContent = `${min}년+`;
+  } else {
+    els.expValue.textContent = min === max ? `${min}년` : `${min}–${max}년`;
+  }
 }
 
 function sortJobs(a, b) {
@@ -429,14 +468,19 @@ function clearFilters() {
   state.roles.clear();
   state.grade = "all";
   state.group = "all";
-  state.exp = "all";
+  state.type = "all";
+  state.expMin = 0;
+  state.expMax = 15;
   state.sort = "latest";
   state.query = "";
   state.selectedIndex = -1;
   els.searchInput.value = "";
   els.groupSelect.value = "all";
-  els.expSelect.value = "all";
+  els.typeSelect.value = "all";
+  els.expMin.value = "0";
+  els.expMax.value = "15";
   els.sortSelect.value = "latest";
+  renderExpSlider();
   render();
 }
 

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="기업 채용 사이트를 원천으로 수집하는 HR 직무 채용공고 레이더">
   <title>HR 채용 레이더</title>
-  <link rel="stylesheet" href="assets/styles.css?v=2.1">
+  <link rel="stylesheet" href="assets/styles.css?v=2.2">
 </head>
 <body>
   <div class="app-shell">
@@ -65,14 +65,23 @@
               </select>
             </label>
             <label class="select-field">
-              <span>연차</span>
-              <select id="expSelect">
+              <span>기업구분</span>
+              <select id="typeSelect">
                 <option value="all">전체</option>
-                <option value="junior">0-3년</option>
-                <option value="mid">4-7년</option>
-                <option value="senior">8년 이상</option>
+                <option value="enterprise">대기업</option>
+                <option value="consulting">컨설팅·외국계</option>
+                <option value="smb">스타트업·중소</option>
               </select>
             </label>
+            <div class="exp-slider" aria-label="경력 연차 범위">
+              <span class="exp-slider-label">연차</span>
+              <div class="range-track">
+                <div class="range-fill" id="expFill"></div>
+                <input type="range" id="expMin" min="0" max="15" step="1" value="0" aria-label="최소 연차">
+                <input type="range" id="expMax" min="0" max="15" step="1" value="15" aria-label="최대 연차">
+              </div>
+              <span class="exp-slider-value" id="expValue">전체</span>
+            </div>
             <label class="select-field">
               <span>정렬</span>
               <select id="sortSelect">
@@ -113,6 +122,6 @@
   </div>
 
   <div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
-  <script src="assets/app.js?v=2.1" defer></script>
+  <script src="assets/app.js?v=2.2" defer></script>
 </body>
 </html>

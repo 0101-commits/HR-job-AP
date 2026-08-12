@@ -292,8 +292,9 @@ h1 {
   justify-content: center;
   padding: 2px 9px;
   background: var(--neutral);
-  color: var(--text-2);
+  color: var(--text-1);
   font-size: 12px;
+  font-weight: 500;
 }
 
 .chip:hover,
@@ -322,8 +323,9 @@ h1 {
 .segment button {
   padding: 3px 10px;
   background: transparent;
-  color: var(--text-2);
+  color: var(--text-1);
   font-size: 12px;
+  font-weight: 500;
 }
 
 .segment button.is-active {
@@ -336,6 +338,98 @@ h1 {
 .select-field {
   width: auto;
   min-width: 132px;
+}
+
+.select-field select {
+  color: var(--text-1);
+}
+
+/* 연차 듀얼 핸들 슬라이더 */
+.exp-slider {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 220px;
+}
+
+.exp-slider-label {
+  color: var(--text-1);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.exp-slider-value {
+  color: var(--text-1);
+  font-size: 12px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  min-width: 64px;
+}
+
+.range-track {
+  position: relative;
+  flex: 1;
+  min-width: 120px;
+  height: 20px;
+}
+
+.range-track::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 8px;
+  height: 4px;
+  border-radius: 9999px;
+  background: var(--border-em, var(--neutral));
+}
+
+.range-fill {
+  position: absolute;
+  top: 8px;
+  height: 4px;
+  border-radius: 9999px;
+  background: var(--accent);
+}
+
+.range-track input[type="range"] {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  margin: 0;
+  background: transparent;
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: none;
+}
+
+.range-track input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  width: 16px;
+  height: 16px;
+  margin-top: 2px;
+  border-radius: 9999px;
+  background: var(--bg-surface);
+  border: 2px solid var(--accent);
+  box-shadow: var(--shadow-low);
+  cursor: grab;
+}
+
+.range-track input[type="range"]::-moz-range-thumb {
+  pointer-events: auto;
+  width: 12px;
+  height: 12px;
+  border-radius: 9999px;
+  background: var(--bg-surface);
+  border: 2px solid var(--accent);
+  box-shadow: var(--shadow-low);
+  cursor: grab;
+}
+
+.range-track input[type="range"]:active::-webkit-slider-thumb {
+  cursor: grabbing;
 }
 
 .filter-toggle {

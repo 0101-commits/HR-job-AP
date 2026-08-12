@@ -18,14 +18,14 @@ CONFIG_DIR = ROOT / "config"
 KST = timezone(timedelta(hours=9))
 
 ROLE_RULES: dict[str, list[str]] = {
-    "TA": ["채용", "리크루터", "인재영입", "recruiter", "talent acquisition", "sourcer", "recruiting"],
-    "HRM": ["인사기획", "인사운영", "인사제도", "인사행정", "hrm", "people ops", "hr generalist", "human resources"],
-    "HRD": ["교육", "육성", "리더십개발", "온보딩", "hrd", "l&d", "learning", "leadership development"],
+    "TA": ["채용", "리크루터", "인재영입", "recruiter", "talent acquisition", "sourcer", "recruiting", "ta"],
+    "HRM": ["인사기획", "인사운영", "인사제도", "인사행정", "hrm", "hris", "people ops", "hr generalist", "human resources"],
+    "HRD": ["교육", "육성", "리더십개발", "온보딩", "hrd", "l&d", "learning", "leadership development", "training"],
     "CB": ["보상", "평가", "성과관리", "복리후생", "c&b", "compensation", "benefits", "total rewards", "performance"],
     "ER": ["노무", "노사", "노무사", "employee relations", "labor", "labour"],
-    "OD": ["조직문화", "조직개발", "조직진단", "od", "culture", "engagement", "organization design"],
+    "OD": ["조직문화", "조직개발", "조직진단", "컬쳐", "컬처", "od", "culture", "engagement", "organization design"],
     "BP": ["사업부 인사", "hrbp", "people partner", "business partner"],
-    "PAY": ["급여", "4대보험", "급여정산", "payroll"],
+    "PAY": ["급여", "4대보험", "급여정산", "payroll", "페이롤"],
     "HRC": [
         "hr컨설팅",
         "인사제도 컨설턴트",
@@ -42,9 +42,24 @@ ROLE_RULES: dict[str, list[str]] = {
     ],
 }
 
-BROAD_HR_SIGNALS = ["인사", "hr", "people", "피플", "human resources", "talent", "organization", "workforce"]
-LEAD_SIGNALS = ["팀장", "리더", "총괄", "head of", "director", "principal", "partner", "practice lead"]
-MID_SIGNALS = ["manager", "senior manager", "lead", "책임", "수석", "선임"]
+# 강신호: 제목에 있으면 제네럴리스트 HR로 확신(high) — "인사 담당자", "HR Manager" 류.
+STRONG_HR_SIGNALS = ["인사", "피플", "hr", "people", "human resources", "chro"]
+# 약신호: HR 인접이라 버리지 않되 검토 버킷(review)으로 — "총무", 영문 talent/organization 등.
+WEAK_HR_SIGNALS = ["총무", "경영지원", "talent", "organization", "workforce", "ga"]
+LEAD_SIGNALS = ["팀장", "리더", "총괄", "실장", "그룹장", "파트장", "head of", "head", "director", "principal", "practice lead", "lead", "chro"]
+MID_SIGNALS = ["manager", "senior", "시니어", "책임", "수석", "선임"]
+
+CONSULTING_GROUPS = {
+    "aon", "mckinsey", "bcg", "bain", "딜로이트", "kpmg", "pwc", "ey",
+    "mercer", "korn ferry", "콘페리", "wtw", "올리버와이먼",
+}
+
+
+def keyword_match(text: str, keyword: str) -> bool:
+    """짧은 영문 약어(hr, od, ta 등)가 다른 단어 안에서 오탐하지 않게 토큰 경계 매칭."""
+    if re.fullmatch(r"[a-z0-9&./+\- ]+", keyword):
+        return re.search(rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])", text) is not None
+    return keyword in text
 
 
 def load_json(path: Path, default: Any) -> Any:
@@ -72,21 +87,24 @@ def normalize_key(value: str) -> str:
 
 
 def classify_job(job: dict[str, Any]) -> dict[str, Any] | None:
-    text = compact_text(job.get("title"), job.get("description"), job.get("category"), job.get("department"))
-    roles = [role for role, keywords in ROLE_RULES.items() if any(keyword.lower() in text for keyword in keywords)]
-
-    # 광역 HR 신호는 제목·카테고리에만 적용 — 영문 상용구(예: "as an organization")가
-    # 본문에 흔해 description까지 보면 비HR 공고가 검토 버킷으로 쏟아진다.
+    # 직무 판정은 제목·카테고리·부서만 사용 — 본문은 상용구 오탐원
+    # (예: "Model Training팀"→HRD, "as an organization"→OD).
     title_text = compact_text(job.get("title"), job.get("category"), job.get("department"))
-    if not roles and not any(signal in title_text for signal in BROAD_HR_SIGNALS):
+    roles = [role for role, keywords in ROLE_RULES.items() if any(keyword_match(title_text, keyword.lower()) for keyword in keywords)]
+    strong = any(keyword_match(title_text, signal) for signal in STRONG_HR_SIGNALS)
+    weak = any(keyword_match(title_text, signal) for signal in WEAK_HR_SIGNALS)
+    if not roles and not strong and not weak:
         return None
 
     enriched = dict(job)
     enriched["role"] = roles or ["HRM"]
-    enriched["hr_confidence"] = "high" if roles else "review"
-    enriched["grade"] = enriched.get("grade") or infer_grade(text)
+    # 세부직무 키워드 or 제네럴리스트 강신호("인사 담당자", "HR Manager") = high.
+    # 약신호(총무·GA 등 HR 인접)만 있으면 review — 사람이 훑는 검토 버킷.
+    enriched["hr_confidence"] = "high" if (roles or strong) else "review"
+    enriched["grade"] = enriched.get("grade") or infer_grade(title_text)
 
-    exp_min, exp_max = infer_experience(text)
+    # 연차는 본문에도 자주 적혀 있어 제목+본문 전체에서 파싱
+    exp_min, exp_max = infer_experience(compact_text(job.get("title"), job.get("description")))
     if enriched.get("exp_min") is None:
         enriched["exp_min"] = exp_min
     if enriched.get("exp_max") is None:
@@ -95,9 +113,9 @@ def classify_job(job: dict[str, Any]) -> dict[str, Any] | None:
 
 
 def infer_grade(text: str) -> str:
-    if any(signal in text for signal in LEAD_SIGNALS):
+    if any(keyword_match(text, signal) for signal in LEAD_SIGNALS):
         return "lead"
-    if any(signal in text for signal in MID_SIGNALS):
+    if any(keyword_match(text, signal) for signal in MID_SIGNALS):
         return "mid"
     return "member"
 
@@ -408,6 +426,15 @@ def apply_company_group(job: dict[str, Any], groups: dict[str, str]) -> dict[str
         group = groups.get(job.get("company", ""))
         if group:
             job["company_group"] = group
+
+    # 기업구분: 컨설팅·외국계 / 대기업(공정위 대기업집단 매핑) / 스타트업·중소
+    group_lower = (job.get("company_group") or "").lower()
+    if group_lower in CONSULTING_GROUPS:
+        job["company_type"] = "consulting"
+    elif job.get("company_group"):
+        job["company_type"] = "enterprise"
+    else:
+        job["company_type"] = "smb"
     return job
 
 
@@ -509,7 +536,8 @@ def collect_all() -> int:
             )
             all_jobs.extend(prev_source_jobs)
 
-    merged = drop_expired(dedupe_jobs(all_jobs))
+    # 가드로 직전값이 유지된 공고도 최신 그룹·기업구분을 갖도록 병합 후 일괄 적용
+    merged = [apply_company_group(job, groups) for job in drop_expired(dedupe_jobs(all_jobs))]
     errors = validate_jobs(merged)
     if errors:
         for error in errors:

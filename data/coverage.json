@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T14:01:15+09:00",
+  "updated_at": "2026-08-12T14:17:00+09:00",
   "sources": [
     {
       "id": "jobflex",
@@ -71,10 +71,9 @@
       "id": "jibe",
       "label": "Aon (Jibe JSON)",
       "status": "ok",
-      "last_ok": "2026-08-12T13:56:51+09:00",
+      "last_ok": "2026-08-12T14:16:53+09:00",
       "current_count": 0,
       "count_history": [
-        0,
         0
       ],
       "suspect_missing": 0,
@@ -140,11 +139,10 @@
       "id": "kakao",
       "label": "Kakao Careers",
       "status": "ok",
-      "last_ok": "2026-08-12T13:56:53+09:00",
-      "current_count": 4,
+      "last_ok": "2026-08-12T14:16:53+09:00",
+      "current_count": 0,
       "count_history": [
-        4,
-        4
+        0
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
@@ -164,15 +162,15 @@
     {
       "id": "wanted",
       "label": "원티드 안전망",
-      "status": "fail",
-      "last_ok": "2026-08-12T13:55:33+09:00",
-      "current_count": 266,
+      "status": "ok",
+      "last_ok": "2026-08-12T14:17:00+09:00",
+      "current_count": 268,
       "count_history": [
-        266
+        268
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
-      "note": "수집 실패 — 직전값 유지: HTTP Error 403: Forbidden"
+      "note": "갱신 성공"
     },
     {
       "id": "phenom",
