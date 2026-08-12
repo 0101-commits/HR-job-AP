@@ -1,12 +1,16 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
+import time
+import urllib.error
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
@@ -38,7 +42,7 @@ ROLE_RULES: dict[str, list[str]] = {
     ],
 }
 
-BROAD_HR_SIGNALS = ["인사", "hr", "people", "human resources", "talent", "organization", "workforce"]
+BROAD_HR_SIGNALS = ["인사", "hr", "people", "피플", "human resources", "talent", "organization", "workforce"]
 LEAD_SIGNALS = ["팀장", "리더", "총괄", "head of", "director", "principal", "partner", "practice lead"]
 MID_SIGNALS = ["manager", "senior manager", "lead", "책임", "수석", "선임"]
 
@@ -71,7 +75,10 @@ def classify_job(job: dict[str, Any]) -> dict[str, Any] | None:
     text = compact_text(job.get("title"), job.get("description"), job.get("category"), job.get("department"))
     roles = [role for role, keywords in ROLE_RULES.items() if any(keyword.lower() in text for keyword in keywords)]
 
-    if not roles and not any(signal in text for signal in BROAD_HR_SIGNALS):
+    # 광역 HR 신호는 제목·카테고리에만 적용 — 영문 상용구(예: "as an organization")가
+    # 본문에 흔해 description까지 보면 비HR 공고가 검토 버킷으로 쏟아진다.
+    title_text = compact_text(job.get("title"), job.get("category"), job.get("department"))
+    if not roles and not any(signal in title_text for signal in BROAD_HR_SIGNALS):
         return None
 
     enriched = dict(job)
@@ -191,8 +198,331 @@ def refresh_metadata(jobs: list[dict[str, Any]], meta: dict[str, Any]) -> dict[s
     updated["updated_at"] = now_iso()
     updated["total_jobs"] = len(jobs)
     updated["review_jobs"] = sum(1 for job in jobs if job.get("hr_confidence") == "review")
-    updated["version"] = "2.0"
+    updated["version"] = "2.1"
     return updated
+
+
+# ---------------------------------------------------------------------------
+# 수집 레이어 — 실제 채용 사이트/API에서 공고 상세 딥링크를 가져온다
+# ---------------------------------------------------------------------------
+
+def http_get(url: str, defaults: dict[str, Any], accept: str = "application/json") -> bytes:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": defaults.get("user_agent", "HRJobRadar/2.1"),
+            "Accept": accept,
+            "Accept-Language": "ko, en;q=0.8",
+        },
+    )
+    with urllib.request.urlopen(request, timeout=defaults.get("timeout_seconds", 20)) as response:
+        return response.read()
+
+
+def http_get_json(url: str, defaults: dict[str, Any]) -> Any:
+    return json.loads(http_get(url, defaults).decode("utf-8"))
+
+
+def polite_sleep(defaults: dict[str, Any]) -> None:
+    time.sleep(defaults.get("request_delay_seconds", 2))
+
+
+def parse_date(value: Any) -> str | None:
+    if not value:
+        return None
+    text = str(value)
+    match = re.search(r"(\d{4})[-./](\d{1,2})[-./](\d{1,2})", text)
+    if match:
+        return f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
+    # epoch millis (wanted due_time 등)
+    if text.isdigit() and len(text) >= 10:
+        try:
+            stamp = int(text[:10])
+            return datetime.fromtimestamp(stamp, KST).strftime("%Y-%m-%d")
+        except (ValueError, OSError):
+            return None
+    return None
+
+
+def collect_wanted(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """원티드 v4 — HR 카테고리(tag 517) 전체. 상세 딥링크 = /wd/{id}."""
+    jobs: list[dict[str, Any]] = []
+    offset = 0
+    while offset < 1000:
+        payload = http_get_json(
+            "https://www.wanted.co.kr/api/v4/jobs"
+            f"?country=kr&tag_type_ids=517&limit=100&offset={offset}&job_sort=job.latest_order",
+            defaults,
+        )
+        rows = payload.get("data") or []
+        if not rows:
+            break
+        for row in rows:
+            job_id = row.get("id")
+            if not job_id:
+                continue
+            address = row.get("address") or {}
+            jobs.append(
+                {
+                    "id": f"wanted-{job_id}",
+                    "source": "wanted",
+                    "source_label": "원티드",
+                    "url": f"https://www.wanted.co.kr/wd/{job_id}",
+                    "title": row.get("position") or "",
+                    "company": (row.get("company") or {}).get("name") or "",
+                    "location": address.get("location"),
+                    "deadline": parse_date(row.get("due_time")),
+                }
+            )
+        offset += 100
+        polite_sleep(defaults)
+    return jobs
+
+
+def collect_kakao(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """카카오 careers 공개 API — 전 직무 수집 후 후단 분류(recall 우선). 딥링크 = /jobs/{realId}."""
+    jobs: list[dict[str, Any]] = []
+    page = 1
+    while page <= 40:
+        payload = http_get_json(
+            f"https://careers.kakao.com/public/api/job-list?part=&company=&keyword=&page={page}",
+            defaults,
+        )
+        rows = payload.get("jobList") or []
+        if not rows:
+            break
+        for row in rows:
+            real_id = row.get("realId")
+            if not real_id:
+                continue
+            company = row.get("companyNm") or row.get("company") or "카카오"
+            jobs.append(
+                {
+                    "id": f"kakao-{real_id}",
+                    "source": "kakao",
+                    "source_label": "카카오 careers",
+                    "url": f"https://careers.kakao.com/jobs/{real_id}",
+                    "title": row.get("jobOfferTitle") or "",
+                    "company": company,
+                    "company_group": "카카오",
+                    "description": re.sub(r"<[^>]+>", " ", row.get("introduction") or "")[:300],
+                    "deadline": parse_date(row.get("endDate")),
+                }
+            )
+        total_page = payload.get("totalPage") or payload.get("totalPages")
+        if total_page and page >= int(total_page):
+            break
+        page += 1
+        polite_sleep(defaults)
+    return jobs
+
+
+def collect_aon(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """Aon — iCIMS/Jibe 공개 JSON. 서울 오피스 전 공고 수집 후 후단 분류."""
+    jobs: list[dict[str, Any]] = []
+    page = 1
+    while page <= 10:
+        payload = http_get_json(
+            f"https://jobs.aon.com/api/jobs?location=Seoul%2C%20South%20Korea&page={page}",
+            defaults,
+        )
+        rows = payload.get("jobs") or []
+        if not rows:
+            break
+        for row in rows:
+            data = row.get("data") or {}
+            slug = data.get("slug") or data.get("req_id")
+            url = (data.get("meta_data") or {}).get("canonical_url") or (
+                f"https://jobs.aon.com/jobs/{slug}" if slug else None
+            )
+            if not slug or not url:
+                continue
+            jobs.append(
+                {
+                    "id": f"aon-{slug}",
+                    "source": "aon",
+                    "source_label": "Aon (Jibe)",
+                    "url": url,
+                    "title": data.get("title") or "",
+                    "company": "Aon Korea",
+                    "company_group": "Aon",
+                    "location": data.get("city") or "서울",
+                    "category": data.get("category") or "",
+                    "description": re.sub(r"<[^>]+>", " ", data.get("description") or "")[:300],
+                }
+            )
+        total = payload.get("totalCount") or 0
+        if len(jobs) >= int(total):
+            break
+        page += 1
+        polite_sleep(defaults)
+    return jobs
+
+
+def collect_saramin(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """사람인 오픈 API 안전망 — Secrets에 SARAMIN_API_KEY 있을 때만 동작."""
+    api_key = os.environ.get(source.get("secret", "SARAMIN_API_KEY"), "")
+    if not api_key:
+        raise RuntimeError("SARAMIN_API_KEY 미설정 — 안전망 비활성")
+
+    jobs: list[dict[str, Any]] = []
+    payload = http_get_json(
+        "https://oapi.saramin.co.kr/job-search"
+        f"?access-key={api_key}&keywords=%EC%9D%B8%EC%82%AC&count=110"
+        "&fields=posting-date+expiration-date",
+        defaults,
+    )
+    for row in ((payload.get("jobs") or {}).get("job") or []):
+        job_id = row.get("id")
+        position = row.get("position") or {}
+        company = ((row.get("company") or {}).get("detail") or {}).get("name") or ""
+        if not job_id or not row.get("url"):
+            continue
+        jobs.append(
+            {
+                "id": f"saramin-{job_id}",
+                "source": "saramin",
+                "source_label": "사람인",
+                "url": row.get("url"),
+                "title": (position.get("title") or ""),
+                "company": company,
+                "location": ((position.get("location") or {}).get("name") or "").split(",")[0] or None,
+                "category": ((position.get("job-mid-code") or {}).get("name") or ""),
+                "deadline": parse_date(row.get("expiration-date")),
+            }
+        )
+    return jobs
+
+
+COLLECTORS: dict[str, Callable[[dict[str, Any], dict[str, Any]], list[dict[str, Any]]]] = {
+    "wanted_v4": collect_wanted,
+    "kakao_api": collect_kakao,
+    "jibe_json": collect_aon,
+    "saramin_api": collect_saramin,
+}
+
+
+def apply_company_group(job: dict[str, Any], groups: dict[str, str]) -> dict[str, Any]:
+    if not job.get("company_group"):
+        group = groups.get(job.get("company", ""))
+        if group:
+            job["company_group"] = group
+    return job
+
+
+def drop_expired(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    today = datetime.now(KST).strftime("%Y-%m-%d")
+    return [job for job in jobs if not job.get("deadline") or job["deadline"] >= today]
+
+
+def collect_all() -> int:
+    jobs_path = DATA_DIR / "jobs.json"
+    coverage_path = DATA_DIR / "coverage.json"
+    meta_path = DATA_DIR / "meta.json"
+    registry = load_json(CONFIG_DIR / "registry.json", {})
+
+    defaults = registry.get("defaults", {})
+    groups = registry.get("company_groups", {})
+    previous_jobs: list[dict[str, Any]] = load_json(jobs_path, [])
+    previous_coverage = {row.get("id"): row for row in load_json(coverage_path, {}).get("sources", [])}
+    first_seen_by_id = {job["id"]: job.get("first_seen") for job in previous_jobs if job.get("id")}
+    previous_by_source: dict[str, list[dict[str, Any]]] = {}
+    for job in previous_jobs:
+        previous_by_source.setdefault(job.get("source", ""), []).append(job)
+
+    all_jobs: list[dict[str, Any]] = []
+    coverage_rows: list[dict[str, Any]] = []
+    failures: list[str] = []
+
+    for source in registry.get("sources", []):
+        source_id = source.get("id", "")
+        label = source.get("label", source_id)
+        prev_cov = previous_coverage.get(source_id) or {"label": label}
+        prev_cov["label"] = label
+
+        if not source.get("enabled"):
+            coverage_rows.append(
+                {
+                    "id": source_id,
+                    "label": label,
+                    "status": "info",
+                    "last_ok": prev_cov.get("last_ok"),
+                    "current_count": 0,
+                    "count_history": prev_cov.get("count_history", []),
+                    "suspect_missing": 0,
+                    "parse_fail_rate": 0,
+                    "note": source.get("note") or "수집기 예정 (비활성)",
+                }
+            )
+            continue
+
+        collector = COLLECTORS.get(source.get("collector", ""))
+        prev_source_jobs = previous_by_source.get(source_id, [])
+
+        if collector is None:
+            coverage_rows.append(
+                {
+                    "id": source_id, "label": label, "status": "fail",
+                    "last_ok": prev_cov.get("last_ok"), "current_count": len(prev_source_jobs),
+                    "count_history": prev_cov.get("count_history", []),
+                    "suspect_missing": 0, "parse_fail_rate": 0,
+                    "note": f"수집기 미구현: {source.get('collector')}",
+                }
+            )
+            all_jobs.extend(prev_source_jobs)
+            continue
+
+        try:
+            raw_jobs = collector(source, defaults)
+            classified: list[dict[str, Any]] = []
+            for raw in raw_jobs:
+                enriched = classify_job(raw)
+                if enriched is None:
+                    if not source.get("hr_scope"):
+                        continue
+                    # 소스 피드 자체가 HR 카테고리(예: 원티드 tag 517)면 버리지 않고
+                    # 검토 버킷으로 보존 — 누락 제로 원칙.
+                    enriched = dict(raw)
+                    enriched["role"] = ["HRM"]
+                    enriched["hr_confidence"] = "review"
+                    enriched["grade"] = infer_grade(compact_text(raw.get("title")))
+                enriched.pop("category", None)
+                enriched["first_seen"] = first_seen_by_id.get(enriched["id"]) or now_iso()
+                classified.append(apply_company_group(enriched, groups))
+            retained, coverage = apply_coverage_guard(source_id, prev_source_jobs, classified, prev_cov)
+            coverage["label"] = label
+            coverage_rows.append(coverage)
+            all_jobs.extend(retained)
+            print(f"[{source_id}] raw={len(raw_jobs)} hr={len(classified)} -> {coverage['status']}")
+        except Exception as error:  # noqa: BLE001 — 소스 하나의 실패가 전체를 죽이면 안 됨
+            failures.append(f"{source_id}: {error}")
+            coverage_rows.append(
+                {
+                    "id": source_id, "label": label, "status": "fail",
+                    "last_ok": prev_cov.get("last_ok"),
+                    "current_count": len(prev_source_jobs),
+                    "count_history": prev_cov.get("count_history", []),
+                    "suspect_missing": 0, "parse_fail_rate": 0,
+                    "note": f"수집 실패 — 직전값 유지: {str(error)[:80]}",
+                }
+            )
+            all_jobs.extend(prev_source_jobs)
+
+    merged = drop_expired(dedupe_jobs(all_jobs))
+    errors = validate_jobs(merged)
+    if errors:
+        for error in errors:
+            print(error, file=sys.stderr)
+        return 1
+
+    write_json(jobs_path, merged)
+    write_json(meta_path, refresh_metadata(merged, load_json(meta_path, {})))
+    write_json(coverage_path, {"updated_at": now_iso(), "sources": coverage_rows})
+
+    print(f"collected {len(merged)} HR jobs from {sum(1 for row in coverage_rows if row['status'] == 'ok')} sources")
+    if failures:
+        print("failures: " + "; ".join(failures), file=sys.stderr)
+    return 0
 
 
 def run(check_only: bool) -> int:
@@ -232,9 +562,12 @@ def run(check_only: bool) -> int:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Validate and prepare HR job radar data")
+    parser = argparse.ArgumentParser(description="HR job radar — collect and validate data")
     parser.add_argument("--check", action="store_true", help="validate without writing")
+    parser.add_argument("--collect", action="store_true", help="run real collectors against live sources")
     args = parser.parse_args()
+    if args.collect:
+        return collect_all()
     return run(check_only=args.check)
 
 

@@ -1,60 +1,319 @@
-﻿{
-  "updated_at": "2026-08-12T13:02:00+09:00",
+{
+  "updated_at": "2026-08-12T13:55:33+09:00",
   "sources": [
+    {
+      "id": "jobflex",
+      "label": "JOBFLEX 제네릭",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "careerlink",
+      "label": "커리어링크 제네릭",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "hunel",
+      "label": "휴넬 제네릭",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "greeting",
+      "label": "그리팅 제네릭",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "avature",
+      "label": "Avature RSS",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "RSS 피드 폐쇄 확인(2026-08) — 재조사 필요"
+    },
+    {
+      "id": "oracle_orc",
+      "label": "Oracle ORC",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "jibe",
+      "label": "Aon (Jibe JSON)",
+      "status": "ok",
+      "last_ok": "2026-08-12T13:55:26+09:00",
+      "current_count": 0,
+      "count_history": [
+        0
+      ],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "갱신 성공"
+    },
     {
       "id": "sk",
       "label": "SK Careers",
-      "status": "ok",
-      "last_ok": "2026-08-12T13:02:00+09:00",
-      "current_count": 51,
-      "count_history": [47, 48, 48, 49, 50, 48, 51],
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
       "suspect_missing": 0,
-      "parse_fail_rate": 0.01,
-      "note": "13:02 성공"
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
     },
     {
       "id": "lotte",
       "label": "롯데그룹",
-      "status": "ok",
-      "last_ok": "2026-08-12T13:02:00+09:00",
-      "current_count": 34,
-      "count_history": [32, 35, 34, 35, 36, 35, 34],
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
       "suspect_missing": 0,
-      "parse_fail_rate": 0.02,
-      "note": "13:02 성공"
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
     },
     {
-      "id": "samsung",
-      "label": "삼성 careers",
-      "status": "warn",
-      "last_ok": "2026-08-12T09:02:00+09:00",
-      "current_count": 18,
-      "count_history": [18, 19, 18, 19, 18, 18, 4],
-      "suspect_missing": 4,
-      "parse_fail_rate": 0.18,
-      "note": "직전값 유지"
+      "id": "lg",
+      "label": "LG Careers",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "hanwha",
+      "label": "Hanwhain",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "cj",
+      "label": "CJ Recruit",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "kakao",
+      "label": "Kakao Careers",
+      "status": "ok",
+      "last_ok": "2026-08-12T13:55:26+09:00",
+      "current_count": 4,
+      "count_history": [
+        4
+      ],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "갱신 성공"
+    },
+    {
+      "id": "saramin",
+      "label": "사람인 안전망",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "SARAMIN_API_KEY 등록 후 활성화"
+    },
+    {
+      "id": "wanted",
+      "label": "원티드 안전망",
+      "status": "ok",
+      "last_ok": "2026-08-12T13:55:33+09:00",
+      "current_count": 266,
+      "count_history": [
+        266
+      ],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "갱신 성공"
+    },
+    {
+      "id": "phenom",
+      "label": "Phenom 제네릭",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "successfactors",
+      "label": "SuccessFactors",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "EY 외부 잡보드(yello.co) 이관 확인 — 재조사 필요"
+    },
+    {
+      "id": "oleeo",
+      "label": "Oleeo",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
     },
     {
       "id": "mckinsey",
-      "label": "McKinsey",
-      "status": "fail",
-      "last_ok": "2026-08-11T17:03:00+09:00",
-      "current_count": 8,
-      "count_history": [7, 8, 8, 9, 8, 8, 2],
-      "suspect_missing": 2,
-      "parse_fail_rate": 1.0,
-      "note": "HTTP 403"
+      "label": "McKinsey Careers",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
     },
     {
-      "id": "safety_net",
-      "label": "누락 의심",
+      "id": "deloitte",
+      "label": "Deloitte 한국",
       "status": "info",
-      "last_ok": "2026-08-12T13:02:00+09:00",
-      "current_count": 2,
-      "count_history": [1, 1, 2, 1, 1, 2, 2],
-      "suspect_missing": 2,
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
       "parse_fail_rate": 0,
-      "note": "목록 포함"
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "kpmg",
+      "label": "삼정KPMG",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "pwc",
+      "label": "삼일PwC",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "naver",
+      "label": "네이버 채용",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "samsung",
+      "label": "삼성 Careers",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "reCAPTCHA — Playwright 필요"
+    },
+    {
+      "id": "posco",
+      "label": "포스코 채용",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "봇차단 — Playwright 필요"
+    },
+    {
+      "id": "shinsegae",
+      "label": "신세계그룹",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "doosan",
+      "label": "두산그룹",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
+    },
+    {
+      "id": "kt",
+      "label": "KT 채용",
+      "status": "info",
+      "last_ok": null,
+      "current_count": 0,
+      "count_history": [],
+      "suspect_missing": 0,
+      "parse_fail_rate": 0,
+      "note": "수집기 예정 (비활성)"
     }
   ]
 }

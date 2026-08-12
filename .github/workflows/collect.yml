@@ -26,8 +26,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Validate and refresh data
-        run: python scripts/collect.py
+      - name: Collect live job postings
+        run: python scripts/collect.py --collect
+        env:
+          SARAMIN_API_KEY: ${{ secrets.SARAMIN_API_KEY }}
 
       - name: Run tests
         run: python -m unittest discover -s tests

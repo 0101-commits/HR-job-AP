@@ -1,40 +1,268 @@
 {
   "version": "2.0",
-  "schedule_kst": ["09:00", "13:00", "17:00"],
+  "schedule_kst": [
+    "09:00",
+    "13:00",
+    "17:00"
+  ],
   "defaults": {
     "request_delay_seconds": 2,
     "timeout_seconds": 20,
     "user_agent": "HRJobRadar/2.0 (+https://github.com/0101-commits/HR-job-AP)"
   },
   "sources": [
-    { "id": "jobflex", "label": "JOBFLEX 제네릭", "collector": "jobflex", "layer": "L1", "enabled": false, "tenants": ["gscaltex", "kolon", "hyosung"] },
-    { "id": "careerlink", "label": "커리어링크 제네릭", "collector": "careerlink", "layer": "L1", "enabled": false, "tenants": ["kbstar", "shinhan", "hana"] },
-    { "id": "hunel", "label": "휴넬 제네릭", "collector": "hunel", "layer": "L1", "enabled": false, "tenants": ["RECRUIT_HHI"] },
-    { "id": "greeting", "label": "그리팅 제네릭", "collector": "greeting", "layer": "L1", "enabled": false },
-    { "id": "avature", "label": "Avature RSS", "collector": "avature_rss", "layer": "L1", "enabled": false, "targets": ["bain"] },
-    { "id": "oracle_orc", "label": "Oracle ORC", "collector": "oracle_orc", "layer": "L1", "enabled": false, "targets": ["wtw"] },
-    { "id": "jibe", "label": "Jibe JSON", "collector": "jibe_json", "layer": "L1", "enabled": false, "targets": ["aon"] },
-    { "id": "sk", "label": "SK Careers", "collector": "sk_careers", "layer": "L2", "enabled": false, "group": "SK" },
-    { "id": "lotte", "label": "롯데그룹", "collector": "lotte_jsp", "layer": "L2", "enabled": false, "group": "롯데" },
-    { "id": "lg", "label": "LG Careers", "collector": "lg_api", "layer": "L2", "enabled": false, "group": "LG" },
-    { "id": "hanwha", "label": "Hanwhain", "collector": "hanwha_api", "layer": "L2", "enabled": false, "group": "한화" },
-    { "id": "cj", "label": "CJ Recruit", "collector": "cj_api", "layer": "L2", "enabled": false, "group": "CJ" },
-    { "id": "kakao", "label": "Kakao Careers", "collector": "kakao_api", "layer": "L2", "enabled": false, "group": "카카오" },
-    { "id": "saramin", "label": "사람인 안전망", "collector": "saramin_api", "layer": "L3", "enabled": false, "secret": "SARAMIN_API_KEY" },
-    { "id": "wanted", "label": "원티드 안전망", "collector": "wanted_v4", "layer": "L3", "enabled": false },
-    { "id": "phenom", "label": "Phenom 제네릭", "collector": "phenom", "layer": "L1", "enabled": false, "targets": ["bcg", "mercer"] },
-    { "id": "successfactors", "label": "SuccessFactors", "collector": "successfactors", "layer": "L1", "enabled": false, "targets": ["ey"] },
-    { "id": "oleeo", "label": "Oleeo", "collector": "oleeo", "layer": "L1", "enabled": false, "targets": ["kornferry"] },
-    { "id": "mckinsey", "label": "McKinsey Careers", "collector": "avature", "layer": "L2", "enabled": false, "group": "McKinsey", "base_url": "https://www.mckinsey.com/careers" },
-    { "id": "deloitte", "label": "Deloitte 한국", "collector": "deloitte_kr", "layer": "L2", "enabled": false, "group": "딜로이트" },
-    { "id": "kpmg", "label": "삼정KPMG", "collector": "kpmg_kr", "layer": "L2", "enabled": false, "group": "KPMG" },
-    { "id": "pwc", "label": "삼일PwC", "collector": "pwc_kr", "layer": "L2", "enabled": false, "group": "PwC" },
-    { "id": "naver", "label": "네이버 채용", "collector": "naver_careers", "layer": "L2", "enabled": false, "group": "네이버" },
-    { "id": "samsung", "label": "삼성 Careers", "collector": "samsung_careers", "layer": "L2", "enabled": false, "group": "삼성", "note": "reCAPTCHA — Playwright 필요" },
-    { "id": "posco", "label": "포스코 채용", "collector": "posco_recruit", "layer": "L2", "enabled": false, "group": "포스코", "note": "봇차단 — Playwright 필요" },
-    { "id": "shinsegae", "label": "신세계그룹", "collector": "shinsegae_recruit", "layer": "L2", "enabled": false, "group": "신세계" },
-    { "id": "doosan", "label": "두산그룹", "collector": "doosan_career", "layer": "L2", "enabled": false, "group": "두산" },
-    { "id": "kt", "label": "KT 채용", "collector": "kt_careers", "layer": "L2", "enabled": false, "group": "KT" }
+    {
+      "id": "jobflex",
+      "label": "JOBFLEX 제네릭",
+      "collector": "jobflex",
+      "layer": "L1",
+      "enabled": false,
+      "tenants": [
+        "gscaltex",
+        "kolon",
+        "hyosung"
+      ]
+    },
+    {
+      "id": "careerlink",
+      "label": "커리어링크 제네릭",
+      "collector": "careerlink",
+      "layer": "L1",
+      "enabled": false,
+      "tenants": [
+        "kbstar",
+        "shinhan",
+        "hana"
+      ]
+    },
+    {
+      "id": "hunel",
+      "label": "휴넬 제네릭",
+      "collector": "hunel",
+      "layer": "L1",
+      "enabled": false,
+      "tenants": [
+        "RECRUIT_HHI"
+      ]
+    },
+    {
+      "id": "greeting",
+      "label": "그리팅 제네릭",
+      "collector": "greeting",
+      "layer": "L1",
+      "enabled": false
+    },
+    {
+      "id": "avature",
+      "label": "Avature RSS",
+      "collector": "avature_rss",
+      "layer": "L1",
+      "enabled": false,
+      "targets": [
+        "bain"
+      ],
+      "note": "RSS 피드 폐쇄 확인(2026-08) — 재조사 필요"
+    },
+    {
+      "id": "oracle_orc",
+      "label": "Oracle ORC",
+      "collector": "oracle_orc",
+      "layer": "L1",
+      "enabled": false,
+      "targets": [
+        "wtw"
+      ]
+    },
+    {
+      "id": "jibe",
+      "label": "Aon (Jibe JSON)",
+      "collector": "jibe_json",
+      "layer": "L1",
+      "enabled": true,
+      "targets": [
+        "aon"
+      ]
+    },
+    {
+      "id": "sk",
+      "label": "SK Careers",
+      "collector": "sk_careers",
+      "layer": "L2",
+      "enabled": false,
+      "group": "SK"
+    },
+    {
+      "id": "lotte",
+      "label": "롯데그룹",
+      "collector": "lotte_jsp",
+      "layer": "L2",
+      "enabled": false,
+      "group": "롯데"
+    },
+    {
+      "id": "lg",
+      "label": "LG Careers",
+      "collector": "lg_api",
+      "layer": "L2",
+      "enabled": false,
+      "group": "LG"
+    },
+    {
+      "id": "hanwha",
+      "label": "Hanwhain",
+      "collector": "hanwha_api",
+      "layer": "L2",
+      "enabled": false,
+      "group": "한화"
+    },
+    {
+      "id": "cj",
+      "label": "CJ Recruit",
+      "collector": "cj_api",
+      "layer": "L2",
+      "enabled": false,
+      "group": "CJ"
+    },
+    {
+      "id": "kakao",
+      "label": "Kakao Careers",
+      "collector": "kakao_api",
+      "layer": "L2",
+      "enabled": true,
+      "group": "카카오"
+    },
+    {
+      "id": "saramin",
+      "label": "사람인 안전망",
+      "collector": "saramin_api",
+      "layer": "L3",
+      "enabled": false,
+      "secret": "SARAMIN_API_KEY",
+      "note": "SARAMIN_API_KEY 등록 후 활성화"
+    },
+    {
+      "id": "wanted",
+      "label": "원티드 안전망",
+      "collector": "wanted_v4",
+      "layer": "L3",
+      "enabled": true,
+      "hr_scope": true
+    },
+    {
+      "id": "phenom",
+      "label": "Phenom 제네릭",
+      "collector": "phenom",
+      "layer": "L1",
+      "enabled": false,
+      "targets": [
+        "bcg",
+        "mercer"
+      ]
+    },
+    {
+      "id": "successfactors",
+      "label": "SuccessFactors",
+      "collector": "successfactors",
+      "layer": "L1",
+      "enabled": false,
+      "targets": [
+        "ey"
+      ],
+      "note": "EY 외부 잡보드(yello.co) 이관 확인 — 재조사 필요"
+    },
+    {
+      "id": "oleeo",
+      "label": "Oleeo",
+      "collector": "oleeo",
+      "layer": "L1",
+      "enabled": false,
+      "targets": [
+        "kornferry"
+      ]
+    },
+    {
+      "id": "mckinsey",
+      "label": "McKinsey Careers",
+      "collector": "avature",
+      "layer": "L2",
+      "enabled": false,
+      "group": "McKinsey",
+      "base_url": "https://www.mckinsey.com/careers"
+    },
+    {
+      "id": "deloitte",
+      "label": "Deloitte 한국",
+      "collector": "deloitte_kr",
+      "layer": "L2",
+      "enabled": false,
+      "group": "딜로이트"
+    },
+    {
+      "id": "kpmg",
+      "label": "삼정KPMG",
+      "collector": "kpmg_kr",
+      "layer": "L2",
+      "enabled": false,
+      "group": "KPMG"
+    },
+    {
+      "id": "pwc",
+      "label": "삼일PwC",
+      "collector": "pwc_kr",
+      "layer": "L2",
+      "enabled": false,
+      "group": "PwC"
+    },
+    {
+      "id": "naver",
+      "label": "네이버 채용",
+      "collector": "naver_careers",
+      "layer": "L2",
+      "enabled": false,
+      "group": "네이버"
+    },
+    {
+      "id": "samsung",
+      "label": "삼성 Careers",
+      "collector": "samsung_careers",
+      "layer": "L2",
+      "enabled": false,
+      "group": "삼성",
+      "note": "reCAPTCHA — Playwright 필요"
+    },
+    {
+      "id": "posco",
+      "label": "포스코 채용",
+      "collector": "posco_recruit",
+      "layer": "L2",
+      "enabled": false,
+      "group": "포스코",
+      "note": "봇차단 — Playwright 필요"
+    },
+    {
+      "id": "shinsegae",
+      "label": "신세계그룹",
+      "collector": "shinsegae_recruit",
+      "layer": "L2",
+      "enabled": false,
+      "group": "신세계"
+    },
+    {
+      "id": "doosan",
+      "label": "두산그룹",
+      "collector": "doosan_career",
+      "layer": "L2",
+      "enabled": false,
+      "group": "두산"
+    },
+    {
+      "id": "kt",
+      "label": "KT 채용",
+      "collector": "kt_careers",
+      "layer": "L2",
+      "enabled": false,
+      "group": "KT"
+    }
   ],
   "company_groups": {
     "카카오페이": "카카오",
