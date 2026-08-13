@@ -149,6 +149,38 @@
       "hr_scope": true
     },
     {
+      "id": "kofia",
+      "label": "금융투자협회",
+      "collector": "kofia",
+      "layer": "L1",
+      "enabled": true,
+      "hr_scope": true
+    },
+    {
+      "id": "kvca",
+      "label": "한국벤처캐피탈협회",
+      "collector": "kvca",
+      "layer": "L1",
+      "enabled": true,
+      "hr_scope": true
+    },
+    {
+      "id": "ksa",
+      "label": "한국표준협회 채용정보",
+      "collector": "ksa_board",
+      "layer": "L1",
+      "enabled": true,
+      "hr_scope": true
+    },
+    {
+      "id": "khidi",
+      "label": "한국보건산업진흥원 채용공고",
+      "collector": "khidi",
+      "layer": "L1",
+      "enabled": true,
+      "hr_scope": true
+    },
+    {
       "id": "phenom",
       "label": "Phenom 제네릭",
       "collector": "phenom",

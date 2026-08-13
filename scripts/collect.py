@@ -226,6 +226,7 @@ def refresh_metadata(jobs: list[dict[str, Any]], meta: dict[str, Any]) -> dict[s
 # ---------------------------------------------------------------------------
 
 def http_get(url: str, defaults: dict[str, Any], accept: str = "application/json") -> bytes:
+    import http.client
     request = urllib.request.Request(
         url,
         headers={
@@ -234,8 +235,11 @@ def http_get(url: str, defaults: dict[str, Any], accept: str = "application/json
             "Accept-Language": "ko, en;q=0.8",
         },
     )
-    with urllib.request.urlopen(request, timeout=defaults.get("timeout_seconds", 20)) as response:
-        return response.read()
+    try:
+        with urllib.request.urlopen(request, timeout=defaults.get("timeout_seconds", 20)) as response:
+            return response.read()
+    except http.client.IncompleteRead as e:
+        return e.partial
 
 
 def http_get_json(url: str, defaults: dict[str, Any]) -> Any:
@@ -413,11 +417,212 @@ def collect_saramin(source: dict[str, Any], defaults: dict[str, Any]) -> list[di
     return jobs
 
 
+def collect_board_list(
+    source: dict[str, Any],
+    defaults: dict[str, Any],
+    url: str,
+    parse_row: Callable[[str], dict[str, Any] | None],
+    base_url: str | None = None,
+) -> list[dict[str, Any]]:
+    """협회·협단체 채용게시판 공용 HTML 수집기.
+
+    parse_row는 tr 태그 본문을 받아 {id, title, deadline} 를 돌려주는 파서.
+    """
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "text/html",
+            "Accept-Language": "ko, en;q=0.8",
+        },
+    )
+    html = b""
+    try:
+        with urllib.request.urlopen(req, timeout=defaults.get("timeout_seconds", 20)) as response:
+            html = response.read()
+    except http.client.IncompleteRead as e:
+        html = e.partial
+
+    text = html.decode("utf-8", errors="ignore")
+    jobs: list[dict[str, Any]] = []
+    for row in re.findall(r"<tr[^>]*>(.*?)</tr>", text, re.DOTALL | re.IGNORECASE):
+        parsed = parse_row(row)
+        if not parsed:
+            continue
+        job_id = parsed["id"]
+        href = parsed.get("href", "")
+        if href and base_url:
+            if href.startswith("/"):
+                href = base_url.rstrip("/") + href
+            elif not href.startswith("http"):
+                href = base_url.rstrip("/") + "/" + href
+        jobs.append(
+            {
+                "id": f"{source['id']}-{job_id}",
+                "source": source["id"],
+                "source_label": source.get("label", source["id"]),
+                "url": href or url,
+                "title": parsed["title"],
+                "company": parsed.get("company") or source.get("label", source["id"]),
+                "deadline": parsed.get("deadline"),
+            }
+        )
+    return jobs
+
+
+def collect_kvca(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """한국벤처캐피탈협회 채용공고 — 회원사(VC/투자사) 공고 게시판."""
+
+    def parse_row(row: str) -> dict[str, Any] | None:
+        match = re.search(r'listbody\.html[^"\']*po_no=(\d+)', row)
+        if not match:
+            return None
+        no = match.group(1)
+        title_match = re.search(
+            r'<a href="[^"]*listbody\.html[^"]*"[^>]*>(.*?)</a>', row, re.DOTALL | re.IGNORECASE
+        )
+        title = ""
+        if title_match:
+            title = re.sub(r"<[^>]+>", "", title_match.group(1)).strip()
+            title = title.replace("\r", "").replace("\n", " ").replace("\t", "")
+        return {
+            "id": no,
+            "href": f"https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no={no}",
+            "title": title,
+        }
+
+    return collect_board_list(
+        source,
+        defaults,
+        "https://www.kvca.or.kr/Program/user_board/list.html?a_gb=board&a_cd=7&a_item=0&sm=3_2",
+        parse_row,
+    )
+
+
+def collect_ksa(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """한국표준협회 채용정보 게시판 (K2Web)."""
+
+    def parse_row(row: str) -> dict[str, Any] | None:
+        match = re.search(r"/(\d+)/artclView\.do", row)
+        if not match:
+            return None
+        artcl = match.group(1)
+        title_match = re.search(r'<a[^>]*artclView\.do[^>]*>(.*?)</a>', row, re.DOTALL | re.IGNORECASE)
+        title = ""
+        if title_match:
+            title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", title_match.group(1))).strip()
+        return {
+            "id": artcl,
+            "href": f"/bbs/ksa_kr/757/{artcl}/artclView.do",
+            "title": title,
+        }
+
+    return collect_board_list(
+        source,
+        defaults,
+        "https://www.ksa.or.kr/ksa_kr/7013/subview.do",
+        parse_row,
+        base_url="https://www.ksa.or.kr",
+    )
+
+
+def collect_khidi(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """한국보건산업진흥원 채용공고 — 접수기간 종료일을 마감일로 사용."""
+
+    def parse_row(row: str) -> dict[str, Any] | None:
+        match = re.search(r'no1=(\d+)&linkId=(\d+)', row)
+        if not match:
+            return None
+        no, link_id = match.group(1), match.group(2)
+        title_match = re.search(r'<a[^>]*title="([^"]*)"', row, re.DOTALL | re.IGNORECASE)
+        title = title_match.group(1).strip() if title_match else ""
+        tds = [re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", td)).strip() for td in re.findall(r"<td[^>]*>(.*?)</td>", row, re.DOTALL | re.IGNORECASE)]
+        deadline = None
+        if len(tds) >= 4:
+            period = tds[3]
+            end_match = re.search(r"~[^0-9]*(\d{4}-\d{2}-\d{2})", period)
+            deadline = end_match.group(1) if end_match else None
+        return {
+            "id": f"{no}-{link_id}",
+            "href": f"/board/view?pageNum=1&rowCnt=10&no1={no}&linkId={link_id}&menuId=MENU00109",
+            "title": title,
+            "deadline": deadline,
+        }
+
+    return collect_board_list(
+        source,
+        defaults,
+        "https://www.khidi.or.kr/board?menuId=MENU00109",
+        parse_row,
+        base_url="https://www.khidi.or.kr",
+    )
+
+
+def collect_kofia(source: dict[str, Any], defaults: dict[str, Any]) -> list[dict[str, Any]]:
+    """금융투자협회(KOFIA) 채용게시판 수집기"""
+    url = "https://www.kofia.or.kr/brd/m_96/list.do"
+    import urllib.request
+    import http.client
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "text/html",
+            "Accept-Language": "ko, en;q=0.8",
+        },
+    )
+    html = b""
+    try:
+        with urllib.request.urlopen(req, timeout=defaults.get("timeout_seconds", 20)) as response:
+            html = response.read()
+    except http.client.IncompleteRead as e:
+        html = e.partial
+
+    text = html.decode("utf-8", errors="ignore")
+
+    jobs: list[dict[str, Any]] = []
+    for row in re.findall(r'<tr[^>]*>(.*?)</tr>', text, re.DOTALL | re.IGNORECASE):
+        seq_match = re.search(r'view\.do\?seq=(\d+)', row)
+        if not seq_match:
+            continue
+        seq = seq_match.group(1)
+
+        title_match = re.search(r'<a href="[^"]*view\.do\?seq=\d+[^>]*>(.*?)</a>', row, re.DOTALL | re.IGNORECASE)
+        title = ""
+        if title_match:
+            title = re.sub(r'<[^>]+>', '', title_match.group(1)).strip()
+            title = title.replace('\r', '').replace('\n', ' ').replace('\t', '')
+
+        tds = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL | re.IGNORECASE)
+        company = ""
+        if len(tds) >= 2:
+            company = re.sub(r'<[^>]+>', '', tds[1]).strip()
+
+        date_match = re.search(r'<td class="num">(\d{4}-\d{2}-\d{2})</td>', row, re.IGNORECASE)
+        date = date_match.group(1) if date_match else None
+
+        if title and seq:
+            jobs.append({
+                "id": f"kofia-{seq}",
+                "source": "kofia",
+                "source_label": "금융투자협회",
+                "url": f"https://www.kofia.or.kr/brd/m_96/view.do?seq={seq}",
+                "title": title,
+                "company": company,
+                "deadline": date,
+            })
+    return jobs
+
+
 COLLECTORS: dict[str, Callable[[dict[str, Any], dict[str, Any]], list[dict[str, Any]]]] = {
     "wanted_v4": collect_wanted,
     "kakao_api": collect_kakao,
     "jibe_json": collect_aon,
     "saramin_api": collect_saramin,
+    "kofia": collect_kofia,
+    "kvca": collect_kvca,
+    "ksa_board": collect_ksa,
+    "khidi": collect_khidi,
 }
 
 

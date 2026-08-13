@@ -32,5 +32,5 @@ python -m unittest discover -s tests
 ## 운영 메모
 
 - 사람인 API 키는 `SARAMIN_API_KEY` secret으로 등록하면 L3 안전망 collector를 연결할 수 있습니다.
-- 현재 기본 workflow는 기존 데이터를 검증하고 메타데이터를 갱신합니다.
+- 산업군/협회 채용게시판: 금융투자협회(KOFIA), 한국벤처캐피탈협회(KVCA), 한국표준협회(KSA), 한국보건산업진흥원(KHIDI) 수집기가 활성화되어 있습니다. KVCA는 VC업계 회원사 공고, KSA는 표준·품질·교육 산업 공고, KHIDI는 보건산업 채용공고(접수기간 마감일 기준)를 가져옵니다.
 - 실제 사이트별 직수집은 `config/registry.json`의 source를 활성화하고 `scripts/collect.py`의 collector 함수를 채우는 방식으로 확장합니다.
