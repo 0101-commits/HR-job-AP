@@ -2336,25 +2336,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-375706",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/375706",
-    "title": "Senior HR Manager 7년 이상",
-    "company": "빌드잇",
-    "location": "경기",
-    "deadline": "2026-08-17",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": 7,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-375515",
     "source": "wanted",
     "source_label": "원티드",
