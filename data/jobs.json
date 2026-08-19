@@ -1,5 +1,77 @@
 [
   {
+    "id": "kvca-3324",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3324",
+    "title": "(주)솔리더스인베스트먼트 투자팀 채용공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "lead",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-19T13:24:22+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41727",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41727",
+    "title": "[DWS자산운용] 신탁회계부 신입 또는 경력직 채용",
+    "company": "디더블유에스자산운용",
+    "deadline": "2026-08-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-19T13:24:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41726",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41726",
+    "title": "[페블즈자산운용] 경영지원본부(고유회계) 경력직 채용(~8/21)",
+    "company": "페블즈자산운용",
+    "deadline": "2026-08-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-19T13:24:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41725",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41725",
+    "title": "[페블즈자산운용] 운용지원 (펀드회계) 경력직 채용(~8/21)",
+    "company": "페블즈자산운용",
+    "deadline": "2026-08-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-19T13:24:21+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3323",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -341,24 +413,6 @@
     "first_seen": "2026-08-13T14:54:13+09:00",
     "company_type": "smb",
     "also_on": []
-  },
-  {
-    "id": "kvca-3314",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3314",
-    "title": "[블루캐스트인베스트먼트] 경영기획팀(경력직) 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-13T14:54:13+09:00",
-    "company_type": "smb"
   },
   {
     "id": "khidi-230-48941965",
