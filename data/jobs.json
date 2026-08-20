@@ -1,5 +1,147 @@
 [
   {
+    "id": "kofia-41744",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41744",
+    "title": "[미래에셋자산운용] 플랫폼개발본부_주문관리시스템 개발 및 운영 신입(정규직 전환형 인턴사원) 채용",
+    "company": "미래에셋자산운용",
+    "deadline": "2026-08-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41743",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41743",
+    "title": "[제이알투자운용] 컴플라이언스 경력(신입) 채용공고",
+    "company": "제이알투자운용",
+    "deadline": "2026-08-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41742",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41742",
+    "title": "[KB자산운용] 인프라운용본부 경력 채용공고 (~9/3)",
+    "company": "케이비자산운용",
+    "deadline": "2026-08-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41741",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41741",
+    "title": "[신한자산운용] 방폐기금본부 투자전략팀 채용(과장~차장급)",
+    "company": "신한자산운용",
+    "deadline": "2026-08-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41740",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41740",
+    "title": "[키움투자자산운용] 리테일본부 리테일마케팅팀 팀원 모집 (신입/경력)",
+    "company": "키움투자자산운용",
+    "deadline": "2026-08-20",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41739",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41739",
+    "title": "[신한자산운용] 방폐기금본부 전통자산운용팀 채용(대리~과장급)",
+    "company": "신한자산운용",
+    "deadline": "2026-08-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41738",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41738",
+    "title": "[유진투자증권] 인사팀 단기계약직(아르바이트) 채용 공고",
+    "company": "유진투자증권",
+    "deadline": "2026-08-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41737",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41737",
+    "title": "[한국투자신탁운용][기간연장]글로벌퀀트운용부 경력직원 채용공고(~8/30)",
+    "company": "한국투자신탁운용",
+    "deadline": "2026-08-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-20T13:23:53+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3325",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
