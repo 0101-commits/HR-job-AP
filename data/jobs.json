@@ -1,12 +1,12 @@
 [
   {
-    "id": "kofia-41794",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41794",
-    "title": "[하나증권] 영업부금융센터 경력직 인재 채용",
-    "company": "하나증권",
-    "deadline": "2026-08-21",
+    "id": "kvca-3327",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3327",
+    "title": "[GS벤처스] 경영관리본부 경력직 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
     "role": [
       "TA"
     ],
@@ -14,168 +14,7 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41793",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41793",
-    "title": "[하나증권] 프로젝트금융2실 경력직 인재 채용",
-    "company": "하나증권",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41792",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41792",
-    "title": "[하나증권] 영업추진실 경력직 인재 채용",
-    "company": "하나증권",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41791",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41791",
-    "title": "[교보악사자산운용] 채권전략팀 크레딧애널리스트 채용 (기간연장)",
-    "company": "교보악사자산운용",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41790",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41790",
-    "title": "유경피에스지자산운용(주)  리스크&amp;컴플라이언스  채용공고",
-    "company": "유경피에스지자산운용",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41789",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41789",
-    "title": "[신한투자증권] 특수금융부 기관전용사모펀드 운용 경력직 채용",
-    "company": "신한투자증권",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41788",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41788",
-    "title": "[흥국증권] Private Funds Group(해외대체 사모펀드 및 국내펀드 세일즈 팀) 아르바이트 모집 안내",
-    "company": "흥국증권",
-    "deadline": "2026-08-21",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41787",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41787",
-    "title": "㈜에스에이치자산운용 신입사원 채용공고(~8.23)",
-    "company": "에스에이치자산운용",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41786",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41786",
-    "title": "[흥국자산운용] 원화채권운용(LDI운용본부) 채용공고",
-    "company": "흥국자산운용",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41785",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41785",
-    "title": "[에프앤자산평가] 경영지원본부 신입사원 채용(~08/30)",
-    "company": "에프앤자산평가",
-    "deadline": "2026-08-21",
-    "role": [
-      "TA",
-      "CB"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T17:23:27+09:00",
+    "first_seen": "2026-08-22T09:29:26+09:00",
     "company_type": "smb"
   },
   {
@@ -526,24 +365,6 @@
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3317",
     "title": "﻿㈜하나벤처스 투자심사역(주니어급) 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-13T14:54:13+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3316",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3316",
-    "title": "한국투자파트너스(주) 투자지원실 채용",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
