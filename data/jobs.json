@@ -1,5 +1,23 @@
 [
   {
+    "id": "khidi-238-48949094",
+    "source": "khidi",
+    "source_label": "한국보건산업진흥원 채용공고",
+    "url": "https://www.khidi.or.kr/board/view?pageNum=1&rowCnt=10&no1=238&linkId=48949094&menuId=MENU00109",
+    "title": "2026년 하반기 신규직원(채용형인턴) 채용 공고",
+    "company": "한국보건산업진흥원 채용공고",
+    "deadline": "2026-09-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T17:33:43+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3329",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
