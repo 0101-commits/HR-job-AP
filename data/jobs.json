@@ -1,5 +1,179 @@
 [
   {
+    "id": "kvca-3329",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3329",
+    "title": "씨제이인베스트먼트 투자본부 인턴 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T13:33:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3328",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3328",
+    "title": "KB인베스트먼트(주) 「펀드운영본부」 직원 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T13:33:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41808",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41808",
+    "title": "[한화투자증권] DA플랫폼팀 전략 및 신사업개발  경력 채용",
+    "company": "한화투자증권",
+    "deadline": "2026-08-24",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41807",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41807",
+    "title": "[카디안자산운용] 운용지원본부 트레이딩팀 FICC 트레이더 채용(사원/대리급)(~8/25)",
+    "company": "카디안자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41806",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41806",
+    "title": "[카디안자산운용] 글로벌솔루션본부 - 대체투자펀드 운용 담당 (과/차장급 전문계약직)",
+    "company": "카디안자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41805",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41805",
+    "title": "[마인드자산운용] 투자운용본부 경력직 채용",
+    "company": "마인드자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41804",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41804",
+    "title": "[제이비자산운용] 국내 대체투자부문(부동산) 직원 채용공고",
+    "company": "제이비자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41803",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41803",
+    "title": "[키움투자자산운용] 리테일본부 연금컨설팅팀 팀원 모집 (경력)",
+    "company": "키움투자자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41802",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41802",
+    "title": "[코리아자산운용(주)] 경영지원 경력집 모집 공고",
+    "company": "코리아자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41801",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41801",
+    "title": "[키움투자자산운용] 프로젝트투자본부 투자3팀 팀원 모집 (경력)",
+    "company": "키움투자자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-08-24T13:33:13+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kofia-41800",
     "source": "kofia",
     "source_label": "금융투자협회",
@@ -992,42 +1166,6 @@
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3319",
     "title": "웨이브벤처스(주) 투자심사역 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-13T14:54:13+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3318",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3318",
-    "title": "㈜엔베스터 투자본부 투자심사역 채용(경력, VC)",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-13T14:54:13+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3317",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3317",
-    "title": "﻿㈜하나벤처스 투자심사역(주니어급) 채용 공고",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
