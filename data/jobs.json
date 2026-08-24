@@ -1,5 +1,41 @@
 [
   {
+    "id": "kofia-41800",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41800",
+    "title": "[페블즈자산운용] 경영지원본부 경력직 채용(기간연장~8/28)",
+    "company": "페블즈자산운용",
+    "deadline": "2026-08-24",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T09:31:11+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41799",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41799",
+    "title": "[티알에스투자자문] 마케팅 담당채용 공고(대리~과장급)",
+    "company": "티알에스투자자문",
+    "deadline": "2026-08-24",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-24T09:31:11+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "wanted-382051",
     "source": "wanted",
     "source_label": "원티드",
@@ -534,25 +570,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-380841",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/380841",
-    "title": "People Operations(1년 계약직)",
-    "company": "자비스앤빌런즈(삼쩜삼)",
-    "location": "서울",
-    "deadline": "2026-08-23",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-23T13:25:09+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-380768",
     "source": "wanted",
     "source_label": "원티드",
@@ -582,25 +599,6 @@
     "deadline": null,
     "role": [
       "PAY"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-23T13:25:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-380627",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/380627",
-    "title": "[CHAI CRE.W] HRM 담당자(3년~7년)",
-    "company": "차이커뮤니케이션",
-    "location": "서울",
-    "deadline": "2026-08-23",
-    "role": [
-      "HRM"
     ],
     "hr_confidence": "high",
     "grade": "member",
