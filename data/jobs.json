@@ -1,5 +1,178 @@
 [
   {
+    "id": "kofia-41842",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41842",
+    "title": "[NH농협은행] WM사업부 세무전문계약직 채용공고",
+    "company": "엔에이치농협은행",
+    "deadline": "2026-08-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41841",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41841",
+    "title": "[브이아이자산운용] 재무전략팀 채용 공고",
+    "company": "브이아이자산운용",
+    "deadline": "2026-08-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41840",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41840",
+    "title": "[토스증권] Compliance Manager (모니터링/점검)",
+    "company": "토스증권",
+    "deadline": "2026-08-25",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41839",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41839",
+    "title": "[토스증권] Customer Protection Manager (소비자보호/민원)",
+    "company": "토스증권",
+    "deadline": "2026-08-25",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41838",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41838",
+    "title": "[토스증권] Securities Settlement Manager (해외주식 - 3년 이상)",
+    "company": "토스증권",
+    "deadline": "2026-08-25",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41837",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41837",
+    "title": "[MarcyPen Asia] 투자 부문 경력직 채용 (Senior Associate)",
+    "company": "마시펜아시아자산운용",
+    "deadline": "2026-08-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41836",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41836",
+    "title": "[MarcyPen Asia] 투자 부문 경력직 채용 (Associate)",
+    "company": "마시펜아시아자산운용",
+    "deadline": "2026-08-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41835",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41835",
+    "title": "BNK경남은행 신용·운영리스크 부문 전문계약직 채용공고",
+    "company": "경남은행",
+    "deadline": "2026-08-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41834",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41834",
+    "title": "[프루츠투자자문] 자문상품 판매 투자권유대행인 모집안내",
+    "company": "프루츠투자자문",
+    "deadline": "2026-08-25",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41833",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41833",
+    "title": "[한국펀드평가] 기관컨설팅2본부 신입/경력 직원 채용공고",
+    "company": "한국펀드평가",
+    "deadline": "2026-08-25",
+    "role": [
+      "TA",
+      "CB"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-25T13:26:47+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "khidi-241-48949116",
     "source": "khidi",
     "source_label": "한국보건산업진흥원 채용공고",
@@ -51,60 +224,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-08-25T09:31:05+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41830",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41830",
-    "title": "[코리아자산운용(주)] 경영지원 경력집 모집 공고",
-    "company": "코리아자산운용",
-    "deadline": "2026-08-25",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-25T09:30:57+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41829",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41829",
-    "title": "[삼성액티브자산운용] 운용1본부 경력사원 채용(~9/6)",
-    "company": "삼성액티브자산운용",
-    "deadline": "2026-08-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-25T09:30:57+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41828",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41828",
-    "title": "[아이엠증권] 각 부문별 경력직 채용(IT트레이딩운영-서울, 전문영업직-대구)",
-    "company": "아이엠증권",
-    "deadline": "2026-08-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-25T09:30:57+09:00",
     "company_type": "smb"
   },
   {
