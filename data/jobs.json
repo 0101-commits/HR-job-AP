@@ -1,5 +1,165 @@
 [
   {
+    "id": "kvca-3333",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3333",
+    "title": "[블루캐스트인베스트먼트] 경영기획팀(경력직) 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:48+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41868",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41868",
+    "title": "[카카오페이증권] 권리 업무기획 담당자(시니어)",
+    "company": "카카오페이증권",
+    "deadline": "2026-08-26",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41867",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41867",
+    "title": "[페트라빌자산운용] 경영관리팀 신입 (인턴/사원급) 채용",
+    "company": "페트라빌자산운용",
+    "deadline": "2026-08-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41866",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41866",
+    "title": "[보고펀드자산운용]글로벌대체투자부문 경력직 채용 공고",
+    "company": "보고펀드자산운용",
+    "deadline": "2026-08-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41864",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41864",
+    "title": "[신한투자증권] AI솔루션부 경력직 채용",
+    "company": "신한투자증권",
+    "deadline": "2026-08-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41863",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41863",
+    "title": "[유진투자증권] 신기술투자팀 신입 및 경력 계약직원 채용",
+    "company": "유진투자증권",
+    "deadline": "2026-08-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41862",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41862",
+    "title": "[마인드자산운용] 투자운용본부 대체투자 운용담당 채용",
+    "company": "마인드자산운용",
+    "deadline": "2026-08-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41861",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41861",
+    "title": "[한화자산운용] RSP운용팀 (LDI 주식운용_퇴직계정) 경력직 채용 (~9/9)",
+    "company": "한화자산운용",
+    "deadline": "2026-08-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41860",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41860",
+    "title": "[마크자산운용] 경영지원본부 경력직 채용공고",
+    "company": "마크자산운용",
+    "deadline": "2026-08-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-26T13:27:46+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3332",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -78,24 +238,6 @@
     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41858",
     "title": "[마스턴투자운용] 경력사원 수시채용(국내투자)(~9/9, 기한 연장)",
     "company": "마스턴투자운용",
-    "deadline": "2026-08-26",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-26T09:31:50+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41857",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41857",
-    "title": "[카디안자산운용] 운용지원본부 트레이딩팀 FICC 트레이더 채용(사원/대리급)(~8/31 연장)",
-    "company": "카디안자산운용",
     "deadline": "2026-08-26",
     "role": [
       "TA"
@@ -933,24 +1075,6 @@
     "exp_max": null,
     "first_seen": "2026-08-18T17:20:26+09:00",
     "company_type": "enterprise"
-  },
-  {
-    "id": "kvca-3322",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3322",
-    "title": "[블루포인트파트너스] 공공기술사업화실 투자심사역 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-13T17:59:34+09:00",
-    "company_type": "smb"
   },
   {
     "id": "ksa-1590645",
