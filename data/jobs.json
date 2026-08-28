@@ -1,5 +1,165 @@
 [
   {
+    "id": "kofia-41928",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41928",
+    "title": "[스팍스자산운용] Business Development/마케팅본부 채용 (경력, 3년 이상)",
+    "company": "스팍스자산운용",
+    "deadline": "2026-08-28",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": 3,
+    "exp_max": null,
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41926",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41926",
+    "title": "[유화증권] 정보시스템팀 경력직원 채용공고",
+    "company": "유화증권",
+    "deadline": "2026-08-28",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb",
+    "also_on": []
+  },
+  {
+    "id": "kofia-41924",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41924",
+    "title": "[제이비자산운용] 국내 대체투자부문(부동산) 직원 채용공고",
+    "company": "제이비자산운용",
+    "deadline": "2026-08-28",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41923",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41923",
+    "title": "[마인드자산운용] 투자운용본부 대체투자 운용담당 채용",
+    "company": "마인드자산운용",
+    "deadline": "2026-08-28",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41922",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41922",
+    "title": "[KB증권] PBS본부 단기계약직 채용 안내 (~26/09/30)",
+    "company": "KB증권",
+    "deadline": "2026-08-28",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_group": "KB금융",
+    "company_type": "enterprise"
+  },
+  {
+    "id": "kofia-41921",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41921",
+    "title": "[토스증권] 이체/출납 도메인 운영 Manager",
+    "company": "토스증권",
+    "deadline": "2026-08-28",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41920",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41920",
+    "title": "[카디안자산운용] 글로벌솔루션본부 - 대체투자펀드 운용 담당 (과/차장급 전문계약직)",
+    "company": "카디안자산운용",
+    "deadline": "2026-08-28",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41919",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41919",
+    "title": "[오르카자산운용] 금융투자팀 경력직 운용역 채용 공고",
+    "company": "오르카자산운용",
+    "deadline": "2026-08-28",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-41918",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41918",
+    "title": "[IBK투자증권] 프로젝트금융1부(부동산PF) 채용 공고",
+    "company": "IBK투자증권",
+    "deadline": "2026-08-28",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-08-28T16:18:26+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3334",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -184,7 +344,7 @@
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3328",
-    "title": "KB인베스트먼트(주) 「펀드운영본부」 직원 채용 공고",
+    "title": "KB인베스트먼트(주) 「펀드운영본부」 직원 채용 공고(접수기한 연장)",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
