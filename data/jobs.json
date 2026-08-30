@@ -1,23 +1,5 @@
 [
   {
-    "id": "kofia-41940",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41940",
-    "title": "[교보악사자산운용] 채권운용본부 대리-차장급 채용공고 (기간연장)",
-    "company": "교보악사자산운용",
-    "deadline": "2026-08-29",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-29T22:25:48+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "kvca-3334",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
