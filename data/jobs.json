@@ -1,5 +1,23 @@
 [
   {
+    "id": "kvca-3336",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3336",
+    "title": "KB인베스트먼트(주) 「리스크심사본부, 성장지원본부」 직원 채용",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-02T17:10:57+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kofia-42003",
     "source": "kofia",
     "source_label": "금융투자협회",
@@ -946,24 +964,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-08-22T09:29:26+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3326",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3326",
-    "title": "(주)솔리더스인베스트먼트 투자팀 채용공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-21T13:26:00+09:00",
     "company_type": "smb"
   },
   {
