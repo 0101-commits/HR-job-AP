@@ -1,31 +1,12 @@
 [
   {
-    "id": "kofia-41994",
+    "id": "kofia-42003",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41994",
-    "title": "[에프앤자산평가] 금융공학실 정규직 채용(~09/13)",
-    "company": "에프앤자산평가",
-    "deadline": "2026-09-01",
-    "role": [
-      "TA",
-      "CB"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41993",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41993",
-    "title": "[부국증권 중동지점] 지점 영업 경력직 채용 공고",
-    "company": "부국증권",
-    "deadline": "2026-09-01",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42003",
+    "title": "[타이거자산운용투자일임] 트레이더(경력, 신입) 채용공고",
+    "company": "타이거자산운용투자일임",
+    "deadline": "2026-09-02",
     "role": [
       "TA"
     ],
@@ -33,17 +14,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
+    "first_seen": "2026-09-02T10:38:38+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-41992",
+    "id": "kofia-42002",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41992",
-    "title": "[신한투자증권] 상품전략부 경력직 채용",
-    "company": "신한투자증권",
-    "deadline": "2026-09-01",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42002",
+    "title": "[삼성액티브자산운용] 리서치센터 경력사원 채용(~9/13)",
+    "company": "삼성액티브자산운용",
+    "deadline": "2026-09-02",
     "role": [
       "TA"
     ],
@@ -51,17 +32,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
+    "first_seen": "2026-09-02T10:38:38+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-41991",
+    "id": "kofia-42001",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41991",
-    "title": "[한국투자신탁운용] ETF운용부 경력직원(계약직) 채용공고(~9/13)",
-    "company": "한국투자신탁운용",
-    "deadline": "2026-09-01",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42001",
+    "title": "[케이프투자증권] 재경결제팀 채용전제형 인턴 채용 (~9/13(일))",
+    "company": "케이프투자증권",
+    "deadline": "2026-09-02",
     "role": [
       "TA"
     ],
@@ -69,17 +50,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
+    "first_seen": "2026-09-02T10:38:38+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-41990",
+    "id": "kofia-42000",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41990",
-    "title": "(메리츠증권) 플랫폼운영팀 UI디자이너 채용공고(경력)",
-    "company": "메리츠증권",
-    "deadline": "2026-09-01",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42000",
+    "title": "[미래에셋자산운용] 해외부동산부문 신입(정규직 전환형 인턴사원) 채용",
+    "company": "미래에셋자산운용",
+    "deadline": "2026-09-02",
     "role": [
       "TA"
     ],
@@ -87,17 +68,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
+    "first_seen": "2026-09-02T10:38:38+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-41989",
+    "id": "kofia-41999",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41989",
-    "title": "[신영증권] 리스크심사팀 경력직원 채용공고",
-    "company": "신영증권",
-    "deadline": "2026-09-01",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41999",
+    "title": "[하나증권] 2026년 하반기 인턴십(채용연계형) 인재 모집",
+    "company": "하나증권",
+    "deadline": "2026-09-02",
     "role": [
       "TA"
     ],
@@ -105,17 +86,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
+    "first_seen": "2026-09-02T10:38:38+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-41987",
+    "id": "kofia-41998",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41987",
-    "title": "[KB자산운용] 글로벌대체투자본부(해외인프라실) 경력 채용",
-    "company": "케이비자산운용",
-    "deadline": "2026-09-01",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41998",
+    "title": "[IBK투자증권] 리스크관리부(부서장) 경력직 채용공고",
+    "company": "IBK투자증권",
+    "deadline": "2026-09-02",
     "role": [
       "TA"
     ],
@@ -123,59 +104,7 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41986",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41986",
-    "title": "[ARA Korea 자산운용] 투자팀 인턴 채용",
-    "company": "에이알에이코리아자산운용",
-    "deadline": "2026-09-01",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41985",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41985",
-    "title": "[헤리티지자산운용] 사내변호사 경력직 채용",
-    "company": "헤리티지자산운용",
-    "deadline": "2026-09-01",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-01T17:57:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-41984",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=41984",
-    "title": "Associate, Implementation Consultant",
-    "company": "블랙록자산운용",
-    "deadline": "2026-09-01",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-09-01T17:57:03+09:00",
+    "first_seen": "2026-09-02T10:38:38+09:00",
     "company_type": "smb"
   },
   {
@@ -2050,25 +1979,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-378241",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/378241",
-    "title": "[dusk그룹] Recruiting Manager (HR 채용 담당)",
-    "company": "더스크랙",
-    "location": "서울",
-    "deadline": "2026-09-01",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-08-12T14:17:00+09:00",
