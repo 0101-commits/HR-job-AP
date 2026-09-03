@@ -1,11 +1,27 @@
 [
   {
-    "id": "kofia-42031",
+    "id": "kofia-42047",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42031",
-    "title": "[신한은행] 브랜드전략실 디자이너 채용",
-    "company": "신한은행",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42047",
+    "title": "[NH투자증권] 부동산인프라사업부 프로젝트금융본부 부동산PE부",
+    "company": "NH투자증권",
+    "deadline": "2026-09-03",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-09-03T17:20:23+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42045",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42045",
+    "title": "[하나증권] 법인주식영업실 경력직 인재 채용",
+    "company": "하나증권",
     "deadline": "2026-09-03",
     "role": [
       "TA"
@@ -14,35 +30,16 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-03T10:43:21+09:00",
-    "company_group": "신한금융",
-    "company_type": "enterprise"
-  },
-  {
-    "id": "kofia-42030",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42030",
-    "title": "[마스턴투자운용] &#039;26년 경력사원 수시채용 (국내투자/팀장~팀원급)(~9/13)",
-    "company": "마스턴투자운용",
-    "deadline": "2026-09-03",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-03T10:43:21+09:00",
+    "first_seen": "2026-09-03T17:20:23+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42029",
+    "id": "kofia-42044",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42029",
-    "title": "[현대자산운용] 전산/총무 담당자 채용 (대리~과장급)",
-    "company": "현대자산운용",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42044",
+    "title": "[우리투자증권] IT본부 신시스템추진부 경력직 채용",
+    "company": "우리투자증권",
     "deadline": "2026-09-03",
     "role": [
       "TA"
@@ -51,64 +48,118 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-03T10:43:21+09:00",
+    "first_seen": "2026-09-03T17:20:23+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42028",
+    "id": "kofia-42043",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42028",
-    "title": "[쿼터백자산운용] 경영관리본부 경력(2년이상)",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42043",
+    "title": "[토스증권] Securities Settlement Manager (해외주식 - 3년 이상)",
+    "company": "토스증권",
+    "deadline": "2026-09-03",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-09-03T17:20:23+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42042",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42042",
+    "title": "[토스증권] Securities Settlement Manager (해외주식 - 주니어)",
+    "company": "토스증권",
+    "deadline": "2026-09-03",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-09-03T17:20:23+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42041",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42041",
+    "title": "[브이아이자산운용] 투자솔루션연금팀 채용 공고",
+    "company": "브이아이자산운용",
+    "deadline": "2026-09-03",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-03T17:20:23+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42040",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42040",
+    "title": "[DS투자증권]본사 영업추진 업무 경력직 채용( ~ 9/15(화))",
+    "company": "DS투자증권",
+    "deadline": "2026-09-03",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-03T17:20:23+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42039",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42039",
+    "title": "[쿼터백자산운용] 펀드매니저(PM) 채용공고 (신입/경력)",
     "company": "쿼터백자산운용",
     "deadline": "2026-09-03",
     "role": [
-      "HRM"
+      "TA"
     ],
-    "hr_confidence": "review",
+    "hr_confidence": "high",
     "grade": "member",
-    "first_seen": "2026-09-03T10:43:21+09:00",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-03T17:20:23+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42027",
+    "id": "kofia-42038",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42027",
-    "title": "[DB증권] 국제영업팀 딜러 경력자 1명 (사원 ~ 차장)",
-    "company": "DB증권",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42038",
+    "title": "[디셈버앤컴퍼니] 투자로직 연구개발 및 운영",
+    "company": "디셈버앤컴퍼니",
     "deadline": "2026-09-03",
     "role": [
       "HRM"
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-09-03T10:43:21+09:00",
+    "first_seen": "2026-09-03T17:20:23+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42026",
+    "id": "kofia-42037",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42026",
-    "title": "[켄달스퀘어자산운용] 자산운용팀(PM회계) 매니저급 (경력 3년~7년)",
-    "company": "켄달스퀘어자산운용",
-    "deadline": "2026-09-03",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-09-03T10:43:21+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42025",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42025",
-    "title": "[미래에셋증권] 연금업무혁신팀 경력직 채용",
-    "company": "미래에셋증권",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42037",
+    "title": "[다올투자증권] 고객만족센터 신입/경력사원 채용",
+    "company": "다올투자증권",
     "deadline": "2026-09-03",
     "role": [
       "TA"
@@ -117,25 +168,7 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-03T10:43:21+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42024",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42024",
-    "title": "FY2026 한국투자증권 홍보실 계량화 보조 전문직급 공개채용",
-    "company": "한국투자증권",
-    "deadline": "2026-09-03",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-03T10:43:21+09:00",
+    "first_seen": "2026-09-03T17:20:23+09:00",
     "company_type": "smb"
   },
   {
