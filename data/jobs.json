@@ -1,5 +1,23 @@
 [
   {
+    "id": "kvca-3338",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3338",
+    "title": "(주)티인베스트먼트 기획관리실원 채용공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-05T10:38:22+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3337",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -15,186 +33,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-09-04T17:16:04+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42077",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42077",
-    "title": "[마인드자산운용] 투자운용본부 대체투자 운용담당 채용",
-    "company": "마인드자산운용",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42076",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42076",
-    "title": "[우리투자증권] 리테일부문 리테일성장실 해외파생 경력직 채용",
-    "company": "우리투자증권",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42075",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42075",
-    "title": "[바로자산운용] 투자운용본부 운용부문 채용공고 (경력직)",
-    "company": "바로자산운용",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42073",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42073",
-    "title": "[IBK투자증권] 멀티에셋운용부(채권프랍 등) 채용 공고",
-    "company": "IBK투자증권",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42072",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42072",
-    "title": "[한화자산운용] 재무팀 신입/경력직 채용 (~9/18)",
-    "company": "한화자산운용",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42071",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42071",
-    "title": "[메리츠증권] 인사팀 채용공고(경력)",
-    "company": "메리츠증권",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42070",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42070",
-    "title": "[신한자산운용] 전주사무소 AI에이전트 개발 인턴 채용",
-    "company": "신한자산운용",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42069",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42069",
-    "title": "[미래에셋자산운용] ETF운용부문 ETF전략본부 경력 채용",
-    "company": "미래에셋자산운용",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42068",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42068",
-    "title": "[헤리티지자산운용] 사내변호사 경력직 채용",
-    "company": "헤리티지자산운용",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42067",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42067",
-    "title": "[한국투자신탁운용]기관영업부 경력직원 채용공고(~9/20)",
-    "company": "한국투자신탁운용",
-    "deadline": "2026-09-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-04T17:16:03+09:00",
     "company_type": "smb"
   },
   {
@@ -419,24 +257,6 @@
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3329",
     "title": "씨제이인베스트먼트 투자본부 인턴 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-24T13:33:15+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3328",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3328",
-    "title": "KB인베스트먼트(주) 「펀드운영본부」 직원 채용 공고(접수기한 연장)",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
@@ -1671,25 +1491,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-379239",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/379239",
-    "title": "HR 담당자",
-    "company": "피아이코퍼레이션",
-    "location": "서울",
-    "deadline": "2026-09-04",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-08-12T14:17:00+09:00",
