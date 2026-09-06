@@ -1,5 +1,95 @@
 [
   {
+    "id": "kofia-42088",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42088",
+    "title": "[하나은행]퇴직연금 DC/IRP 컨설턴트 채용 (부산)",
+    "company": "하나은행(구.KEB하나은행)",
+    "deadline": "2026-09-06",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-06T17:10:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42087",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42087",
+    "title": "[하나은행]퇴직연금 DC/IRP 컨설턴트 채용 (광주)",
+    "company": "하나은행(구.KEB하나은행)",
+    "deadline": "2026-09-06",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-06T17:10:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42086",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42086",
+    "title": "[하나은행]퇴직연금 DC/IRP 컨설턴트 채용 (서울)",
+    "company": "하나은행(구.KEB하나은행)",
+    "deadline": "2026-09-06",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-06T17:10:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42085",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42085",
+    "title": "[하나은행] 연금 더드림 라운지 플래너 채용(서울/인천/경기)",
+    "company": "하나은행(구.KEB하나은행)",
+    "deadline": "2026-09-06",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-06T17:10:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42084",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42084",
+    "title": "[하나은행] 연금 더드림 라운지 플래너 채용 (대구/부산/광주/대전)",
+    "company": "하나은행(구.KEB하나은행)",
+    "deadline": "2026-09-06",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-06T17:10:05+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3338",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
