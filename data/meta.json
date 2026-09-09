@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-09T10:48:09+09:00",
+  "updated_at": "2026-09-09T17:25:44+09:00",
   "schedule_kst": [
     "09:00",
     "13:00",
     "17:00"
   ],
   "version": "2.1",
-  "total_jobs": 275,
+  "total_jobs": 281,
   "review_jobs": 13
 }
