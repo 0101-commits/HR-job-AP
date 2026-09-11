@@ -1,5 +1,41 @@
 [
   {
+    "id": "kvca-3352",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3352",
+    "title": "(주)신한벤처투자 리스크심사본부 경력직 채용",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-11T17:21:36+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3350",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3350",
+    "title": "에스지씨파트너스(주) 투자본부 인력 채용 (투자심사역)",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-11T17:21:36+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3349",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -234,42 +270,6 @@
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3341",
     "title": "(주)이앤벤처파트너스 경력직 투자심사역 채용공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-08T17:22:57+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3340",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3340",
-    "title": "에이벤처스(주) 투자심사역 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-08T17:22:57+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3339",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3339",
-    "title": "이노폴리스파트너스(유) 투자심사역 채용 공고",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
