@@ -1,5 +1,23 @@
 [
   {
+    "id": "kvca-3353",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3353",
+    "title": "오엔벤처투자(주) 경영관리본부 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-12T10:48:25+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3352",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -69,115 +87,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-09-11T10:42:39+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42198",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42198",
-    "title": "[로만자산운용] 운용지원 채용공고",
-    "company": "로만자산운용",
-    "deadline": "2026-09-11",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-11T10:42:38+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42197",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42197",
-    "title": "[서스틴베스트] ESG솔루션팀원 채용",
-    "company": "서스틴베스트",
-    "deadline": "2026-09-11",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-11T10:42:38+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42196",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42196",
-    "title": "[KB증권] PBS본부 트레이더 채용 안내 (~26/09/30)",
-    "company": "KB증권",
-    "deadline": "2026-09-11",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-11T10:42:38+09:00",
-    "company_group": "KB금융",
-    "company_type": "enterprise"
-  },
-  {
-    "id": "kofia-42195",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42195",
-    "title": "[프라핏자산운용㈜] 자산운용본부 운용역(경력직) 채용공고",
-    "company": "프라핏자산운용",
-    "deadline": "2026-09-11",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-11T10:42:38+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42194",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42194",
-    "title": "[밸류시스템자산운용] 운용지원팀 경력직 채용공고(~9/20)",
-    "company": "밸류시스템자산운용",
-    "deadline": "2026-09-11",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-11T10:42:38+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42193",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42193",
-    "title": "[우리투자증권] IT본부 IT기획부 경력직 채용",
-    "company": "우리투자증권",
-    "deadline": "2026-09-11",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-11T10:42:38+09:00",
     "company_type": "smb"
   },
   {
@@ -262,24 +171,6 @@
     "hr_confidence": "review",
     "grade": "mid",
     "first_seen": "2026-09-09T17:25:37+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3341",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3341",
-    "title": "(주)이앤벤처파트너스 경력직 투자심사역 채용공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-08T17:22:57+09:00",
     "company_type": "smb"
   },
   {
@@ -1925,23 +1816,6 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-378112",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/378112",
-    "title": "미국 원어민 운영 관리 매니저",
-    "company": "퍼플아카데미",
-    "location": "서울",
-    "deadline": "2026-09-11",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
     "first_seen": "2026-08-12T14:17:00+09:00",
     "company_type": "smb"
   },
