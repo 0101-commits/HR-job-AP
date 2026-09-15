@@ -1,12 +1,12 @@
 [
   {
-    "id": "kofia-42235",
+    "id": "kofia-42241",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42235",
-    "title": "[유진투자증권] CM팀 단기계약직(아르바이트) 채용 공고",
-    "company": "유진투자증권",
-    "deadline": "2026-09-14",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42241",
+    "title": "(가칭) 넥스체인지(NXT 컨소시엄, 조각투자 장외거래소 준비법인) 인재 채용공고 [2차]",
+    "company": "넥스트레이드",
+    "deadline": "2026-09-15",
     "role": [
       "TA"
     ],
@@ -14,17 +14,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
+    "first_seen": "2026-09-15T11:05:50+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42234",
+    "id": "kofia-42240",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42234",
-    "title": "[엔라이튼자산운용] 증권운용본부 경력직 채용공고",
-    "company": "엔라이튼자산운용",
-    "deadline": "2026-09-14",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42240",
+    "title": "[iM에셋자산운용] 리스크관리팀 채용 공고(~10/5)",
+    "company": "아이엠에셋자산운용",
+    "deadline": "2026-09-15",
     "role": [
       "TA"
     ],
@@ -32,17 +32,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
+    "first_seen": "2026-09-15T11:05:50+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42233",
+    "id": "kofia-42239",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42233",
-    "title": "［큐브인더스트리얼자산운용］재무회계팀 인력 채용공고",
-    "company": "큐브인더스트리얼자산운용",
-    "deadline": "2026-09-14",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42239",
+    "title": "[IBK투자증권] 구조화금융1부(서무) 채용 공고",
+    "company": "IBK투자증권",
+    "deadline": "2026-09-15",
     "role": [
       "TA"
     ],
@@ -50,17 +50,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
+    "first_seen": "2026-09-15T11:05:50+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42232",
+    "id": "kofia-42238",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42232",
-    "title": "[서진자산운용] 경영관리본부 채용공고",
-    "company": "서진자산운용",
-    "deadline": "2026-09-14",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42238",
+    "title": "[우리투자증권] IT본부 인프라운영부 인프라운영 경력직 채용",
+    "company": "우리투자증권",
+    "deadline": "2026-09-15",
     "role": [
       "TA"
     ],
@@ -68,17 +68,17 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
+    "first_seen": "2026-09-15T11:05:50+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42231",
+    "id": "kofia-42237",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42231",
-    "title": "[신한자산운용] 부동산구조화투자본부 부동산투자1팀 채용(사원~과장급)",
-    "company": "신한자산운용",
-    "deadline": "2026-09-14",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42237",
+    "title": "[에프앤가이드] 각 부문 채용 공고",
+    "company": "에프앤가이드",
+    "deadline": "2026-09-15",
     "role": [
       "TA"
     ],
@@ -86,97 +86,7 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42230",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42230",
-    "title": "[유진투자증권] 투자운용실 신입/경력직원 채용",
-    "company": "유진투자증권",
-    "deadline": "2026-09-14",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42229",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42229",
-    "title": "[와이즈먼자산운용] 증권운용본부 운용역 채용",
-    "company": "와이즈먼자산운용",
-    "deadline": "2026-09-14",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42228",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42228",
-    "title": "[우리자산운용]ETF솔루션본부 경력직 채용공고(~9/27)",
-    "company": "우리자산운용",
-    "deadline": "2026-09-14",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42227",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42227",
-    "title": "[와이즈먼자산운용] 준법감시인 채용(채용시 조기 마감)",
-    "company": "와이즈먼자산운용",
-    "deadline": "2026-09-14",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42226",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42226",
-    "title": "[마스터자산운용] 자산운용본부 운용지원팀 채용공고",
-    "company": "마스터자산운용",
-    "deadline": "2026-09-14",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-14T18:18:49+09:00",
+    "first_seen": "2026-09-15T11:05:50+09:00",
     "company_type": "smb"
   },
   {
