@@ -1,11 +1,11 @@
 [
   {
-    "id": "kofia-42287",
+    "id": "kofia-42296",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42287",
-    "title": "[흥국자산운용] 대체투자본부 글로벌대체투자팀 경력직 채용공고",
-    "company": "흥국자산운용",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42296",
+    "title": "[신영증권] PB 경력직원 채용",
+    "company": "신영증권",
     "deadline": "2026-09-17",
     "role": [
       "TA"
@@ -14,16 +14,16 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-17T11:01:17+09:00",
+    "first_seen": "2026-09-17T17:57:52+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42286",
+    "id": "kofia-42295",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42286",
-    "title": "[KB자산운용] 리스크관리본부 경력 채용공고 (~9/30)",
-    "company": "케이비자산운용",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42295",
+    "title": "[한강에셋자산운용] 컴플라이언스&amp;리스크관리 경력직 채용",
+    "company": "한강에셋자산운용",
     "deadline": "2026-09-17",
     "role": [
       "TA"
@@ -32,16 +32,16 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-17T11:01:17+09:00",
+    "first_seen": "2026-09-17T17:57:52+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42285",
+    "id": "kofia-42294",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42285",
-    "title": "[하나증권] 영업지원실 경력직 인재 채용",
-    "company": "하나증권",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42294",
+    "title": "[현대인베스트먼트자산운용] 컴플라이언스팀 사원급(신입가능) 채용(~10/4)",
+    "company": "현대인베스트먼트자산운용",
     "deadline": "2026-09-17",
     "role": [
       "TA"
@@ -50,34 +50,32 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-17T11:01:17+09:00",
+    "first_seen": "2026-09-17T17:57:52+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42284",
+    "id": "kofia-42293",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42284",
-    "title": "[IBK자산운용(주)] 주식운용본부 경력직 채용공고",
-    "company": "아이비케이자산운용",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42293",
+    "title": "[넥스트증권] 국내 파생영업팀 전문계약직 (경력)*",
+    "company": "넥스트증권",
     "deadline": "2026-09-17",
     "role": [
-      "TA"
+      "HRM"
     ],
-    "hr_confidence": "high",
+    "hr_confidence": "review",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-17T11:01:17+09:00",
+    "first_seen": "2026-09-17T17:57:52+09:00",
     "company_type": "smb"
   },
   {
-    "id": "kofia-42283",
+    "id": "kofia-42292",
     "source": "kofia",
     "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42283",
-    "title": "[우리투자증권] IB부문 IB솔루션부 경력직 채용",
-    "company": "우리투자증권",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42292",
+    "title": "[디블록자산운용] 경영관리본부 경력직 채용",
+    "company": "디블록자산운용",
     "deadline": "2026-09-17",
     "role": [
       "TA"
@@ -86,7 +84,25 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-17T11:01:17+09:00",
+    "first_seen": "2026-09-17T17:57:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42291",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42291",
+    "title": "[플러스자산운용]펀드회계팀 채용공고",
+    "company": "플러스자산운용",
+    "deadline": "2026-09-17",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-17T17:57:52+09:00",
     "company_type": "smb"
   },
   {
