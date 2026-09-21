@@ -1,5 +1,21 @@
 [
   {
+    "id": "kvca-3355",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3355",
+    "title": "에스비브이에이 펀드운영팀 주니어 (신입 또는 경력 3년 이하)",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-09-21T10:57:33+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3353",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -154,22 +170,6 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-09-09T17:25:37+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3342",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3342",
-    "title": "쿨리지코너인베스트먼트㈜ 투자 및 펀드 운용 부문 시니어 심사역(이사급) 영입",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "mid",
     "first_seen": "2026-09-09T17:25:37+09:00",
     "company_type": "smb"
   },
