@@ -39,5 +39,5 @@ python -m unittest discover -s tests
 ## 공개 범위(Visibility) 주의
 
 - 배포 URL: <https://0101-commits.github.io/HR-job-AP/> (GitHub Pages, Actions 배포)
-- 저장소를 private으로 바꾸면 GitHub Free 플랜에서는 Pages가 중단되고 `deploy` job이 실패합니다. Pro 이상 플랜에서는 Pages는 유지되지만 사이트 자체는 계속 공개 상태입니다.
+- 2026-09-28 private 전환 결정. private 저장소에서는 GitHub Free 플랜이면 Pages가 중단되고 `deploy` job이 실패합니다. Pro 이상 플랜에서는 Pages는 유지되지만 사이트 자체는 계속 공개 상태입니다.
 - private 저장소의 Actions는 월 무료 사용량(분) 한도가 적용됩니다. 현재 cron은 하루 3회입니다.
