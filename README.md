@@ -13,6 +13,7 @@
 - `config/registry.json` - 수집 대상과 collector 매핑
 - `scripts/collect.py` - 분류, 중복 병합, 커버리지 가드, 데이터 검증
 - `.github/workflows/collect.yml` - KST 09, 13, 17시 갱신 및 Pages 배포
+- `tests/test_classifier.py` - 분류 엔진 단위 테스트
 
 ## 로컬 실행
 
@@ -34,3 +35,9 @@ python -m unittest discover -s tests
 - 사람인 API 키는 `SARAMIN_API_KEY` secret으로 등록하면 L3 안전망 collector를 연결할 수 있습니다.
 - 산업군/협회 채용게시판: 금융투자협회(KOFIA), 한국벤처캐피탈협회(KVCA), 한국표준협회(KSA), 한국보건산업진흥원(KHIDI) 수집기가 활성화되어 있습니다. KVCA는 VC업계 회원사 공고, KSA는 표준·품질·교육 산업 공고, KHIDI는 보건산업 채용공고(접수기간 마감일 기준)를 가져옵니다.
 - 실제 사이트별 직수집은 `config/registry.json`의 source를 활성화하고 `scripts/collect.py`의 collector 함수를 채우는 방식으로 확장합니다.
+
+## 공개 범위(Visibility) 주의
+
+- 배포 URL: <https://0101-commits.github.io/HR-job-AP/> (GitHub Pages, Actions 배포)
+- 2026-09-28 private 전환 결정. private 저장소에서는 GitHub Free 플랜이면 Pages가 중단되고 `deploy` job이 실패합니다. Pro 이상 플랜에서는 Pages는 유지되지만 사이트 자체는 계속 공개 상태입니다.
+- private 저장소의 Actions는 월 무료 사용량(분) 한도가 적용됩니다. 현재 cron은 하루 3회입니다.

@@ -2,7 +2,4 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .DS_Store
-
 .omc/
-__pycache__/
-*.pyc
