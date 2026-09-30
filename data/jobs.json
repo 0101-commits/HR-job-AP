@@ -1,5 +1,41 @@
 [
   {
+    "id": "kvca-3367",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3367",
+    "title": "[블루포인트파트너스] 공공기술사업화실 투자심사역 채용",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-30T19:02:41+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3366",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3366",
+    "title": "[블루포인트파트너스] 경영관리본부 투자관리팀 매니저 채용",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-09-30T19:02:41+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3365",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -265,40 +301,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-09-23T17:52:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3356",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3356",
-    "title": "컴퍼니케이파트너스 관리본부 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-22T17:51:42+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3355",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3355",
-    "title": "에스비브이에이 펀드운영팀 주니어 (신입 또는 경력 3년 이하)",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-09-21T10:57:33+09:00",
     "company_type": "smb"
   },
   {
