@@ -1,5 +1,23 @@
 [
   {
+    "id": "kvca-3368",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3368",
+    "title": "㈜센트럴투자파트너스 투자심사역 채용(경력)",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-01T11:43:18+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3367",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -51,96 +69,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-09-30T11:39:13+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42459",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42459",
-    "title": "[하나증권]AI전략실(IT기술 아키텍트) 경력직 인재 채용",
-    "company": "하나증권",
-    "deadline": "2026-09-30",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-30T11:39:12+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42458",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42458",
-    "title": "[하나증권] 디지털신사업실 경력직 인재 채용",
-    "company": "하나증권",
-    "deadline": "2026-09-30",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-30T11:39:12+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42457",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42457",
-    "title": "[현대자산운용] 글로벌에셋운용팀 채용",
-    "company": "현대자산운용",
-    "deadline": "2026-09-30",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-30T11:39:12+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42456",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42456",
-    "title": "[신한투자증권] AX본부 경력직 채용",
-    "company": "신한투자증권",
-    "deadline": "2026-09-30",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-30T11:39:12+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42455",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42455",
-    "title": "[토터스자산운용] 리서치 인턴 채용 (전공 무관, ~10/18)",
-    "company": "토터스자산운용",
-    "deadline": "2026-09-30",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-30T11:39:12+09:00",
     "company_type": "smb"
   },
   {
@@ -286,24 +214,6 @@
     "company_type": "smb"
   },
   {
-    "id": "kvca-3358",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3358",
-    "title": "프리미어파트너스(유) 사내 변호사(육아휴직 대체인력) 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-09-23T17:52:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "ksa-1590681",
     "source": "ksa",
     "source_label": "한국표준협회 채용정보",
@@ -319,25 +229,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-08-31T19:10:19+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-382051",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/382051",
-    "title": "[엔젤플러스] 인사총무 팀장",
-    "company": "코나투스(반반택시)",
-    "location": "서울",
-    "deadline": "2026-09-30",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-23T13:25:09+09:00",
     "company_type": "smb"
   },
   {
@@ -531,25 +422,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-381721",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/381721",
-    "title": "인사 및 총무 담당자 3~7년",
-    "company": "애드포러스",
-    "location": "서울",
-    "deadline": "2026-09-30",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": 3,
-    "exp_max": 7,
-    "first_seen": "2026-08-23T13:25:09+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-381662",
     "source": "wanted",
     "source_label": "원티드",
@@ -596,25 +468,6 @@
     "company": "인터엑스",
     "location": "울산",
     "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-23T13:25:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-381460",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/381460",
-    "title": "HR",
-    "company": "두꺼비세상",
-    "location": "서울",
-    "deadline": "2026-09-30",
     "role": [
       "HRM"
     ],
@@ -869,25 +722,6 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-23T13:25:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-350466",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/350466",
-    "title": "HR 채용 담당자 (기사님 및 인사 관리)",
-    "company": "스쿨버스",
-    "location": "서울",
-    "deadline": "2026-09-30",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-08-23T13:25:09+09:00",
     "company_type": "smb"
   },
@@ -2663,25 +2497,6 @@
     "company": "메라키플레이스",
     "location": "서울",
     "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-375748",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/375748",
-    "title": "HR Lead",
-    "company": "팬딩(Fanding)",
-    "location": "서울",
-    "deadline": "2026-09-30",
     "role": [
       "HRM"
     ],
