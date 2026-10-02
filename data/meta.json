@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:30:50+09:00",
+  "updated_at": "2026-10-02T11:47:18+09:00",
   "schedule_kst": [
     "09:00",
     "13:00",
@@ -7,5 +7,5 @@
   ],
   "version": "2.1",
   "total_jobs": 275,
-  "review_jobs": 15
+  "review_jobs": 12
 }
