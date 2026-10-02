@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:47:18+09:00",
+  "updated_at": "2026-10-02T19:05:57+09:00",
   "sources": [
     {
       "id": "jobflex",
@@ -71,7 +71,7 @@
       "id": "jibe",
       "label": "Aon (Jibe JSON)",
       "status": "ok",
-      "last_ok": "2026-10-02T11:47:05+09:00",
+      "last_ok": "2026-10-02T19:05:45+09:00",
       "current_count": 0,
       "count_history": [
         0,
@@ -147,9 +147,9 @@
     {
       "id": "kakao",
       "label": "Kakao Careers",
-      "status": "warn",
-      "last_ok": "2026-09-28T19:13:54+09:00",
-      "current_count": 1,
+      "status": "ok",
+      "last_ok": "2026-10-02T19:05:47+09:00",
+      "current_count": 2,
       "count_history": [
         1,
         1,
@@ -160,11 +160,11 @@
         1,
         1,
         1,
-        1
+        2
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
-      "note": "0건 감지로 직전값 유지"
+      "note": "갱신 성공"
     },
     {
       "id": "saramin",
@@ -202,10 +202,9 @@
       "id": "kofia",
       "label": "금융투자협회",
       "status": "ok",
-      "last_ok": "2026-10-02T11:47:09+09:00",
+      "last_ok": "2026-10-02T19:05:49+09:00",
       "current_count": 10,
       "count_history": [
-        10,
         0,
         10,
         10,
@@ -213,6 +212,7 @@
         10,
         5,
         5,
+        10,
         10,
         10
       ],
@@ -224,7 +224,7 @@
       "id": "kvca",
       "label": "한국벤처캐피탈협회",
       "status": "ok",
-      "last_ok": "2026-10-02T11:47:11+09:00",
+      "last_ok": "2026-10-02T19:05:51+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -246,13 +246,13 @@
       "id": "ksa",
       "label": "한국표준협회 채용정보",
       "status": "ok",
-      "last_ok": "2026-10-02T11:47:15+09:00",
+      "last_ok": "2026-10-02T19:05:55+09:00",
       "current_count": 11,
       "count_history": [
         10,
         10,
         10,
-        10,
+        11,
         11,
         11,
         11,
@@ -268,7 +268,7 @@
       "id": "khidi",
       "label": "한국보건산업진흥원 채용공고",
       "status": "ok",
-      "last_ok": "2026-10-02T11:47:18+09:00",
+      "last_ok": "2026-10-02T19:05:57+09:00",
       "current_count": 10,
       "count_history": [
         10,

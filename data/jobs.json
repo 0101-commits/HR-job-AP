@@ -1,5 +1,223 @@
 [
   {
+    "id": "kofia-42526",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42526",
+    "title": "[BNK투자증권] ECM팀 경력직원 채용 (~10/18)",
+    "company": "비엔케이투자증권",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42525",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42525",
+    "title": "[키움증권] S&amp;T Market부문 패시브솔루션팀 「ETF 운용 담당」 채용 공고 (~10/18)",
+    "company": "키움증권",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42524",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42524",
+    "title": "[한국투자신탁운용] 해외투자지원부 경력직원(계약직,육아휴직 대체) 채용공고(~10/11)",
+    "company": "한국투자신탁운용",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42523",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42523",
+    "title": "마이다스에셋자산운용㈜ 주식운용본부(해외) 채용공고",
+    "company": "마이다스에셋자산운용",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42522",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42522",
+    "title": "[대신자산신탁] 정비사업부문 경력직 직원 채용",
+    "company": "대신자산신탁",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42521",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42521",
+    "title": "[IBK투자증권] 자산관리영업본부(PB) 채용 공고",
+    "company": "IBK투자증권",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42520",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42520",
+    "title": "[현대자산운용] 글로벌에셋운용팀 채용",
+    "company": "현대자산운용",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42519",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42519",
+    "title": "[헤리티지자산운용] 사내변호사 경력직 채용",
+    "company": "헤리티지자산운용",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42518",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42518",
+    "title": "[흥국자산운용] 대체투자금융본부 인턴(신입) 채용공고",
+    "company": "흥국자산운용",
+    "deadline": "2026-10-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42517",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42517",
+    "title": "[이지스자산운용] 감사실 매니저 모집",
+    "company": "이지스자산운용",
+    "deadline": "2026-10-02",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-10-02T19:05:49+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kakao-P-14558",
+    "source": "kakao",
+    "source_label": "카카오 careers",
+    "url": "https://careers.kakao.com/jobs/P-14558",
+    "title": "LLM Research Engineer (Post-training) (신입/경력)",
+    "company": "카카오",
+    "company_group": "카카오",
+    "description": "Language Model Training팀은 카카오의 자체 Large Language Model인 Kanana를 A부터 Z까지 연구 및 개발하고, 이를 기반으로 카카오의 여러 서비스에 기여하고 있습니다. 자체 언어모델인 Kanana를 최고수준으로 개발하고싶은 분들의 지원을 기다립니다.  참고) 연구결과 * 논문   - Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts   - Mixture-Train",
+    "deadline": null,
+    "role": [
+      "HRD"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:47+09:00",
+    "company_type": "enterprise"
+  },
+  {
+    "id": "kakao-P-14559",
+    "source": "kakao",
+    "source_label": "카카오 careers",
+    "url": "https://careers.kakao.com/jobs/P-14559",
+    "title": "LLM Research Engineer (Pre-training) (신입/경력)",
+    "company": "카카오",
+    "company_group": "카카오",
+    "description": "Language Model Training팀은 카카오의 자체 Large Language Model인 Kanana를 A부터 Z까지 연구 및 개발하고, 이를 기반으로 카카오의 여러 서비스에 기여하고 있습니다. 자체 언어모델인 Kanana를 최고수준으로 개발하고싶은 분들의 지원을 기다립니다.  참고) 연구결과 * 논문   - Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts   - Mixture-Train",
+    "deadline": null,
+    "role": [
+      "HRD"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-02T19:05:47+09:00",
+    "company_type": "enterprise"
+  },
+  {
     "id": "kvca-3372",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -15,187 +233,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-02T11:47:11+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42506",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42506",
-    "title": "[한양증권] 자본시장본부 자본시장센터 신입/경력채용",
-    "company": "한양증권",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42505",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42505",
-    "title": "[브이아이자산운용] FI솔루션운용팀 채용 공고",
-    "company": "브이아이자산운용",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42504",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42504",
-    "title": "[하나자산운용] 트레이딩팀 글로벌 트레이더 채용 공고 (신입-사원급)",
-    "company": "하나자산운용",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42503",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42503",
-    "title": "[케이티투자운용] 투자사업본부 과장~차장급 채용 (~10.18)",
-    "company": "케이티투자운용",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42502",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42502",
-    "title": "[한강에셋자산운용] 리츠투자운용팀 팀원 채용",
-    "company": "한강에셋자산운용",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42501",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42501",
-    "title": "[한강에셋자산운용] 부동산부문 직원 채용 (팀장/팀원)",
-    "company": "한강에셋자산운용",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42500",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42500",
-    "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
-    "company": "한화투자증권",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42499",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42499",
-    "title": "[다올투자증권] HTS 개발 및 운영 경력사원 채용",
-    "company": "다올투자증권",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42498",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42498",
-    "title": "[이지자산평가] 대체자산평가부문 채용 공고",
-    "company": "이지자산평가",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA",
-      "CB"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42497",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42497",
-    "title": "[LS증권] 경력직 수시채용(IT 5개 부문) (~10.14(수))",
-    "company": "엘에스증권",
-    "deadline": "2026-10-02",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-02T11:47:09+09:00",
     "company_type": "smb"
   },
   {
@@ -905,26 +942,6 @@
     "grade": "member",
     "first_seen": "2026-08-23T13:25:09+09:00",
     "company_type": "smb"
-  },
-  {
-    "id": "kakao-P-14403",
-    "source": "kakao",
-    "source_label": "카카오 careers",
-    "url": "https://careers.kakao.com/jobs/P-14403",
-    "title": "LLM Research Engineer (Post-training) (신입/경력)",
-    "company": "카카오",
-    "company_group": "카카오",
-    "description": "Language Model Training팀은 카카오의 자체 Large Language Model인 Kanana를 A부터 Z까지 연구 및 개발하고, 이를 기반으로 카카오의 여러 서비스에 기여하고 있습니다. 자체 언어 모델인 Kanana를 최고 수준으로 개발하고 싶은 분들의 지원을 기다립니다.  참고) 연구결과 - Kanana-2 개발기 (1): Pre-training에서의 의사결정들을 중심으로 [(link)](https://tech.kakao.com/posts/807) - Kanana-2 개발기 (2): 개선된 post-traini",
-    "deadline": null,
-    "role": [
-      "HRD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-18T17:20:26+09:00",
-    "company_type": "enterprise"
   },
   {
     "id": "ksa-1590645",
