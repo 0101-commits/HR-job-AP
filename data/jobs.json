@@ -1,23 +1,5 @@
 [
   {
-    "id": "kofia-42527",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42527",
-    "title": "[토마토투자자문] 자산운용본부 주식운용팀 경력(10년~) 채용",
-    "company": "토마토투자자문",
-    "deadline": "2026-10-03",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-03T11:33:33+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "kakao-P-14558",
     "source": "kakao",
     "source_label": "카카오 careers",
