@@ -1,5 +1,147 @@
 [
   {
+    "id": "kofia-42559",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42559",
+    "title": "[브이아이자산운용] 재무전략팀 채용 공고",
+    "company": "브이아이자산운용",
+    "deadline": "2026-10-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42558",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42558",
+    "title": "[켄달스퀘어자산운용] 자산운용관리 (펀드회계) 채용공고(육아휴직대체)",
+    "company": "켄달스퀘어자산운용",
+    "deadline": "2026-10-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42557",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42557",
+    "title": "[SK증권] 해외주식(야간 근로) 경력직 채용(~10/30까지)",
+    "company": "SK증권",
+    "deadline": "2026-10-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42556",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42556",
+    "title": "[흥국증권] 준법감시팀 경력 직원 채용",
+    "company": "흥국증권",
+    "deadline": "2026-10-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42555",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42555",
+    "title": "[에픽투자일임] 국내외 주식 리서치 채용공고",
+    "company": "에픽투자일임",
+    "deadline": "2026-10-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42554",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42554",
+    "title": "[현대인베스트먼트자산운용] 글로벌기업금융팀 과-차장급 채용 (~10/18)",
+    "company": "현대인베스트먼트자산운용",
+    "deadline": "2026-10-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42553",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42553",
+    "title": "[흥국자산운용] 채권운용본부 채용공고",
+    "company": "흥국자산운용",
+    "deadline": "2026-10-07",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42552",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42552",
+    "title": "[두나미스자산운용] Execution Trader",
+    "company": "두나미스자산운용",
+    "deadline": "2026-10-07",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-10-07T11:56:15+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3383",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -51,184 +193,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-06T19:51:17+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42548",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42548",
-    "title": "[신한투자증권] 채권부 경력직 채용",
-    "company": "신한투자증권",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42547",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42547",
-    "title": "[에셋플러스자산운용] 26년도 하반기 마케터 직무 경력직원 채용",
-    "company": "에셋플러스자산운용",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42546",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42546",
-    "title": "[아샘자산운용] 자산운용본부 경력직 모집공고",
-    "company": "아샘자산운용",
-    "deadline": "2026-10-06",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42545",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42545",
-    "title": "[에셋플러스자산운용] 영업점 직무 고졸 신입사원 공개 채용 (경영·세무·회계 등 금융 관련 학과 전공자 우대)(*추가모집)",
-    "company": "에셋플러스자산운용",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42544",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42544",
-    "title": "[에셋플러스자산운용] 준법감시(컴플라이언스·위험관리) 직무 경력 직원 채용 (*추가모집)",
-    "company": "에셋플러스자산운용",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42543",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42543",
-    "title": "[부국증권 중동지점] 지점 영업 경력직 채용 공고",
-    "company": "부국증권",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42542",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42542",
-    "title": "[더제이자산운용] 마케팅팀 인턴~대리 채용공고",
-    "company": "더제이자산운용",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42541",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42541",
-    "title": "[에이치알자산운용] 운용파트 운용역 채용 공고(퀀트 운용팀)",
-    "company": "에이치알자산운용",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42540",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42540",
-    "title": "[KB펀드파트너스] 경력직원 채용(펀드회계/IT(일반사무관리))",
-    "company": "케이비펀드파트너스",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42539",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42539",
-    "title": "[헤리티지자산운용] 사내변호사 경력직 채용",
-    "company": "헤리티지자산운용",
-    "deadline": "2026-10-06",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-06T19:51:16+09:00",
     "company_type": "smb"
   },
   {
