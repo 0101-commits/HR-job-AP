@@ -1,5 +1,114 @@
 [
   {
+    "id": "kofia-42664",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42664",
+    "title": "[코람코자산신탁] 리츠투자부문 사업팀 경력직 채용 (과~차장급) (~11/1)",
+    "company": "코람코자산신탁",
+    "deadline": "2026-10-14",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-14T11:22:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42663",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42663",
+    "title": "[한화자산운용] 상품전략팀 경력직 채용 (~10/27)",
+    "company": "한화자산운용",
+    "deadline": "2026-10-14",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-14T11:22:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42662",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42662",
+    "title": "[우리자산운용] 혁신성장본부 첨단산업투자실 채용공고(~10/25 : 기간연장)",
+    "company": "우리자산운용",
+    "deadline": "2026-10-14",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-14T11:22:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42661",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42661",
+    "title": "[쿼터백자산운용] 마케팅 업무지원 신입·경력 채용 공고",
+    "company": "쿼터백자산운용",
+    "deadline": "2026-10-14",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-14T11:22:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42660",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42660",
+    "title": "[흥국자산운용] 대체투자금융본부 경력직 채용공고",
+    "company": "흥국자산운용",
+    "deadline": "2026-10-14",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-14T11:22:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42659",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42659",
+    "title": "[KB증권] 연금자산관리센터 I/B고객상담 단기계약직원 채용 공고 안내",
+    "company": "KB증권",
+    "deadline": "2026-10-14",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-14T11:22:19+09:00",
+    "company_group": "KB금융",
+    "company_type": "enterprise"
+  },
+  {
     "id": "ksa-1590767",
     "source": "ksa",
     "source_label": "한국표준협회 채용정보",
