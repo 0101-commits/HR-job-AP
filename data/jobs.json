@@ -1,5 +1,41 @@
 [
   {
+    "id": "kvca-3394",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3394",
+    "title": "대전투자금융(주) 직원 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-19T11:03:17+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42731",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42731",
+    "title": "[우리자산운용] 디지털커뮤니케이션팀 채용공고(~11/1)",
+    "company": "우리자산운용",
+    "deadline": "2026-10-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-19T11:03:15+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "wanted-392911",
     "source": "wanted",
     "source_label": "원티드",
@@ -3470,24 +3506,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-08T19:58:57+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3384",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3384",
-    "title": "펜처인베스트 (주) 투자심사역(경력직) 채용공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-08T12:13:25+09:00",
     "company_type": "smb"
   },
   {
