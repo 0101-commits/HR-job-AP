@@ -1,5 +1,59 @@
 [
   {
+    "id": "kvca-3397",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3397",
+    "title": "케이투인베스트먼트파트너스(유) 투자 심사역 채용의 건(PE본부)",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-19T18:21:54+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3396",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3396",
+    "title": "(주)노보섹인베스트먼트 투자본부 경력직 채용 안내",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-19T18:21:54+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3395",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3395",
+    "title": "뮤어우즈벤처스(유) 경영관리 경력직 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-19T18:21:54+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3394",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -3425,7 +3479,7 @@
     "source": "ksa",
     "source_label": "한국표준협회 채용정보",
     "url": "https://www.ksa.or.kr/bbs/ksa_kr/757/1590767/artclView.do",
-    "title": "2026년 기간제 근로자(ISMS-P 인증 전문위원) 공개채용 new",
+    "title": "2026년 기간제 근로자(ISMS-P 인증 전문위원) 공개채용",
     "company": "한국표준협회 채용정보",
     "deadline": null,
     "role": [
@@ -3454,58 +3508,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-12T11:53:29+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3387",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3387",
-    "title": "에스브이인베스트먼트(주) 글로벌본부 투자심사 인턴",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-10-08T19:58:57+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3386",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3386",
-    "title": "Sazze Partners(사제파트너스) Operations Team 채용공고 (신입)",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-08T19:58:57+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3385",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3385",
-    "title": "IMM인베스트먼트 펀드운용2본부 인프라 사무보조 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-08T19:58:57+09:00",
     "company_type": "smb"
   },
   {
