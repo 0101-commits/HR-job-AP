@@ -1,5 +1,131 @@
 [
   {
+    "id": "kofia-42797",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42797",
+    "title": "[미래에셋증권] 증권운영팀 글로벌데스크 채용",
+    "company": "미래에셋증권",
+    "deadline": "2026-10-22",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-22T11:07:51+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42796",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42796",
+    "title": "[ARA Korea 자산운용] 사내 변호사 과장 ~ 차장급 채용",
+    "company": "에이알에이코리아자산운용",
+    "deadline": "2026-10-22",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-22T11:07:51+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42795",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42795",
+    "title": "[하나은행 하나금융연구소] 연구직원 채용 공고 (~11/8)",
+    "company": "하나은행(구.외환은행)",
+    "deadline": "2026-10-22",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-22T11:07:51+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42794",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42794",
+    "title": "[마스터자산운용] 경영지원팀 경력직 채용공고",
+    "company": "마스터자산운용",
+    "deadline": "2026-10-22",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-22T11:07:51+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42793",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42793",
+    "title": "[인마크자산운용] 개발투자본부 채용공고 (과장~팀장급)",
+    "company": "인마크자산운용",
+    "deadline": "2026-10-22",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "lead",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-22T11:07:51+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42792",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42792",
+    "title": "[산은인프라자산운용] 해외사업1팀 / 철도·환경팀 경력직 채용",
+    "company": "산은인프라자산운용",
+    "deadline": "2026-10-22",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-22T11:07:51+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42791",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42791",
+    "title": "[한양증권] 채권부 인턴사원 채용공고",
+    "company": "한양증권",
+    "deadline": "2026-10-22",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-22T11:07:51+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3401",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -289,25 +415,6 @@
     "deadline": "2026-10-27",
     "role": [
       "ER"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-392468",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/392468",
-    "title": "[롯데바이오로직스] 조직문화",
-    "company": "롯데그룹 (LOTTE)",
-    "location": "인천",
-    "deadline": "2026-10-21",
-    "role": [
-      "OD"
     ],
     "hr_confidence": "high",
     "grade": "member",
@@ -2011,25 +2118,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-388129",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/388129",
-    "title": "Payroll Manager",
-    "company": "센트비(Sentbe)",
-    "location": "서울",
-    "deadline": "2026-10-21",
-    "role": [
-      "PAY"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
