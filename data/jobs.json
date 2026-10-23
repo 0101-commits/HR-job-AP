@@ -1,5 +1,200 @@
 [
   {
+    "id": "kvca-3404",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3404",
+    "title": "웰컴벤처스(주) 투자심사역(경력직) 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:06+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42830",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42830",
+    "title": "[신한투자증권] 종합금융운용부 경력직 채용",
+    "company": "신한투자증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42829",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42829",
+    "title": "[대신증권] Passive영업본부 ETF LP OMS 시스템 개발운영 경력직원 채용(~11/3)",
+    "company": "대신증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42828",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42828",
+    "title": "[대신증권] Passive영업본부 위탁 및 우정차익거래 클라이언트 세일즈 경력직원 채용(~11/3)",
+    "company": "대신증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42827",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42827",
+    "title": "허브자산운용 국내 부동산IB 경력직 채용",
+    "company": "허브자산운용",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42826",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42826",
+    "title": "[한국투자증권] 리스크관리시스템 개발·운영 경력직 채용",
+    "company": "한국투자증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42825",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42825",
+    "title": "[신한투자증권] 리서치본부 RA 공개채용",
+    "company": "신한투자증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42824",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42824",
+    "title": "[신영증권] 헤리티지솔루션부 경력직원 채용",
+    "company": "신영증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42823",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42823",
+    "title": "[KB증권] 핀테크Biz팀 경력직(연봉계약직) 채용 (~11/8)",
+    "company": "KB증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_group": "KB금융",
+    "company_type": "enterprise"
+  },
+  {
+    "id": "kofia-42822",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42822",
+    "title": "[넥스트증권] Communication Manager",
+    "company": "넥스트증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42821",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42821",
+    "title": "[넥스트증권] 해외주식 야간데스크 담당자(1년 계약직)*",
+    "company": "넥스트증권",
+    "deadline": "2026-10-23",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-10-23T17:53:05+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "wanted-394199",
     "source": "wanted",
     "source_label": "원티드",
@@ -3591,24 +3786,6 @@
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3393",
     "title": "[유니스트기술지주] 경력직 투자심사역 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-16T10:53:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3392",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3392",
-    "title": "㈜마젤란기술투자 관리본부 채용 공고",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
