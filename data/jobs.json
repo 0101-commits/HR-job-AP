@@ -1,5 +1,114 @@
 [
   {
+    "id": "kofia-42841",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42841",
+    "title": "[수협은행] 자산관리(PB) 전문직 채용공고",
+    "company": "수협은행",
+    "deadline": "2026-10-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-26T10:59:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42840",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42840",
+    "title": "보훈대상자 전용 채용 (IT기획부,인프라시스템부)",
+    "company": "KB증권",
+    "deadline": "2026-10-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-26T10:59:21+09:00",
+    "company_group": "KB금융",
+    "company_type": "enterprise"
+  },
+  {
+    "id": "kofia-42839",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42839",
+    "title": "[우리자산운용] 컴플라이언스팀 사내변호사 채용 공고(~11/8)",
+    "company": "우리자산운용",
+    "deadline": "2026-10-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-26T10:59:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42838",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42838",
+    "title": "[상상인증권] 법인 패시브(파생) 지원 채용(모집기간 : 10/19~11/1)",
+    "company": "상상인증권",
+    "deadline": "2026-10-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-26T10:59:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42837",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42837",
+    "title": "[상상인증권] 법인 패시브(파생) 영업 채용(모집기간 : 10/19~11/1)",
+    "company": "상상인증권",
+    "deadline": "2026-10-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-26T10:59:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42836",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42836",
+    "title": "[아이엠증권] 2026년 신입사원 채용",
+    "company": "아이엠증권",
+    "deadline": "2026-10-26",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-26T10:59:21+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3404",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
