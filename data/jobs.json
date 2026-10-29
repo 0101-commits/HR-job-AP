@@ -1,5 +1,581 @@
 [
   {
+    "id": "kofia-42906",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42906",
+    "title": "[두나무투자일임] IT운용 전문인력 과장급 경력직 채용(~11/13)",
+    "company": "두나무투자일임",
+    "deadline": "2026-10-29",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:04+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42905",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42905",
+    "title": "[대신증권] IT개발부 금융상품/출납/퇴직연금 개발 경력직원 채용(~11/9)",
+    "company": "대신증권",
+    "deadline": "2026-10-29",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:04+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42904",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42904",
+    "title": "[코레이트자산운용] 채권운용본부 경력직 채용",
+    "company": "코레이트자산운용",
+    "deadline": "2026-10-29",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:04+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42903",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42903",
+    "title": "[IBK투자증권] PB 경력직 채용공고(상시)",
+    "company": "IBK투자증권",
+    "deadline": "2026-10-29",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:04+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42902",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42902",
+    "title": "[대신자산운용] 주식운용본부 경력직원 채용 공고(팀원)",
+    "company": "대신자산운용",
+    "deadline": "2026-10-29",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:04+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42901",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42901",
+    "title": "[산은인프라자산운용] 전주사무소(리서치 및 현지 업무지원) 경력직 채용",
+    "company": "산은인프라자산운용",
+    "deadline": "2026-10-29",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:04+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42900",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42900",
+    "title": "[산은인프라자산운용] 리스크관리팀 경력직 모집(대리급 이하)",
+    "company": "산은인프라자산운용",
+    "deadline": "2026-10-29",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-10-29T12:07:04+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395333",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395333",
+    "title": "인사 기획 매니저",
+    "company": "번개장터",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395267",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395267",
+    "title": " [인턴] Recruiting Coordinator (체험형)",
+    "company": "BAT(비에이티)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395212",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395212",
+    "title": "경영지원팀 인사/총무 담당",
+    "company": "블랙페이퍼",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395126",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395126",
+    "title": "[공통] HRM - HR 전략/제도 기획",
+    "company": "현대오토에버",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395122",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395122",
+    "title": "[인재영입팀] Talent Acquisition Manager",
+    "company": "한국신용데이터(KCD)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395104",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395104",
+    "title": "HR Operations Manager (6개월 계약직)",
+    "company": "데이블(Dable)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395095",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395095",
+    "title": "[운영부문] 인사운영 담당자",
+    "company": "니어스랩",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-395014",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/395014",
+    "title": "인사팀 리더",
+    "company": "다비오(Dabeeo)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "lead",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394998",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394998",
+    "title": "평가/보상 담당자",
+    "company": "게임듀오",
+    "location": "경기",
+    "deadline": null,
+    "role": [
+      "CB"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394911",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394911",
+    "title": "Recruiter",
+    "company": "플라잎",
+    "location": "경기",
+    "deadline": "2026-11-30",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394843",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394843",
+    "title": "Talent Acquisition Manager",
+    "company": "일레븐코퍼레이션",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394709",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394709",
+    "title": "CEO Staff (인사·총무/1~3년)",
+    "company": "마야크루",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": 1,
+    "exp_max": 3,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394650",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394650",
+    "title": "Recruiting Coordinator(6개월 계약직)",
+    "company": "유닛블랙",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394541",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394541",
+    "title": "채용 담당자 (신입~3년)",
+    "company": "에코마케팅",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394539",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394539",
+    "title": "HR Manager",
+    "company": "유디임팩트",
+    "location": "서울",
+    "deadline": "2026-12-31",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394445",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394445",
+    "title": "Talent Acquisition Manager",
+    "company": "버핏서울",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394443",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394443",
+    "title": "채용운영 코디네이터 (계약직)",
+    "company": "딥다이브",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394420",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394420",
+    "title": "커리어개발팀 팀장",
+    "company": "팀스파르타",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "lead",
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394363",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394363",
+    "title": "Assistant Manager – Talent Development",
+    "company": "엘브이엠에이치(LVMH)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-394296",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/394296",
+    "title": "인사담당자",
+    "company": "로그프레소",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-385751",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/385751",
+    "title": "인사담당자",
+    "company": "리비바이오",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-325211",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/325211",
+    "title": "General Affairs",
+    "company": "엔라이즈(NRISE)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-255472",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/255472",
+    "title": "Tech Recruiter(테크 리크루터)",
+    "company": "페이타랩(패스오더)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-189892",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/189892",
+    "title": "Recruiter(Talent Sourcer)",
+    "company": "페이타랩(패스오더)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-10-29T12:07:02+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3407",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -33,186 +609,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-28T19:05:22+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42899",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42899",
-    "title": "[현대차증권] 클라우드 아키텍트 담당(경력) 채용",
-    "company": "현대차증권",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42898",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42898",
-    "title": "[BNK투자증권] CM부 백오피스 경력직원 채용 (~11/8)",
-    "company": "비엔케이투자증권",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42897",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42897",
-    "title": "[카디안자산운용] 채권운용본부 채권운용팀 - 채권 펀드매니저 채용 (차/부장급)",
-    "company": "카디안자산운용",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42896",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42896",
-    "title": "[티알에스투자자문] 준법감시인(경력) 채용",
-    "company": "티알에스투자자문",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42895",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42895",
-    "title": "[무궁화신탁] 인사총무팀 계약직 채용공고",
-    "company": "무궁화신탁",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42894",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42894",
-    "title": "[플러스자산운용] 리스크관리팀 채용공고",
-    "company": "플러스자산운용",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42893",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42893",
-    "title": "[페블즈자산운용/수시채용] 운용지원(펀드회계/경력 3년이상) 채용",
-    "company": "페블즈자산운용",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": 3,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42892",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42892",
-    "title": "[자산운용현] 경영관리본부 경력직 채용",
-    "company": "자산운용현",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42891",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42891",
-    "title": "[BNK자산운용] 주식운용본부 리서치센터 채용(신입/경력)",
-    "company": "비엔케이자산운용",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42890",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42890",
-    "title": "[신한자산운용] 글로벌대체투자본부 글로벌대체투자운용1팀 채용(사원~차장급)",
-    "company": "신한자산운용",
-    "deadline": "2026-10-28",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-28T19:05:20+09:00",
     "company_type": "smb"
   },
   {
@@ -304,25 +700,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-23T11:13:08+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-394122",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/394122",
-    "title": "급여 및 지원사업 운영담당자",
-    "company": "인터엑스",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "PAY"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-23T11:13:08+09:00",
@@ -543,7 +920,7 @@
     "source": "wanted",
     "source_label": "원티드",
     "url": "https://www.wanted.co.kr/wd/393425",
-    "title": "[교육사업부] 교육 비즈니스 매니저 (3~7년)",
+    "title": "[교육사업부] 교육 PM(3~7년)",
     "company": "위시켓",
     "location": "서울",
     "deadline": null,
@@ -573,23 +950,6 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-10-23T11:13:08+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-393417",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/393417",
-    "title": "[롯데월드] CS혁신",
-    "company": "롯데그룹 (LOTTE)",
-    "location": "서울",
-    "deadline": "2026-10-28",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
     "first_seen": "2026-10-23T11:13:08+09:00",
     "company_type": "smb"
   },
@@ -856,25 +1216,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-389996",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/389996",
-    "title": "[HR&A] HR Assistant 6개월 계약직 (신입)",
-    "company": "베이글코드(Bagelcode)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-23T11:13:08+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-388129",
     "source": "wanted",
     "source_label": "원티드",
@@ -882,7 +1223,7 @@
     "title": "Payroll Manager",
     "company": "센트비(Sentbe)",
     "location": "서울",
-    "deadline": "2026-10-28",
+    "deadline": "2026-11-03",
     "role": [
       "PAY"
     ],
@@ -1116,26 +1457,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-392677",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/392677",
-    "title": "HR Senior (인사·조직문화·채용)",
-    "company": "미켈로로보틱스",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "TA",
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-392670",
     "source": "wanted",
     "source_label": "원티드",
@@ -1212,25 +1533,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-392330",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/392330",
-    "title": "[underdogs] 채용(TA) 담당자",
-    "company": "유디임팩트",
-    "location": "서울",
-    "deadline": "2026-11-30",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-392309",
     "source": "wanted",
     "source_label": "원티드",
@@ -1286,25 +1588,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-392184",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/392184",
-    "title": "HR Manager",
-    "company": "직진코퍼레이션",
-    "location": "서울",
-    "deadline": "2027-01-14",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-392134",
     "source": "wanted",
     "source_label": "원티드",
@@ -1318,25 +1601,6 @@
     ],
     "hr_confidence": "high",
     "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-392127",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/392127",
-    "title": "[GOYARD] HR & ADMIN ASSISTANT MANAGER",
-    "company": "고야드아시아퍼시픽리미티드한국지점",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -1437,25 +1701,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-391808",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/391808",
-    "title": "[플랫포인트] 인사총무 담당",
-    "company": "에프피앤코(FP&Co.)",
-    "location": "서울",
-    "deadline": "2026-10-31",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-391773",
     "source": "wanted",
     "source_label": "원티드",
@@ -1526,25 +1771,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-391438",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/391438",
-    "title": "인사기획 매니저_Junior",
-    "company": "버핏서울",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -1640,25 +1866,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-391100",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/391100",
-    "title": "인사팀장",
-    "company": "잇올",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -1873,25 +2080,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-390641",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/390641",
-    "title": "Head of Talent (핵심 인재, CEO 직속)",
-    "company": "와이즐리컴퍼니",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-390615",
     "source": "wanted",
     "source_label": "원티드",
@@ -1987,26 +2175,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-390232",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/390232",
-    "title": "Recruiter(Operations)",
-    "company": "페이타랩(패스오더)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb",
-    "also_on": []
-  },
-  {
     "id": "wanted-390231",
     "source": "wanted",
     "source_label": "원티드",
@@ -2077,25 +2245,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-389824",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/389824",
-    "title": "경영지원 HR/GA 인사총무 담당자",
-    "company": "마플코퍼레이션(Marpple)",
-    "location": "서울",
-    "deadline": "2026-10-30",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -2181,7 +2330,7 @@
     "title": "HR 관리(HRM) 담당자",
     "company": "메가스터디교육",
     "location": "서울",
-    "deadline": "2026-10-31",
+    "deadline": null,
     "role": [
       "HRM"
     ],
@@ -2244,25 +2393,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-389377",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/389377",
-    "title": "[HYBE] 임원인사운영",
-    "company": "하이브(HYBE)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -2381,25 +2511,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-389168",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/389168",
-    "title": "Senior HR Manager (HR Planning & Operations) (인사/총무, 서울/대전)",
-    "company": "큐노바",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-388953",
     "source": "wanted",
     "source_label": "원티드",
@@ -2432,25 +2543,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-388751",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/388751",
-    "title": "Talent Acquisition Manager",
-    "company": "엔닷라이트",
-    "location": "경기",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -2601,44 +2693,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-388071",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/388071",
-    "title": "[운영부문] 인사운영 담당자",
-    "company": "니어스랩",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-387887",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/387887",
-    "title": "Recruiting Coordinator (계약직)",
-    "company": "힐링페이퍼(강남언니)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -2853,25 +2907,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-386557",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/386557",
-    "title": "L&D(Learning & Development) Manager",
-    "company": "팀스파르타",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRD"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-386548",
     "source": "wanted",
     "source_label": "원티드",
@@ -2885,25 +2920,6 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-386542",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/386542",
-    "title": "[인턴] L&D(Learning & Development) Manager (전환형)",
-    "company": "팀스파르타",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRD"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
     "company_type": "smb"
   },
@@ -3207,44 +3223,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-384806",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/384806",
-    "title": "[포토이즘] 컬처&오피스 매니저",
-    "company": "서북",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-384805",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/384805",
-    "title": "HRBP (HR Business Partner)",
-    "company": "쏘카(SOCAR)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "BP"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-384343",
     "source": "wanted",
     "source_label": "원티드",
@@ -3255,25 +3233,6 @@
     "deadline": "2026-10-31",
     "role": [
       "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-384335",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/384335",
-    "title": "[underdogs] HR Manager",
-    "company": "유디임팩트",
-    "location": "서울",
-    "deadline": "2026-11-30",
-    "role": [
-      "HRM"
     ],
     "hr_confidence": "high",
     "grade": "mid",
@@ -3366,25 +3325,6 @@
     "url": "https://www.wanted.co.kr/wd/383862",
     "title": "HR Operations Manager (내부 조직 HR 체계·운영 담당)",
     "company": "토스씨엑스",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-383781",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/383781",
-    "title": "피플 오퍼레이션 매니저 (People Operations Manager)",
-    "company": "모비두(소스라이브)",
     "location": "서울",
     "deadline": null,
     "role": [
@@ -3494,25 +3434,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-383650",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/383650",
-    "title": "HR Business Partner",
-    "company": "뉴로퓨전",
-    "location": "경기",
-    "deadline": null,
-    "role": [
-      "BP"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-383636",
     "source": "wanted",
     "source_label": "원티드",
@@ -3566,25 +3487,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-382827",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/382827",
-    "title": "HR Manager",
-    "company": "크로스이엔에프",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -3663,26 +3565,6 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-381918",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/381918",
-    "title": "Talent Acquisition & HRBP(1~3년차)",
-    "company": "BAT(비에이티)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "TA",
-      "BP"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": 1,
-    "exp_max": 3,
     "first_seen": "2026-10-17T17:05:31+09:00",
     "company_type": "smb"
   },
@@ -3896,25 +3778,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-381798",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/381798",
-    "title": "인사총무 담당자",
-    "company": "키네틱하우스",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-23T13:25:09+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-381793",
     "source": "wanted",
     "source_label": "원티드",
@@ -3982,25 +3845,6 @@
     "deadline": "2026-12-31",
     "role": [
       "HRD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-23T13:25:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-380690",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/380690",
-    "title": "Payroll Specialist",
-    "company": "의식주컴퍼니(런드리고)",
-    "location": "경기",
-    "deadline": null,
-    "role": [
-      "PAY"
     ],
     "hr_confidence": "high",
     "grade": "member",
@@ -4172,25 +4016,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-380513",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/380513",
-    "title": "[아정당] 노무/컴플라이언스 담당자 (서울)",
-    "company": "아정네트웍스",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "ER"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-13T14:34:43+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-380252",
     "source": "wanted",
     "source_label": "원티드",
@@ -4278,25 +4103,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-379381",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/379381",
-    "title": "채용·HR 운영 담당자",
-    "company": "비엔동물전문의료센터",
-    "location": "경기",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-08-12T14:17:00+09:00",
@@ -4895,25 +4701,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-370210",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/370210",
-    "title": "[드림올]Tutor HR",
-    "company": "드림올",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-370167",
     "source": "wanted",
     "source_label": "원티드",
@@ -5198,25 +4985,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-359492",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/359492",
-    "title": "APAC 피플옵스 담당자 (HR Generalist)",
-    "company": "스픽이지랩스코리아(스픽)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-358981",
     "source": "wanted",
     "source_label": "원티드",
@@ -5350,44 +5118,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-343594",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/343594",
-    "title": "피플팀 리더",
-    "company": "와이즐리컴퍼니",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-343342",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/343342",
-    "title": "HR Manager",
-    "company": "와탭랩스(WhaTapLabs)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-341318",
     "source": "wanted",
     "source_label": "원티드",
@@ -5462,45 +5192,6 @@
     "exp_max": null,
     "first_seen": "2026-08-12T14:17:00+09:00",
     "company_type": "smb"
-  },
-  {
-    "id": "wanted-337337",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/337337",
-    "title": "HR Lead",
-    "company": "와탭랩스(WhaTapLabs)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-335498",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/335498",
-    "title": "Recruiter(Talent Sourcer)",
-    "company": "페이타랩(패스오더)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb",
-    "also_on": []
   },
   {
     "id": "wanted-333071",
@@ -5610,26 +5301,6 @@
     ],
     "hr_confidence": "high",
     "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb",
-    "also_on": []
-  },
-  {
-    "id": "wanted-283083",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/283083",
-    "title": "Tech Recruiter(테크 리크루터)",
-    "company": "페이타랩(패스오더)",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-08-12T14:17:00+09:00",
