@@ -1390,25 +1390,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-392348",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/392348",
-    "title": "인사팀(payroll)",
-    "company": "메디랩코리아",
-    "location": "서울",
-    "deadline": "2026-10-31",
-    "role": [
-      "PAY"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-392309",
     "source": "wanted",
     "source_label": "원티드",
@@ -1710,25 +1691,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-391148",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/391148",
-    "title": "인사총무 담당자",
-    "company": "코나투스(반반택시)",
-    "location": "서울",
-    "deadline": "2026-10-31",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-391105",
     "source": "wanted",
     "source_label": "원티드",
@@ -1819,25 +1781,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-391006",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/391006",
-    "title": "피플컬처팀 리드 (HR Lead)",
-    "company": "워트인텔리전스",
-    "location": "서울",
-    "deadline": "2026-10-31",
-    "role": [
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -2066,44 +2009,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-389859",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/389859",
-    "title": "[dusk그룹] HR담당자",
-    "company": "더스크랙",
-    "location": "서울",
-    "deadline": "2026-10-31",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-389855",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/389855",
-    "title": "[dusk그룹] Recruiting Manager (HR 채용 담당)",
-    "company": "더스크랙",
-    "location": "서울",
-    "deadline": "2026-10-31",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
@@ -3076,25 +2981,6 @@
     ],
     "hr_confidence": "high",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-384343",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/384343",
-    "title": "Talent Acquisition Manager",
-    "company": "달파",
-    "location": "서울",
-    "deadline": "2026-10-31",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
