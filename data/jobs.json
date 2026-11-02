@@ -1,5 +1,203 @@
 [
   {
+    "id": "kvca-3410",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3410",
+    "title": "위벤처스 투자심사역(경력) 채용",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:35+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42951",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42951",
+    "title": "[KB자산운용] 인프라운용본부 경력 채용 (~11/17)",
+    "company": "케이비자산운용",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42950",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42950",
+    "title": "[카디안자산운용] 채권운용본부 채권운용팀 - 채권 펀드매니저 채용 (차/부장급)",
+    "company": "카디안자산운용",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42949",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42949",
+    "title": "[IBK자산운용(주)] 주식운용본부 경력직 채용공고",
+    "company": "아이비케이자산운용",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42948",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42948",
+    "title": "[삼천리자산운용] 준법감시&amp;위험관리팀 신입/경력직(대리급) 채용",
+    "company": "삼천리자산운용",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42947",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42947",
+    "title": "[상상인증권] 법인 패시브(파생) 지원 채용(모집기간 : 11/2~11/8(기간연장))",
+    "company": "상상인증권",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42946",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42946",
+    "title": "2026년 제3차 국민건강보험공단 전문인력 채용 공고",
+    "company": "금융투자협회",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42945",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42945",
+    "title": "[상상인증권] 법인 패시브(파생) 영업 채용(모집기간 : 11/2~11/8(기간연장))",
+    "company": "상상인증권",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42944",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42944",
+    "title": "[카디안자산운용] 주식운용본부 인턴 채용 (2027년 상반기)",
+    "company": "카디안자산운용",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42943",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42943",
+    "title": "[카디안자산운용] 채권운용본부 인턴 채용 (2027년 상반기)",
+    "company": "카디안자산운용",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42942",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42942",
+    "title": "[인마크자산운용] 개발투자본부 채용공고 (과장~팀장급)",
+    "company": "인마크자산운용",
+    "deadline": "2026-11-02",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "lead",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-02T11:57:34+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3409",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -22,7 +220,7 @@
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3408",
-    "title": "[KT인베스트먼트] 투자본부 투자심사역 채용(심사역 ~ 임원급)",
+    "title": "[KT인베스트먼트] 투자본부 투자심사역 채용",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
@@ -885,25 +1083,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-393359",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/393359",
-    "title": "HRM",
-    "company": "폴라리스오피스",
-    "location": "서울",
-    "deadline": "2026-11-01",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-23T11:13:08+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-393331",
     "source": "wanted",
     "source_label": "원티드",
@@ -1012,25 +1191,6 @@
     "grade": "mid",
     "exp_min": 3,
     "exp_max": 7,
-    "first_seen": "2026-10-23T11:13:08+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-393181",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/393181",
-    "title": "HR Operations",
-    "company": "에프앤코",
-    "location": "서울",
-    "deadline": "2026-11-01",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-10-23T11:13:08+09:00",
     "company_type": "smb"
   },
@@ -1199,24 +1359,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-21T17:55:54+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3397",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3397",
-    "title": "케이투인베스트먼트파트너스(유) 투자 심사역 채용의 건(PE본부)",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-20T17:56:15+09:00",
     "company_type": "smb"
   },
   {
@@ -2724,25 +2866,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-386431",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/386431",
-    "title": "[인사본부_인사운영팀] HR Operations Manager",
-    "company": "매드업",
-    "location": "서울",
-    "deadline": "2026-11-01",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "mid",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-386422",
     "source": "wanted",
     "source_label": "원티드",
@@ -2756,26 +2879,6 @@
     ],
     "hr_confidence": "review",
     "grade": "mid",
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-386382",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/386382",
-    "title": "[인사본부_채용팀] Recruiting Business Partner",
-    "company": "매드업",
-    "location": "서울",
-    "deadline": "2026-11-01",
-    "role": [
-      "TA",
-      "BP"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-10-17T17:05:31+09:00",
     "company_type": "smb"
   },
