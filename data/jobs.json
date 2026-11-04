@@ -1,5 +1,25 @@
 [
   {
+    "id": "kakao-P-14581",
+    "source": "kakao",
+    "source_label": "카카오 careers",
+    "url": "https://careers.kakao.com/jobs/P-14581",
+    "title": "생성형 모델 Research Engineer (Post-training) (신입/경력)",
+    "company": "카카오",
+    "company_group": "카카오",
+    "description": "저희 조직은 이미지·영상 생성 모델을 연구·개발하고, 이를 카카오 및 그룹사의 서비스에 필요한 기능으로 확장하는 역할을 수행합니다. 모델의 기본 성능을 높이는 동시에 서비스별 요구사항에 맞춰 특화 기능과 생성 품질을 개선하고, 실제 서비스에 적용할 수 있는 파이프라인을 설계하고 구현합니다. 이러한 AI 기술을 바탕으로 기존 업무의 효율성을 높이고 새로운 사업 기회를 넓히는 것이 조직의 핵심 미션입니다. 모델의 학습과 성능 개선부터 서비스 적용까지, 기술의 가능성을 실제 활용 가치로 연결할 동료를 찾습니다.  참고) 연구결과 * 논문",
+    "deadline": null,
+    "role": [
+      "HRD"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-04T20:39:36+09:00",
+    "company_type": "enterprise"
+  },
+  {
     "id": "kvca-3415",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
