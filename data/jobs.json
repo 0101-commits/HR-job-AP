@@ -1,5 +1,144 @@
 [
   {
+    "id": "kvca-3415",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3415",
+    "title": "스틱벤처스(주) 투자본부 투자심사역 채용",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-04T12:34:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3414",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3414",
+    "title": "[대전투자금융(주)] 대표이사 후보자 공개모집 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-11-04T12:34:21+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42996",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42996",
+    "title": "[DB증권] ICT본부 정보보호인력 경력직 모집(과장~차장급)",
+    "company": "DB증권",
+    "deadline": "2026-11-04",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-11-04T12:34:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42995",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42995",
+    "title": "[KB증권] IT본부 경력직 채용(~11/8)",
+    "company": "KB증권",
+    "deadline": "2026-11-04",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-04T12:34:19+09:00",
+    "company_group": "KB금융",
+    "company_type": "enterprise"
+  },
+  {
+    "id": "kofia-42994",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42994",
+    "title": "[현대차증권] 내부감사 (경력) 채용 (~11/4)",
+    "company": "현대차증권",
+    "deadline": "2026-11-04",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-04T12:34:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42993",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42993",
+    "title": "삼성화재 연금가입자 고객관리 특화 HRC(Hybrid Risk Consultant) 모집┃금융권 경력자/경력단절자/퇴직자 우대",
+    "company": "삼성화재해상보험",
+    "deadline": "2026-11-04",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-11-04T12:34:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42992",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42992",
+    "title": "[상상인증권] 법인 패시브(파생) 지원 채용(모집기간 : 11/2~11/8(기간연장))",
+    "company": "상상인증권",
+    "deadline": "2026-11-04",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-04T12:34:19+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-42991",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42991",
+    "title": "[상상인증권] 법인 패시브(파생) 영업 채용(모집기간 : 11/2~11/8(기간연장))",
+    "company": "상상인증권",
+    "deadline": "2026-11-04",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-04T12:34:19+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3411",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -1140,42 +1279,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-10-23T11:13:08+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3402",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3402",
-    "title": "﻿뮤렉스파트너스(유) 경영기획본부 신입 채용공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-22T17:58:11+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3401",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3401",
-    "title": "[블루포인트파트너스] 경영관리본부 투자관리팀 정규직(주니어급 매니저) 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-21T17:55:54+09:00",
     "company_type": "smb"
   },
   {
