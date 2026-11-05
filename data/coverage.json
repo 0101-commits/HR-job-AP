@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:55:02+09:00",
+  "updated_at": "2026-11-05T20:41:04+09:00",
   "sources": [
     {
       "id": "jobflex",
@@ -71,7 +71,7 @@
       "id": "jibe",
       "label": "Aon (Jibe JSON)",
       "status": "ok",
-      "last_ok": "2026-11-05T12:54:52+09:00",
+      "last_ok": "2026-11-05T20:40:54+09:00",
       "current_count": 0,
       "count_history": [
         0,
@@ -148,7 +148,7 @@
       "id": "kakao",
       "label": "Kakao Careers",
       "status": "ok",
-      "last_ok": "2026-11-05T12:54:54+09:00",
+      "last_ok": "2026-11-05T20:40:55+09:00",
       "current_count": 3,
       "count_history": [
         2,
@@ -158,7 +158,7 @@
         2,
         2,
         2,
-        2,
+        3,
         3,
         3
       ],
@@ -182,7 +182,7 @@
       "label": "원티드 안전망",
       "status": "fail",
       "last_ok": "2026-10-29T12:07:02+09:00",
-      "current_count": 245,
+      "current_count": 244,
       "count_history": [
         269,
         269,
@@ -202,9 +202,9 @@
     {
       "id": "kofia",
       "label": "금융투자협회",
-      "status": "warn",
-      "last_ok": "2026-11-04T12:34:19+09:00",
-      "current_count": 6,
+      "status": "ok",
+      "last_ok": "2026-11-05T20:40:58+09:00",
+      "current_count": 10,
       "count_history": [
         10,
         10,
@@ -213,19 +213,19 @@
         10,
         10,
         10,
-        10,
         6,
-        6
+        6,
+        10
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
-      "note": "0건 감지로 직전값 유지"
+      "note": "갱신 성공"
     },
     {
       "id": "kvca",
       "label": "한국벤처캐피탈협회",
       "status": "ok",
-      "last_ok": "2026-11-05T12:54:57+09:00",
+      "last_ok": "2026-11-05T20:40:59+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -247,7 +247,7 @@
       "id": "ksa",
       "label": "한국표준협회 채용정보",
       "status": "ok",
-      "last_ok": "2026-11-05T12:55:00+09:00",
+      "last_ok": "2026-11-05T20:41:02+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -269,7 +269,7 @@
       "id": "khidi",
       "label": "한국보건산업진흥원 채용공고",
       "status": "ok",
-      "last_ok": "2026-11-05T12:55:02+09:00",
+      "last_ok": "2026-11-05T20:41:04+09:00",
       "current_count": 10,
       "count_history": [
         10,
