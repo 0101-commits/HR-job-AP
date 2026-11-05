@@ -54,111 +54,6 @@
     "company_type": "smb"
   },
   {
-    "id": "kofia-42996",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42996",
-    "title": "[DB증권] ICT본부 정보보호인력 경력직 모집(과장~차장급)",
-    "company": "DB증권",
-    "deadline": "2026-11-04",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-11-04T12:34:19+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42995",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42995",
-    "title": "[KB증권] IT본부 경력직 채용(~11/8)",
-    "company": "KB증권",
-    "deadline": "2026-11-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-04T12:34:19+09:00",
-    "company_group": "KB금융",
-    "company_type": "enterprise"
-  },
-  {
-    "id": "kofia-42994",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42994",
-    "title": "[현대차증권] 내부감사 (경력) 채용 (~11/4)",
-    "company": "현대차증권",
-    "deadline": "2026-11-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-04T12:34:19+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42993",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42993",
-    "title": "삼성화재 연금가입자 고객관리 특화 HRC(Hybrid Risk Consultant) 모집┃금융권 경력자/경력단절자/퇴직자 우대",
-    "company": "삼성화재해상보험",
-    "deadline": "2026-11-04",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-11-04T12:34:19+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42992",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42992",
-    "title": "[상상인증권] 법인 패시브(파생) 지원 채용(모집기간 : 11/2~11/8(기간연장))",
-    "company": "상상인증권",
-    "deadline": "2026-11-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-04T12:34:19+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-42991",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42991",
-    "title": "[상상인증권] 법인 패시브(파생) 영업 채용(모집기간 : 11/2~11/8(기간연장))",
-    "company": "상상인증권",
-    "deadline": "2026-11-04",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-04T12:34:19+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "kvca-3411",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -3330,25 +3225,6 @@
     "deadline": null,
     "role": [
       "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-17T17:05:31+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-363307",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/363307",
-    "title": "인사 운영 및 급여",
-    "company": "피피비스튜디오스(PPB Studios Co.)",
-    "location": "서울",
-    "deadline": "2026-11-04",
-    "role": [
-      "PAY"
     ],
     "hr_confidence": "high",
     "grade": "member",
