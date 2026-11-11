@@ -1,5 +1,41 @@
 [
   {
+    "id": "kvca-3424",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3424",
+    "title": "[아이디벤처스(주)] 투자심사역(임원) 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-11T20:30:33+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3423",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3423",
+    "title": "[블루캐스트인베스트먼트] 투자운용본부(경력직) 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-11T20:30:33+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3422",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -159,38 +195,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-11-04T12:34:21+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3414",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3414",
-    "title": "[대전투자금융(주)] 대표이사 후보자 공개모집 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-11-04T12:34:21+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3411",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3411",
-    "title": "카카오벤처스 기획관리팀 체험형 인턴",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-11-02T20:44:59+09:00",
     "company_type": "smb"
   },
   {
