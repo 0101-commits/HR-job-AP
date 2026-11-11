@@ -1,5 +1,41 @@
 [
   {
+    "id": "kvca-3422",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3422",
+    "title": "[JB인베스트먼트] 투자심사역(경력) 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-11T12:25:17+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kvca-3421",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3421",
+    "title": "[데브시스터즈벤처스] 관리팀 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-11T12:25:17+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3420",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -155,42 +191,6 @@
     "hr_confidence": "review",
     "grade": "member",
     "first_seen": "2026-11-02T20:44:59+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3410",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3410",
-    "title": "위벤처스 투자심사역(경력) 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-02T11:57:35+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3409",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3409",
-    "title": "포스코기술투자 전략투자실 투자심사역 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-30T19:30:09+09:00",
     "company_type": "smb"
   },
   {
