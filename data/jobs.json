@@ -1,5 +1,167 @@
 [
   {
+    "id": "kvca-3425",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3425",
+    "title": "KB인베스트먼트(주) 「성장지원본부」 직원 채용(접수기간 연장)",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:09+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43122",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43122",
+    "title": "[한화투자증권] 오퍼레이션팀_법인결제 업무 직무 경력 채용",
+    "company": "한화투자증권",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43121",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43121",
+    "title": "[한화투자증권] 오퍼레이션팀_본사 텔러 업무 직무 경력 채용",
+    "company": "한화투자증권",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43120",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43120",
+    "title": "[에셋플러스자산운용] 2026년도 하반기 리서치 직무 신입사원 공개 채용",
+    "company": "에셋플러스자산운용",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43119",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43119",
+    "title": "[에셋플러스자산운용] 2026년도 하반기 준법감시 직무 경력직원 채용",
+    "company": "에셋플러스자산운용",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43118",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43118",
+    "title": "[에셋플러스자산운용] 2026년도 하반기 마케팅 직무 경력직원 채용",
+    "company": "에셋플러스자산운용",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43117",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43117",
+    "title": "[상상인증권] 리서치센터 투자전략팀 애널리스트 채용 (11/11~11/25)",
+    "company": "상상인증권",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43116",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43116",
+    "title": "[상상인증권] 리서치센터 인턴 수시 채용 (11/11~11/25)",
+    "company": "상상인증권",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43115",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43115",
+    "title": "씨엘자산운용 운용지원 신입/경력직 채용",
+    "company": "씨엘자산운용",
+    "deadline": "2026-11-12",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-12T13:35:07+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3424",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -178,24 +340,6 @@
     "exp_max": null,
     "first_seen": "2026-11-04T20:39:36+09:00",
     "company_type": "enterprise"
-  },
-  {
-    "id": "kvca-3415",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3415",
-    "title": "스틱벤처스(주) 투자본부 투자심사역 채용",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-04T12:34:21+09:00",
-    "company_type": "smb"
   },
   {
     "id": "wanted-395333",
