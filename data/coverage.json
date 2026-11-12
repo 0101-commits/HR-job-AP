@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T13:35:16+09:00",
+  "updated_at": "2026-11-13T01:23:47+09:00",
   "sources": [
     {
       "id": "jobflex",
@@ -71,7 +71,7 @@
       "id": "jibe",
       "label": "Aon (Jibe JSON)",
       "status": "ok",
-      "last_ok": "2026-11-12T13:35:03+09:00",
+      "last_ok": "2026-11-13T01:23:35+09:00",
       "current_count": 0,
       "count_history": [
         0,
@@ -148,7 +148,7 @@
       "id": "kakao",
       "label": "Kakao Careers",
       "status": "ok",
-      "last_ok": "2026-11-12T13:35:05+09:00",
+      "last_ok": "2026-11-13T01:23:37+09:00",
       "current_count": 3,
       "count_history": [
         3,
@@ -202,30 +202,30 @@
     {
       "id": "kofia",
       "label": "금융투자협회",
-      "status": "ok",
+      "status": "warn",
       "last_ok": "2026-11-12T13:35:07+09:00",
-      "current_count": 10,
+      "current_count": 8,
       "count_history": [
         10,
         10,
         10,
         10,
         10,
+        0,
+        0,
+        0,
         10,
-        0,
-        0,
-        0,
-        10
+        8
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
-      "note": "갱신 성공"
+      "note": "0건 감지로 직전값 유지"
     },
     {
       "id": "kvca",
       "label": "한국벤처캐피탈협회",
       "status": "ok",
-      "last_ok": "2026-11-12T13:35:09+09:00",
+      "last_ok": "2026-11-13T01:23:41+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -247,7 +247,7 @@
       "id": "ksa",
       "label": "한국표준협회 채용정보",
       "status": "ok",
-      "last_ok": "2026-11-12T13:35:12+09:00",
+      "last_ok": "2026-11-13T01:23:45+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -269,7 +269,7 @@
       "id": "khidi",
       "label": "한국보건산업진흥원 채용공고",
       "status": "ok",
-      "last_ok": "2026-11-12T13:35:16+09:00",
+      "last_ok": "2026-11-13T01:23:47+09:00",
       "current_count": 10,
       "count_history": [
         10,
