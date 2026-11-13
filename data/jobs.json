@@ -1,5 +1,185 @@
 [
   {
+    "id": "kofia-43139",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43139",
+    "title": "[키움투자자산운용] 리츠사업본부 리츠사업1팀 팀원 모집 (경력)",
+    "company": "키움투자자산운용",
+    "deadline": "2026-11-13",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43138",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43138",
+    "title": "[KCGI자산운용] 주식운용본부 액티브 운용(대리-과장) 채용 공고",
+    "company": "케이씨지아이자산운용",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43137",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43137",
+    "title": "[KB증권] 금융공학부 경력직(연봉계약직) 채용 (~11/26)",
+    "company": "KB증권",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_group": "KB금융",
+    "company_type": "enterprise"
+  },
+  {
+    "id": "kofia-43136",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43136",
+    "title": "[한국투자신탁운용] 해외투자전략부 경력직원 채용공고(~11/29)",
+    "company": "한국투자신탁운용",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43135",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43135",
+    "title": "[현대인베스트먼트자산운용] 컴플라이언스팀 대리-차장급 채용 (~11/20)",
+    "company": "현대인베스트먼트자산운용",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43134",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43134",
+    "title": "[카디안자산운용] 주식운용본부 인턴 채용 (2027년 상반기)",
+    "company": "카디안자산운용",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43133",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43133",
+    "title": "[카디안자산운용] 채권운용본부 인턴 채용 (2027년 상반기)",
+    "company": "카디안자산운용",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43132",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43132",
+    "title": "[카디안자산운용] 채권운용본부 채권운용팀 - 채권 펀드매니저 채용 (차/부장급)",
+    "company": "카디안자산운용",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43131",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43131",
+    "title": "[KIS자산평가] 대체평가본부 수익증권 신입/경력 채용 공고",
+    "company": "KIS자산평가",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA",
+      "CB"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43130",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43130",
+    "title": "[DS투자증권] 본사 준법감시팀 신입/경력직 채용 (~11/22)",
+    "company": "DS투자증권",
+    "deadline": "2026-11-13",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-13T12:48:42+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3426",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
