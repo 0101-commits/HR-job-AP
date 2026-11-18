@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:52:48+09:00",
+  "updated_at": "2026-11-19T01:46:38+09:00",
   "sources": [
     {
       "id": "jobflex",
@@ -71,7 +71,7 @@
       "id": "jibe",
       "label": "Aon (Jibe JSON)",
       "status": "ok",
-      "last_ok": "2026-11-18T13:52:38+09:00",
+      "last_ok": "2026-11-19T01:45:53+09:00",
       "current_count": 0,
       "count_history": [
         0,
@@ -147,7 +147,7 @@
     {
       "id": "kakao",
       "label": "Kakao Careers",
-      "status": "ok",
+      "status": "fail",
       "last_ok": "2026-11-18T13:52:39+09:00",
       "current_count": 3,
       "count_history": [
@@ -164,7 +164,7 @@
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
-      "note": "갱신 성공"
+      "note": "수집 실패 — 직전값 유지: <urlopen error timed out>"
     },
     {
       "id": "saramin",
@@ -180,11 +180,10 @@
     {
       "id": "wanted",
       "label": "원티드 안전망",
-      "status": "fail",
-      "last_ok": "2026-10-29T12:07:02+09:00",
-      "current_count": 243,
+      "status": "ok",
+      "last_ok": "2026-11-19T01:46:28+09:00",
+      "current_count": 268,
       "count_history": [
-        269,
         269,
         270,
         270,
@@ -193,25 +192,26 @@
         266,
         275,
         280,
-        262
+        262,
+        268
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
-      "note": "수집 실패 — 직전값 유지: HTTP Error 403: Forbidden"
+      "note": "갱신 성공"
     },
     {
       "id": "kofia",
       "label": "금융투자협회",
       "status": "ok",
-      "last_ok": "2026-11-18T13:52:41+09:00",
+      "last_ok": "2026-11-19T01:46:30+09:00",
       "current_count": 10,
       "count_history": [
         10,
         10,
         10,
         10,
-        10,
         0,
+        10,
         10,
         10,
         10,
@@ -225,7 +225,7 @@
       "id": "kvca",
       "label": "한국벤처캐피탈협회",
       "status": "ok",
-      "last_ok": "2026-11-18T13:52:42+09:00",
+      "last_ok": "2026-11-19T01:46:32+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -247,7 +247,7 @@
       "id": "ksa",
       "label": "한국표준협회 채용정보",
       "status": "ok",
-      "last_ok": "2026-11-18T13:52:45+09:00",
+      "last_ok": "2026-11-19T01:46:34+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -269,7 +269,7 @@
       "id": "khidi",
       "label": "한국보건산업진흥원 채용공고",
       "status": "ok",
-      "last_ok": "2026-11-18T13:52:48+09:00",
+      "last_ok": "2026-11-19T01:46:38+09:00",
       "current_count": 10,
       "count_history": [
         10,
