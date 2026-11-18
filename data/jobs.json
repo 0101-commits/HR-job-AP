@@ -1,5 +1,75 @@
 [
   {
+    "id": "kofia-43189",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43189",
+    "title": "[인턴십] 컴플라이언스(체험형)",
+    "company": "카카오페이증권",
+    "deadline": "2026-11-18",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-11-18T13:52:41+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43188",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43188",
+    "title": "[자산운용현] 경영관리본부 경력직 채용",
+    "company": "자산운용현",
+    "deadline": "2026-11-18",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-18T13:52:41+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43187",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43187",
+    "title": "[무궁화신탁] 재무회계팀 계약직 채용공고",
+    "company": "무궁화신탁",
+    "deadline": "2026-11-18",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-18T13:52:41+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43186",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43186",
+    "title": "[유화증권] 법인영업 운용지원 6급 오퍼레이터 신입·경력직원 채용공고",
+    "company": "유화증권",
+    "deadline": "2026-11-18",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-18T13:52:41+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3427",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -3338,16 +3408,14 @@
     "source": "ksa",
     "source_label": "한국표준협회 채용정보",
     "url": "https://www.ksa.or.kr/bbs/ksa_kr/757/1590743/artclView.do",
-    "title": "[채용공고] 2026년 AI훈련코치 전문가 모집 공고(2차) (수도권 담당 / 서울, 경기",
+    "title": "2026년 AI훈련코치 전문가 모집 공고(2차) (수도권 담당 / 서울, 경기, 인천, 강",
     "company": "한국표준협회 채용정보",
     "deadline": null,
     "role": [
-      "TA"
+      "HRM"
     ],
-    "hr_confidence": "high",
+    "hr_confidence": "review",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-09-29T19:10:55+09:00",
     "company_type": "smb"
   },
@@ -3524,16 +3592,14 @@
     "source": "ksa",
     "source_label": "한국표준협회 채용정보",
     "url": "https://www.ksa.or.kr/bbs/ksa_kr/757/1590129/artclView.do",
-    "title": "[채용공고] 2026년 AI훈련코치 전문가 모집 공고 (수도권 담당 / 서울, 경기, 인",
+    "title": "2026년 AI훈련코치 전문가 모집 공고 (수도권 담당 / 서울, 경기, 인천, 강원 지역",
     "company": "한국표준협회 채용정보",
     "deadline": null,
     "role": [
-      "TA"
+      "HRM"
     ],
-    "hr_confidence": "high",
+    "hr_confidence": "review",
     "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-08-13T14:54:14+09:00",
     "company_type": "smb"
   },
