@@ -1,5 +1,95 @@
 [
   {
+    "id": "kvca-3428",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3428",
+    "title": "[한국성장금융투자운용] 2026년도 제4차 경력직원 채용(준법/법무 부문)",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-19T13:44:14+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43198",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43198",
+    "title": "[플러스자산운용]Equity운용팀 전문인력(팀장~본부장급) 채용공고",
+    "company": "플러스자산운용",
+    "deadline": "2026-11-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "lead",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-19T13:44:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43197",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43197",
+    "title": "이지스엑스자산운용_대체투자팀 채용공고",
+    "company": "이지스엑스자산운용",
+    "deadline": "2026-11-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-19T13:44:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43196",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43196",
+    "title": "[한국성장금융투자운용] 2026년도 제4차 경력직원 채용(준법/법무 부문)",
+    "company": "한국성장금융투자운용",
+    "deadline": "2026-11-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-19T13:44:13+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43195",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43195",
+    "title": "[아이엠증권] 기업금융 경력직 채용",
+    "company": "아이엠증권",
+    "deadline": "2026-11-19",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-19T13:44:13+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "wanted-399058",
     "source": "wanted",
     "source_label": "원티드",
@@ -2017,24 +2107,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-11-10T13:55:42+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3418",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3418",
-    "title": "일신창업투자 벤처투자본부(경력직) 채용공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-09T21:14:35+09:00",
     "company_type": "smb"
   },
   {
