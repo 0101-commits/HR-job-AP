@@ -1,5 +1,201 @@
 [
   {
+    "id": "kvca-3429",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3429",
+    "title": "[포항공과대학교기술지주(포스텍홀딩스)] 투자심사역(시니어/주니어) 채용",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "mid",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:53+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43226",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43226",
+    "title": "[우리투자증권] 리테일영업본부 영업솔루션부 경력직 채용(자산배분전략)",
+    "company": "우리투자증권",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43225",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43225",
+    "title": "[한화자산운용] 펀드회계팀 경력직 채용 (~12/4)",
+    "company": "한화자산운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43224",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43224",
+    "title": "[한화자산운용] IT보안팀(보안 엔지니어) 경력직 채용 (~12/4)",
+    "company": "한화자산운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43223",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43223",
+    "title": "[미래에셋증권] Global Equity솔루션팀 채용",
+    "company": "미래에셋증권",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43222",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43222",
+    "title": "[대신자산운용] 마케팅본부 리테일마케팅 경력직(과장~차장급)",
+    "company": "대신자산운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "review",
+    "grade": "member",
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43221",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43221",
+    "title": "[마스턴투자운용] 경력사원 수시채용(국내운용부문, ~12/3)",
+    "company": "마스턴투자운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43220",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43220",
+    "title": "[신한자산운용] 채권투자운용본부 채권운용1팀 채용(과장~차장급)",
+    "company": "신한자산운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43219",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43219",
+    "title": "[헤리티지자산운용] 부동산PF부문 경력직 채용공고(과장급)",
+    "company": "헤리티지자산운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43218",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43218",
+    "title": "[우리자산운용] 법인영업본부 채용공고(~12/06)",
+    "company": "우리자산운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43217",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43217",
+    "title": "[삼성자산운용] 리스크관리본부 대체투자심사팀 경력 채용 안내 (~12/13)",
+    "company": "삼성자산운용",
+    "deadline": "2026-11-20",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-20T13:35:52+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3428",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -2007,24 +2203,6 @@
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3420",
     "title": "(주)리젠트파트너스 투자심사역 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-10T13:55:42+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3419",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3419",
-    "title": "[더웰스인베스트먼트] 관리팀 경력직 채용 (사원~대리급)",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
