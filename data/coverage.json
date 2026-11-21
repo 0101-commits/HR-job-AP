@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:27:37+09:00",
+  "updated_at": "2026-11-21T13:29:38+09:00",
   "sources": [
     {
       "id": "jobflex",
@@ -71,7 +71,7 @@
       "id": "jibe",
       "label": "Aon (Jibe JSON)",
       "status": "ok",
-      "last_ok": "2026-11-21T01:27:27+09:00",
+      "last_ok": "2026-11-21T13:29:29+09:00",
       "current_count": 0,
       "count_history": [
         0,
@@ -148,7 +148,7 @@
       "id": "kakao",
       "label": "Kakao Careers",
       "status": "ok",
-      "last_ok": "2026-11-21T01:27:29+09:00",
+      "last_ok": "2026-11-21T13:29:30+09:00",
       "current_count": 3,
       "count_history": [
         3,
@@ -182,7 +182,7 @@
       "label": "원티드 안전망",
       "status": "fail",
       "last_ok": "2026-11-19T01:46:28+09:00",
-      "current_count": 264,
+      "current_count": 263,
       "count_history": [
         269,
         270,
@@ -203,10 +203,9 @@
       "id": "kofia",
       "label": "금융투자협회",
       "status": "ok",
-      "last_ok": "2026-11-21T01:27:31+09:00",
-      "current_count": 10,
+      "last_ok": "2026-11-21T13:29:32+09:00",
+      "current_count": 0,
       "count_history": [
-        0,
         10,
         10,
         10,
@@ -215,7 +214,8 @@
         10,
         4,
         10,
-        10
+        10,
+        0
       ],
       "suspect_missing": 0,
       "parse_fail_rate": 0,
@@ -225,7 +225,7 @@
       "id": "kvca",
       "label": "한국벤처캐피탈협회",
       "status": "ok",
-      "last_ok": "2026-11-21T01:27:32+09:00",
+      "last_ok": "2026-11-21T13:29:34+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -247,7 +247,7 @@
       "id": "ksa",
       "label": "한국표준협회 채용정보",
       "status": "ok",
-      "last_ok": "2026-11-21T01:27:35+09:00",
+      "last_ok": "2026-11-21T13:29:36+09:00",
       "current_count": 10,
       "count_history": [
         10,
@@ -269,7 +269,7 @@
       "id": "khidi",
       "label": "한국보건산업진흥원 채용공고",
       "status": "ok",
-      "last_ok": "2026-11-21T01:27:37+09:00",
+      "last_ok": "2026-11-21T13:29:38+09:00",
       "current_count": 10,
       "count_history": [
         10,
