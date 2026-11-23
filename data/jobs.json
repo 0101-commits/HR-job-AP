@@ -1,10 +1,10 @@
 [
   {
-    "id": "kvca-3431",
+    "id": "kvca-3420",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3431",
-    "title": "[제이원창업투자] 심사역 채용 공고",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3420",
+    "title": "(주)리젠트파트너스 투자심사역 채용 공고",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
@@ -14,43 +14,7 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-11-23T13:20:07+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43241",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43241",
-    "title": "[현대자산운용] 준법감시팀(사내변호사) 경력직 채용",
-    "company": "현대자산운용",
-    "deadline": "2026-11-23",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-23T13:20:05+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43240",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43240",
-    "title": "[IBK자산운용(주)] 채권운용본부 신입/경력직 채용공고",
-    "company": "아이비케이자산운용",
-    "deadline": "2026-11-23",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-23T13:20:05+09:00",
+    "first_seen": "2026-11-24T04:34:03+09:00",
     "company_type": "smb"
   },
   {
