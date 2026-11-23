@@ -1,5 +1,59 @@
 [
   {
+    "id": "kvca-3431",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3431",
+    "title": "[제이원창업투자] 심사역 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-23T13:20:07+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43241",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43241",
+    "title": "[현대자산운용] 준법감시팀(사내변호사) 경력직 채용",
+    "company": "현대자산운용",
+    "deadline": "2026-11-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-23T13:20:05+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43240",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43240",
+    "title": "[IBK자산운용(주)] 채권운용본부 신입/경력직 채용공고",
+    "company": "아이비케이자산운용",
+    "deadline": "2026-11-23",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-23T13:20:05+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3430",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -696,25 +750,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-397681",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/397681",
-    "title": "[SK plasma] SK플라즈마 안동공장 인사(HR) 담당",
-    "company": "에스케이그룹 (SK)",
-    "location": "경북",
-    "deadline": "2026-11-22",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-19T01:46:28+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-397658",
     "source": "wanted",
     "source_label": "원티드",
@@ -1142,25 +1177,6 @@
     "deadline": null,
     "role": [
       "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-19T01:46:28+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-396632",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/396632",
-    "title": "[CHAI CRE.W] HRM 담당자(경력 5년 이하)",
-    "company": "차이커뮤니케이션",
-    "location": "서울",
-    "deadline": "2026-11-22",
-    "role": [
-      "HRM"
     ],
     "hr_confidence": "high",
     "grade": "member",
@@ -1948,24 +1964,6 @@
     "company_type": "smb"
   },
   {
-    "id": "kvca-3425",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3425",
-    "title": "KB인베스트먼트(주) 「성장지원본부」 직원 채용(접수기간 연장)",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-12T13:35:09+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "kvca-3424",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -2521,25 +2519,6 @@
     "company": "씨제이올리브영(CJ올리브영)",
     "location": "서울",
     "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-10-23T11:13:08+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-393157",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/393157",
-    "title": "HR 매니저(신입~3년, 인사/총무/채용)",
-    "company": "포스타입",
-    "location": "서울",
-    "deadline": "2026-11-22",
     "role": [
       "TA"
     ],
