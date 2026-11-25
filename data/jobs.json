@@ -1,5 +1,23 @@
 [
   {
+    "id": "kvca-3434",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3434",
+    "title": "(주)무신사파트너스 관리팀(경력직) 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-26T03:14:24+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3433",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -15,150 +33,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-11-25T14:50:32+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43288",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43288",
-    "title": "[에셋플러스자산운용] 2026년도 하반기 운용지원 직무 직원 수시채용 (경력 우대 / 신입 가능)",
-    "company": "에셋플러스자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43287",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43287",
-    "title": "[에셋플러스자산운용] 2026년도 하반기 총무 직무 직원 채용 (경력 우대 / 신입 가능)",
-    "company": "에셋플러스자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43286",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43286",
-    "title": "[스마일게이트자산운용] 컴플리스크관리팀 채용(~12/13)",
-    "company": "스마일게이트자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43285",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43285",
-    "title": "마이다스에셋자산운용㈜ 채권운용본부 채용공고",
-    "company": "마이다스에셋자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43284",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43284",
-    "title": "[케이와이프라이빗에쿼티] 운용팀 체험형 인턴 채용",
-    "company": "브레인자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43283",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43283",
-    "title": "[브레인자산운용] 운용부문 체험형 인턴 채용",
-    "company": "브레인자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43282",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43282",
-    "title": "[DB자산운용] 전주사무소 마케팅 지원 계약직 채용",
-    "company": "디비자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43281",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43281",
-    "title": "[IBK자산운용(주)] 대체투자본부 인프라운용팀 경력직 채용공고",
-    "company": "아이비케이자산운용",
-    "deadline": "2026-11-25",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-25T14:50:30+09:00",
     "company_type": "smb"
   },
   {
@@ -2440,24 +2314,6 @@
     "source_label": "한국벤처캐피탈협회",
     "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3424",
     "title": "[아이디벤처스(주)] 투자심사역(임원) 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-11T20:30:33+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3423",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3423",
-    "title": "[블루캐스트인베스트먼트] 투자운용본부(경력직) 채용 공고",
     "company": "한국벤처캐피탈협회",
     "deadline": null,
     "role": [
