@@ -1,5 +1,263 @@
 [
   {
+    "id": "kvca-3433",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3433",
+    "title": "[JB인베스트먼트] 투자심사역(경력) 채용 공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:32+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43288",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43288",
+    "title": "[에셋플러스자산운용] 2026년도 하반기 운용지원 직무 직원 수시채용 (경력 우대 / 신입 가능)",
+    "company": "에셋플러스자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43287",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43287",
+    "title": "[에셋플러스자산운용] 2026년도 하반기 총무 직무 직원 채용 (경력 우대 / 신입 가능)",
+    "company": "에셋플러스자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43286",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43286",
+    "title": "[스마일게이트자산운용] 컴플리스크관리팀 채용(~12/13)",
+    "company": "스마일게이트자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43285",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43285",
+    "title": "마이다스에셋자산운용㈜ 채권운용본부 채용공고",
+    "company": "마이다스에셋자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43284",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43284",
+    "title": "[케이와이프라이빗에쿼티] 운용팀 체험형 인턴 채용",
+    "company": "브레인자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43283",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43283",
+    "title": "[브레인자산운용] 운용부문 체험형 인턴 채용",
+    "company": "브레인자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43282",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43282",
+    "title": "[DB자산운용] 전주사무소 마케팅 지원 계약직 채용",
+    "company": "디비자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "kofia-43281",
+    "source": "kofia",
+    "source_label": "금융투자협회",
+    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43281",
+    "title": "[IBK자산운용(주)] 대체투자본부 인프라운용팀 경력직 채용공고",
+    "company": "아이비케이자산운용",
+    "deadline": "2026-11-25",
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:30+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-400092",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/400092",
+    "title": "HR Business Partner - Global E-Commerce Operations -Tokyo/Seoul",
+    "company": "틱톡(TikTok)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "BP"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:28+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-400090",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/400090",
+    "title": "Recruiting Researcher, Executive Engagement - APAC",
+    "company": "넷플릭스(Netflix)",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA",
+      "OD"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:28+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-400064",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/400064",
+    "title": "채용 어시스턴트(Recruiting Assistant)",
+    "company": "토스씨엑스",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:28+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-399968",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/399968",
+    "title": "[Dr.Reju-All] 리크루터",
+    "company": "네오심플릭스",
+    "location": "서울",
+    "deadline": null,
+    "role": [
+      "TA"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:28+09:00",
+    "company_type": "smb"
+  },
+  {
+    "id": "wanted-399922",
+    "source": "wanted",
+    "source_label": "원티드",
+    "url": "https://www.wanted.co.kr/wd/399922",
+    "title": "인사운영 담당자",
+    "company": "위메이드(WEMADE)",
+    "location": "경기",
+    "deadline": "2026-12-23",
+    "role": [
+      "HRM"
+    ],
+    "hr_confidence": "high",
+    "grade": "member",
+    "exp_min": null,
+    "exp_max": null,
+    "first_seen": "2026-11-25T14:50:28+09:00",
+    "company_type": "smb"
+  },
+  {
     "id": "kvca-3432",
     "source": "kvca",
     "source_label": "한국벤처캐피탈협회",
@@ -960,25 +1218,6 @@
     "grade": "lead",
     "exp_min": 7,
     "exp_max": 12,
-    "first_seen": "2026-11-19T01:46:28+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-397883",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/397883",
-    "title": "조직문화 담당자 (신입)",
-    "company": "게임듀오",
-    "location": "경기",
-    "deadline": null,
-    "role": [
-      "OD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-11-19T01:46:28+09:00",
     "company_type": "smb"
   },
@@ -2229,24 +2468,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-11-11T20:30:33+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3422",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3422",
-    "title": "[JB인베스트먼트] 투자심사역(경력) 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-11T12:25:17+09:00",
     "company_type": "smb"
   },
   {
@@ -4820,25 +5041,6 @@
     ],
     "hr_confidence": "review",
     "grade": "member",
-    "first_seen": "2026-08-12T14:17:00+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "wanted-360254",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/360254",
-    "title": "HR Lead",
-    "company": "누비랩",
-    "location": "서울",
-    "deadline": null,
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
     "first_seen": "2026-08-12T14:17:00+09:00",
     "company_type": "smb"
   },
