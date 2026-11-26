@@ -1,12 +1,12 @@
 [
   {
-    "id": "kofia-43305",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43305",
-    "title": "[케이핀자산운용] 경영관리본부 채용연계형 인턴 채용 (재공고)",
-    "company": "케이핀자산운용",
-    "deadline": "2026-11-26",
+    "id": "kvca-3435",
+    "source": "kvca",
+    "source_label": "한국벤처캐피탈협회",
+    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3435",
+    "title": "키로스벤처투자㈜ 관리본부(경력직) 채용공고",
+    "company": "한국벤처캐피탈협회",
+    "deadline": null,
     "role": [
       "TA"
     ],
@@ -14,111 +14,7 @@
     "grade": "member",
     "exp_min": null,
     "exp_max": null,
-    "first_seen": "2026-11-26T14:41:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43304",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43304",
-    "title": "[토스증권] 국내주식 결제 담당자 (주니어) (Securities Settlement Manager)",
-    "company": "토스증권",
-    "deadline": "2026-11-26",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "mid",
-    "first_seen": "2026-11-26T14:41:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43303",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43303",
-    "title": "[토스증권] 절세 상품 운영 매니저 (ISA)",
-    "company": "토스증권",
-    "deadline": "2026-11-26",
-    "role": [
-      "HRM"
-    ],
-    "hr_confidence": "review",
-    "grade": "member",
-    "first_seen": "2026-11-26T14:41:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43302",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43302",
-    "title": "[페블즈자산운용] 대체펀드 운용역(대리/과장급) 채용 공고",
-    "company": "페블즈자산운용",
-    "deadline": "2026-11-26",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-26T14:41:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43301",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43301",
-    "title": "[크리에이트자산운용㈜] 자산운용본부 자산운용팀장 인력 채용",
-    "company": "크리에이트자산운용",
-    "deadline": "2026-11-26",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "lead",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-26T14:41:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43300",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43300",
-    "title": "[한화투자증권] 경력 변호사 채용(차장급)",
-    "company": "한화투자증권",
-    "deadline": "2026-11-26",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-26T14:41:09+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kofia-43299",
-    "source": "kofia",
-    "source_label": "금융투자협회",
-    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43299",
-    "title": "[한화투자증권] 상품운용팀 재산신탁 경력 채용",
-    "company": "한화투자증권",
-    "deadline": "2026-11-26",
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-26T14:41:09+09:00",
+    "first_seen": "2026-11-27T02:55:59+09:00",
     "company_type": "smb"
   },
   {
@@ -2428,24 +2324,6 @@
     "exp_min": null,
     "exp_max": null,
     "first_seen": "2026-11-13T01:23:41+09:00",
-    "company_type": "smb"
-  },
-  {
-    "id": "kvca-3424",
-    "source": "kvca",
-    "source_label": "한국벤처캐피탈협회",
-    "url": "https://www.kvca.or.kr/Program/user_board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=3_2&keyfield=&key=&page=1&type=R&po_no=3424",
-    "title": "[아이디벤처스(주)] 투자심사역(임원) 채용 공고",
-    "company": "한국벤처캐피탈협회",
-    "deadline": null,
-    "role": [
-      "TA"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-11T20:30:33+09:00",
     "company_type": "smb"
   },
   {
