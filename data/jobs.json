@@ -719,25 +719,6 @@
     "company_type": "smb"
   },
   {
-    "id": "wanted-398858",
-    "source": "wanted",
-    "source_label": "원티드",
-    "url": "https://www.wanted.co.kr/wd/398858",
-    "title": "[롯데월드] HRD",
-    "company": "롯데그룹 (LOTTE)",
-    "location": "서울",
-    "deadline": "2026-11-27",
-    "role": [
-      "HRD"
-    ],
-    "hr_confidence": "high",
-    "grade": "member",
-    "exp_min": null,
-    "exp_max": null,
-    "first_seen": "2026-11-19T01:46:28+09:00",
-    "company_type": "smb"
-  },
-  {
     "id": "wanted-398789",
     "source": "wanted",
     "source_label": "원티드",
